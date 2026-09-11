@@ -1,0 +1,1151 @@
+example_id,thread_id,customer_message,spotify_reply,full_thread_reference,provisional_intent_guess
+E001,19049,"@SpotifyCares Look, I know the geoip databases get @112074 wrong, but you KNOW MY BILLING ADDRESS. Stop using guesswork to market to me and USE MY PROVIDED INFORMATION. I have a right to rectification that you're making impossible. #DataProtection #GDPR https://t.co/OgDINBn6Uk
+
+@SpotifyCares What more info do you need? The original tweet had it all.
+
+@SpotifyCares Do you think it only affects me? That all other users get their correct location from your database but mine and mine alone is pulled from IP?
+
+@SpotifyCares I've told you what's happening. I keep getting this with you - I don't work for you, I've given you more information about your bug than you'd get from a non-technical person and certainly enough to diagnose the issue. You have my username, why do you need my ip and email??
+
+@SpotifyCares Is this the way your support works, DM PII or you refuse to help?","@496327 Hi Matthew! Sorry to hear that. We'll help you out, just send us more info regarding your concern over DM and we'll start from there /SF https://t.co/ldFdZRiNAt
+
+@496327 Got it. We need you to send us your IP address, email address and other info that we prefer you send us over DM. We'll be waiting /SF
+
+@496327 We understand. We just want to take a closer look at your case and see what's specifically happening. Hope you DM us the info /SF https://t.co/ldFdZRiNAt
+
+@496327 1: As the info we're requesting is private, it's better to get it through a DM. However, if you wish to stop receiving notifications...
+
+@496327 2: through email, follow these steps: https://t.co/NikHCtXdso. Let's us know how you get on /SF","[Tue Nov 14 17:00:02 +0000 2017] [Customer @496327]: @SpotifyCares Look, I know the geoip databases get @112074 wrong, but you KNOW MY BILLING ADDRESS. Stop using guesswork to market to me and USE MY PROVIDED INFORMATION. I have a right to rectification that you're making impossible. #DataProtection #GDPR https://t.co/OgDINBn6Uk 
+[Tue Nov 14 18:16:14 +0000 2017] [Spotify Support @SpotifyCares]: @496327 Hi Matthew! Sorry to hear that. We'll help you out, just send us more info regarding your concern over DM and we'll start from there /SF https://t.co/ldFdZRiNAt 
+[Tue Nov 14 19:03:13 +0000 2017] [Customer @496327]: @SpotifyCares What more info do you need? The original tweet had it all. 
+[Tue Nov 14 19:17:10 +0000 2017] [Spotify Support @SpotifyCares]: @496327 Got it. We need you to send us your IP address, email address and other info that we prefer you send us over DM. We'll be waiting /SF 
+[Tue Nov 14 19:43:12 +0000 2017] [Customer @496327]: @SpotifyCares Do you think it only affects me? That all other users get their correct location from your database but mine and mine alone is pulled from IP? 
+[Tue Nov 14 19:54:50 +0000 2017] [Spotify Support @SpotifyCares]: @496327 We understand. We just want to take a closer look at your case and see what's specifically happening. Hope you DM us the info /SF https://t.co/ldFdZRiNAt 
+[Tue Nov 14 19:58:24 +0000 2017] [Customer @496327]: @SpotifyCares I've told you what's happening. I keep getting this with you - I don't work for you, I've given you more information about your bug than you'd get from a non-technical person and certainly enough to diagnose the issue. You have my username, why do you need my ip and email?? 
+[Tue Nov 14 19:58:47 +0000 2017] [Customer @496327]: @SpotifyCares Is this the way your support works, DM PII or you refuse to help? 
+[Tue Nov 14 21:15:05 +0000 2017] [Spotify Support @SpotifyCares]: @496327 1: As the info we're requesting is private, it's better to get it through a DM. However, if you wish to stop receiving notifications... 
+[Tue Nov 14 21:15:13 +0000 2017] [Spotify Support @SpotifyCares]: @496327 2: through email, follow these steps: https://t.co/NikHCtXdso. Let's us know how you get on /SF",Subscription & Billing Issues
+E002,12134,I really wish there was a way to view your previous @115888 Discover Weekly playlists. I always forget to save songs before monday rolls in,"@737369 Hey, we hear you! We're passing on all feedback around this – thanks for sharing your thoughts 💚 /JP","[Mon Oct 30 18:38:26 +0000 2017] [Customer @737369]: I really wish there was a way to view your previous @115888 Discover Weekly playlists. I always forget to save songs before monday rolls in 
+[Mon Oct 30 20:51:35 +0000 2017] [Spotify Support @SpotifyCares]: @737369 Hey, we hear you! We're passing on all feedback around this – thanks for sharing your thoughts 💚 /JP",Playlist & Library Management
+E003,12606,"Hey @SpotifyCares did you take ""You shook me all night long"" off spotify just to piss me off? Why remove the greatest song ever made?
+
+@SpotifyCares AC/DC....
+
+@SpotifyCares Well done, guys. 👍🏼 https://t.co/s9HZ9EqjEX","@116394 Hey Dustin, we're sorry to hear that! Can you let us know the name of the artist of that track? We'll check it out /NS
+
+@116394 Thanks. Sometimes content gets temporarily removed because of licensing changes. Hopefully we'll have it available again soon! /NS
+
+@116394 Sorry about that. We’d love to have all of their stuff available, but we have some info about content here: https://t.co/MEjmIRL2eB /JQ","[Tue Oct 31 19:59:54 +0000 2017] [Customer @116394]: Hey @SpotifyCares did you take ""You shook me all night long"" off spotify just to piss me off? Why remove the greatest song ever made? 
+[Tue Oct 31 22:45:23 +0000 2017] [Spotify Support @SpotifyCares]: @116394 Hey Dustin, we're sorry to hear that! Can you let us know the name of the artist of that track? We'll check it out /NS 
+[Tue Oct 31 22:46:10 +0000 2017] [Customer @116394]: @SpotifyCares AC/DC.... 
+[Tue Oct 31 23:09:07 +0000 2017] [Spotify Support @SpotifyCares]: @116394 Thanks. Sometimes content gets temporarily removed because of licensing changes. Hopefully we'll have it available again soon! /NS 
+[Wed Nov 01 19:25:58 +0000 2017] [Customer @116394]: @SpotifyCares Well done, guys. 👍🏼 https://t.co/s9HZ9EqjEX 
+[Wed Nov 01 20:00:38 +0000 2017] [Spotify Support @SpotifyCares]: @116394 Sorry about that. We’d love to have all of their stuff available, but we have some info about content here: https://t.co/MEjmIRL2eB /JQ",Feature Requests & Device Support
+E004,21682,"very confused atm. i'm listening to an FFDP album on @115888 and this song is on: https://t.co/385PHThNfV except it's very clearly Bad Company. the track labeled as Bad Company (https://t.co/No1xPvx7Of) is actually War is the Answer. pls fix @SpotifyCares
+
+@SpotifyCares Still wrong on my end! https://t.co/iZFfqUcg6E Easy to tell since the official lengths of the songs are 4:22 for Bad Company and ~3:20 for War Is The Answer: https://t.co/46wLgDhPfI
+
+@SpotifyCares I'm on an MSI laptop running Windows 10 and spotify version 1.0.67.582.g19436fa3
+
+@SpotifyCares I didn't get a chance to reinstall but I checked on two other devices (my phone &amp; PC) and think I figured it out. If you search directly for the album, it's correct (https://t.co/FkL35W5T66 -&gt; https://t.co/8L81ukNYXK), but the artist page is wrong (https://t.co/itNnTnIsy7).","@766862 Hey there! We've checked it out, and everything seems to be fine on our end. Could you try logging out and logging back in again? That should fix the issue. Let us know how it goes 🙂 /KA
+
+@766862 Hmm. Can you tell us your device, operating system, and the version of Spotify you're using? It'd also be great if you could try reinstalling the app by following the steps here: https://t.co/EqisDMwZAT /KA
+
+@766862 Thanks! Just to check, have you already tried reinstalling the app? If so, can you let us know how it went? Also, if you have any other devices, we suggest checking the tracks over there to see if you stumble across the same issue. Keep us posted /KA
+
+@766862 Hmm, that's odd! Can you DM us your account's email address or username? We'll take a look backstage /GT https://t.co/ldFdZRiNAt","[Mon Nov 20 17:19:26 +0000 2017] [Customer @766862]: very confused atm. i'm listening to an FFDP album on @115888 and this song is on: https://t.co/385PHThNfV except it's very clearly Bad Company. the track labeled as Bad Company (https://t.co/No1xPvx7Of) is actually War is the Answer. pls fix @SpotifyCares 
+[Mon Nov 20 18:47:04 +0000 2017] [Spotify Support @SpotifyCares]: @766862 Hey there! We've checked it out, and everything seems to be fine on our end. Could you try logging out and logging back in again? That should fix the issue. Let us know how it goes 🙂 /KA 
+[Mon Nov 20 18:49:02 +0000 2017] [Customer @766862]: @SpotifyCares Still wrong on my end! https://t.co/iZFfqUcg6E Easy to tell since the official lengths of the songs are 4:22 for Bad Company and ~3:20 for War Is The Answer: https://t.co/46wLgDhPfI 
+[Mon Nov 20 20:27:19 +0000 2017] [Spotify Support @SpotifyCares]: @766862 Hmm. Can you tell us your device, operating system, and the version of Spotify you're using? It'd also be great if you could try reinstalling the app by following the steps here: https://t.co/EqisDMwZAT /KA 
+[Mon Nov 20 20:28:20 +0000 2017] [Customer @766862]: @SpotifyCares I'm on an MSI laptop running Windows 10 and spotify version 1.0.67.582.g19436fa3 
+[Mon Nov 20 21:34:39 +0000 2017] [Spotify Support @SpotifyCares]: @766862 Thanks! Just to check, have you already tried reinstalling the app? If so, can you let us know how it went? Also, if you have any other devices, we suggest checking the tracks over there to see if you stumble across the same issue. Keep us posted /KA 
+[Mon Nov 20 21:58:37 +0000 2017] [Customer @766862]: @SpotifyCares I didn't get a chance to reinstall but I checked on two other devices (my phone &amp; PC) and think I figured it out. If you search directly for the album, it's correct (https://t.co/FkL35W5T66 -&gt; https://t.co/8L81ukNYXK), but the artist page is wrong (https://t.co/itNnTnIsy7). 
+[Mon Nov 20 22:27:34 +0000 2017] [Spotify Support @SpotifyCares]: @766862 Hmm, that's odd! Can you DM us your account's email address or username? We'll take a look backstage /GT https://t.co/ldFdZRiNAt",Content Availability & Licensing
+E005,8525,@115888 can y'all please update your roku app,@348909 Hey there! Can you tell us what's happening exactly? We'll see what we can suggest /CH,"[Sat Oct 21 19:40:49 +0000 2017] [Customer @348909]: @115888 can y'all please update your roku app 
+[Sat Oct 21 23:00:20 +0000 2017] [Spotify Support @SpotifyCares]: @348909 Hey there! Can you tell us what's happening exactly? We'll see what we can suggest /CH",Other / Unclear
+E006,2015,please please please please get rid of the 3k offline download limit my plants are dying @115888 @SpotifyCares,"@200758 Hi Claudia, we hear you! We’d love to see your vote, and hear your feedback on this idea: https://t.co/Z9OErWpTNz /GT","[Sun Oct 08 13:55:01 +0000 2017] [Customer @200758]: please please please please get rid of the 3k offline download limit my plants are dying @115888 @SpotifyCares 
+[Sun Oct 08 15:03:42 +0000 2017] [Spotify Support @SpotifyCares]: @200758 Hi Claudia, we hear you! We’d love to see your vote, and hear your feedback on this idea: https://t.co/Z9OErWpTNz /GT",Playback & Technical Errors
+E007,14189,"@SpotifyCares Can't join the Premium of Family Plan.The error message is either: 4 @ Undefine - Oops something went wrong, please try again
+
+@SpotifyCares Tried Solution: -Clear Cookies, Open in Incognito, Change Devices. Exactly same address. None of these help.","@593569 Hey Mirza, help's here! Can you DM us your account's username and email address? We'll get this sorted /TY https://t.co/ldFdZRiNAt","[Sat Nov 04 11:08:36 +0000 2017] [Customer @593569]: @SpotifyCares Can't join the Premium of Family Plan.The error message is either: 4 @ Undefine - Oops something went wrong, please try again 
+[Sat Nov 04 11:10:00 +0000 2017] [Customer @593569]: @SpotifyCares Tried Solution: -Clear Cookies, Open in Incognito, Change Devices. Exactly same address. None of these help. 
+[Sat Nov 04 13:59:49 +0000 2017] [Spotify Support @SpotifyCares]: @593569 Hey Mirza, help's here! Can you DM us your account's username and email address? We'll get this sorted /TY https://t.co/ldFdZRiNAt",Subscription & Billing Issues
+E008,21791,Got to love having my @115888 account hacked ...😑 some random person playing Swedish pop music is brilliant https://t.co/oZtfSaZ5Kt,@769073 @116130 Hey Greg! We're here to help. Can you DM us your account's email address? We'll take a look under the hood /AN https://t.co/ldFdZRiNAt,"[Mon Nov 20 21:40:19 +0000 2017] [Customer @769073]: Got to love having my @115888 account hacked ...😑 some random person playing Swedish pop music is brilliant https://t.co/oZtfSaZ5Kt 
+[Mon Nov 20 22:02:35 +0000 2017] [Spotify Support @SpotifyCares]: @769073 @116130 Hey Greg! We're here to help. Can you DM us your account's email address? We'll take a look under the hood /AN https://t.co/ldFdZRiNAt",Account Access & Security
+E009,22306,"@115888 my account has been hacked! How has this happened. Please sort ASAP, I have emailed the email mailto:__email__
+
+@115888 Please don’t tell me I will have lost all of my playlists??? I can’t login at all
+
+@SpotifyCares",@779264 Hey! That doesn't sound good. Could you DM us your account's email address? We'll take a look backstage /AU https://t.co/ldFdZRiNAt,"[Tue Nov 21 19:12:37 +0000 2017] [Customer @779264]: @115888 my account has been hacked! How has this happened. Please sort ASAP, I have emailed the email mailto:__email__ 
+[Tue Nov 21 19:15:24 +0000 2017] [Customer @779264]: @115888 Please don’t tell me I will have lost all of my playlists??? I can’t login at all 
+[Tue Nov 21 19:17:56 +0000 2017] [Customer @779264]: @SpotifyCares 
+[Tue Nov 21 20:41:44 +0000 2017] [Spotify Support @SpotifyCares]: @779264 Hey! That doesn't sound good. Could you DM us your account's email address? We'll take a look backstage /AU https://t.co/ldFdZRiNAt",Account Access & Security
+E010,17169,@115888 why oh why is reputation not streaming😫,"@653034 Hi! Taylor Swift's 'Reputation' isn't available to stream just yet – stay tuned! For now, check out the singles: https://t.co/3h0TnPWP0c /CO","[Fri Nov 10 14:46:42 +0000 2017] [Customer @653034]: @115888 why oh why is reputation not streaming😫 
+[Fri Nov 10 15:31:01 +0000 2017] [Spotify Support @SpotifyCares]: @653034 Hi! Taylor Swift's 'Reputation' isn't available to stream just yet – stay tuned! For now, check out the singles: https://t.co/3h0TnPWP0c /CO",Content Availability & Licensing
+E011,14129,"@115888 next update: make a sleep timer option. also, try and get comparability with Siri.","@478733 1: Hi there. A sleep timer is a great idea! Help make it happen by adding support here: https://t.co/pMmX7wXq24...
+
+@478733 2: We don't have more info to share about Siri integration at the moment. Watch this space for updates: https://t.co/3KnTWglNFC /MG","[Sat Nov 04 05:48:51 +0000 2017] [Customer @478733]: @115888 next update: make a sleep timer option. also, try and get comparability with Siri. 
+[Sat Nov 04 06:15:29 +0000 2017] [Spotify Support @SpotifyCares]: @478733 1: Hi there. A sleep timer is a great idea! Help make it happen by adding support here: https://t.co/pMmX7wXq24... 
+[Sat Nov 04 06:16:53 +0000 2017] [Spotify Support @SpotifyCares]: @478733 2: We don't have more info to share about Siri integration at the moment. Watch this space for updates: https://t.co/3KnTWglNFC /MG",Feature Requests & Device Support
+E012,6681,"@SpotifyCares hi how do I download Spotify to my tv?!
+
+@SpotifyCares Thank you! 🙂","@135632 Hi! We have more info on that here: https://t.co/I5ZicdxVMi. Let us know if you need anything else /SV
+
+@135632 Any time! https://t.co/SABr6eaySK /SV","[Wed Oct 18 11:07:44 +0000 2017] [Customer @135632]: @SpotifyCares hi how do I download Spotify to my tv?! 
+[Wed Oct 18 11:54:40 +0000 2017] [Spotify Support @SpotifyCares]: @135632 Hi! We have more info on that here: https://t.co/I5ZicdxVMi. Let us know if you need anything else /SV 
+[Wed Oct 18 12:00:49 +0000 2017] [Customer @135632]: @SpotifyCares Thank you! 🙂 
+[Wed Oct 18 13:02:35 +0000 2017] [Spotify Support @SpotifyCares]: @135632 Any time! https://t.co/SABr6eaySK /SV",Playback & Technical Errors
+E013,4327,"@115888 your Mac based app is terrible, slow and constantly crashes. Latest updates have done nothing to improve it","@541522 Hey Chris, help's here. Can you let us know the exact OS X and Spotify versions you're using? We'll see what we can suggest /AY","[Fri Oct 13 10:21:40 +0000 2017] [Customer @541522]: @115888 your Mac based app is terrible, slow and constantly crashes. Latest updates have done nothing to improve it 
+[Fri Oct 13 12:10:45 +0000 2017] [Spotify Support @SpotifyCares]: @541522 Hey Chris, help's here. Can you let us know the exact OS X and Spotify versions you're using? We'll see what we can suggest /AY",Playback & Technical Errors
+E014,28243,"@SpotifyCares Hey, Add ""Miss You"" by @3212 on ""Today's Top Hits"" playlist! @115888",@260318 Hey! We've just sent a DM your way. Check your Messages /MV,"[Sun Dec 03 16:19:47 +0000 2017] [Customer @260318]: @SpotifyCares Hey, Add ""Miss You"" by @3212 on ""Today's Top Hits"" playlist! @115888 
+[Sun Dec 03 17:38:17 +0000 2017] [Spotify Support @SpotifyCares]: @260318 Hey! We've just sent a DM your way. Check your Messages /MV",Playlist & Library Management
+E015,25272,stop playing and bring back the touch preview option @115888,@804369 Hey there! We have more info about this here: https://t.co/pXBCq8GlsI /KL,"[Tue Nov 28 17:26:32 +0000 2017] [Customer @804369]: stop playing and bring back the touch preview option @115888 
+[Tue Nov 28 19:01:22 +0000 2017] [Spotify Support @SpotifyCares]: @804369 Hey there! We have more info about this here: https://t.co/pXBCq8GlsI /KL",Content Availability & Licensing
+E016,11601,But also woke up to realise @115888 has deleted my whole library 🤔  #winsomelosesome #startinganewsonglist #mysundaysorted,"@579120 Hi Lisa-Marie! This shouldn't be happening. Did everything under Library disappear, or were your offline songs desynced? We'll help /SC","[Sun Oct 29 08:56:46 +0000 2017] [Customer @579120]: But also woke up to realise @115888 has deleted my whole library 🤔  #winsomelosesome #startinganewsonglist #mysundaysorted 
+[Sun Oct 29 11:00:23 +0000 2017] [Spotify Support @SpotifyCares]: @579120 Hi Lisa-Marie! This shouldn't be happening. Did everything under Library disappear, or were your offline songs desynced? We'll help /SC",Playlist & Library Management
+E017,17666,soo apperently @115888 doesnt let me download the app since im not in the country lmao is it my email?,@664234 Hi there! We've just sent a DM your way. Let's carry on chatting there /AU,"[Sat Nov 11 15:09:50 +0000 2017] [Customer @664234]: soo apperently @115888 doesnt let me download the app since im not in the country lmao is it my email? 
+[Sat Nov 11 16:50:34 +0000 2017] [Spotify Support @SpotifyCares]: @664234 Hi there! We've just sent a DM your way. Let's carry on chatting there /AU",Playback & Technical Errors
+E018,26043,"@115888 the last version of Spotify on IPhone crashes often. It is getting annoying. When will there be an update with bug fixes?
+
+@SpotifyCares Spotify version 8.4.28.1104 IOS version 11.0.3 (IPhone 6)
+
+@SpotifyCares Yes, at random moments","@812745 Hey, help's here! Can you let us know the device, OS, and Spotify version you're using? We'll see what we can suggest /JN
+
+@812745 Thanks! Does the app crash whenever you play your music? /JN
+
+@812745 Got it. Does turning your device off, then back on again help? /JN","[Wed Nov 29 12:12:26 +0000 2017] [Customer @812745]: @115888 the last version of Spotify on IPhone crashes often. It is getting annoying. When will there be an update with bug fixes? 
+[Wed Nov 29 13:38:10 +0000 2017] [Spotify Support @SpotifyCares]: @812745 Hey, help's here! Can you let us know the device, OS, and Spotify version you're using? We'll see what we can suggest /JN 
+[Wed Nov 29 13:51:15 +0000 2017] [Customer @812745]: @SpotifyCares Spotify version 8.4.28.1104 IOS version 11.0.3 (IPhone 6) 
+[Wed Nov 29 14:13:22 +0000 2017] [Spotify Support @SpotifyCares]: @812745 Thanks! Does the app crash whenever you play your music? /JN 
+[Wed Nov 29 14:48:46 +0000 2017] [Customer @812745]: @SpotifyCares Yes, at random moments 
+[Wed Nov 29 14:57:18 +0000 2017] [Spotify Support @SpotifyCares]: @812745 Got it. Does turning your device off, then back on again help? /JN",Playback & Technical Errors
+E019,1378,"Dear @115888 today’s New Music Friday was eh. No depth. May I make a suggestion? @188031
+
+@SpotifyCares I’ll be waiting till next Friday hoping for some ear porn. Thanks for chatting","@188030 1: Hey Vanessa! Our Curation team are independent &amp; use taste, data, research, and trends to create playlists, but we’ll...
+
+@188030 2: pass on your suggestion. Let us know how you get on /MQ
+
+@188030 No worries! If you ever need us again, just shout 🙂 /MQ","[Fri Oct 06 20:01:37 +0000 2017] [Customer @188030]: Dear @115888 today’s New Music Friday was eh. No depth. May I make a suggestion? @188031 
+[Fri Oct 06 21:14:22 +0000 2017] [Spotify Support @SpotifyCares]: @188030 1: Hey Vanessa! Our Curation team are independent &amp; use taste, data, research, and trends to create playlists, but we’ll... 
+[Fri Oct 06 21:14:28 +0000 2017] [Spotify Support @SpotifyCares]: @188030 2: pass on your suggestion. Let us know how you get on /MQ 
+[Fri Oct 06 21:17:33 +0000 2017] [Customer @188030]: @SpotifyCares I’ll be waiting till next Friday hoping for some ear porn. Thanks for chatting 
+[Fri Oct 06 21:20:07 +0000 2017] [Spotify Support @SpotifyCares]: @188030 No worries! If you ever need us again, just shout 🙂 /MQ",Feature Requests & Device Support
+E020,8219,"@SpotifyCares My student discount was terminated, but I am definitely still a student. Help","@330446 Hi Gavin, help's here! Can you DM us your account's username and email address? We'll check it out 🔍 /TR https://t.co/ldFdZRiNAt","[Fri Oct 20 22:44:04 +0000 2017] [Customer @330446]: @SpotifyCares My student discount was terminated, but I am definitely still a student. Help 
+[Fri Oct 20 22:48:48 +0000 2017] [Spotify Support @SpotifyCares]: @330446 Hi Gavin, help's here! Can you DM us your account's username and email address? We'll check it out 🔍 /TR https://t.co/ldFdZRiNAt",Subscription & Billing Issues
+E021,25050,@115888 can you PLEASE add @15883's Bastard and Goblin mixtapes??? Pleaaasseeeeeeee,"@798418 Hey there! We’ve got some info about mixtapes here: https://t.co/MEjmIRL2eB. If there's anything else you need, just give us a shout 🙂 /KC","[Tue Nov 28 02:21:17 +0000 2017] [Customer @798418]: @115888 can you PLEASE add @15883's Bastard and Goblin mixtapes??? Pleaaasseeeeeeee 
+[Tue Nov 28 05:47:44 +0000 2017] [Spotify Support @SpotifyCares]: @798418 Hey there! We’ve got some info about mixtapes here: https://t.co/MEjmIRL2eB. If there's anything else you need, just give us a shout 🙂 /KC",Feature Requests & Device Support
+E022,15413,@115888 Can u implement a system where Spotify premium members can use their downloaded music for alarms? I need motivation in the mornings,@521982 Hi! We've just sent you a DM. Check your inbox /RH,"[Tue Nov 07 05:01:12 +0000 2017] [Customer @521982]: @115888 Can u implement a system where Spotify premium members can use their downloaded music for alarms? I need motivation in the mornings 
+[Tue Nov 07 05:12:40 +0000 2017] [Spotify Support @SpotifyCares]: @521982 Hi! We've just sent you a DM. Check your inbox /RH",Playback & Technical Errors
+E023,22923,"@SpotifyCares could you please charge me again, cause at the first time, my limit credit card limit was exceeded...",@276198 Hey! The cavalry's here. Could you DM us your account's email address? We'll take a look backstage /AU https://t.co/ldFdZRiNAt,"[Wed Nov 22 22:25:41 +0000 2017] [Customer @276198]: @SpotifyCares could you please charge me again, cause at the first time, my limit credit card limit was exceeded... 
+[Wed Nov 22 22:49:51 +0000 2017] [Spotify Support @SpotifyCares]: @276198 Hey! The cavalry's here. Could you DM us your account's email address? We'll take a look backstage /AU https://t.co/ldFdZRiNAt",Subscription & Billing Issues
+E024,16835,"Hi @115888 is there a way to block artists? I really don't want R Kelly in my life, thanks. Knowing him that momma rolling that body that got every man in here wishin is probably underage.","@642963 Hey Najaf! We can’t make any promises, but we’ll make sure to pass your feedback onto the right folks /FR","[Thu Nov 09 23:51:35 +0000 2017] [Customer @642963]: Hi @115888 is there a way to block artists? I really don't want R Kelly in my life, thanks. Knowing him that momma rolling that body that got every man in here wishin is probably underage. 
+[Fri Nov 10 01:24:06 +0000 2017] [Spotify Support @SpotifyCares]: @642963 Hey Najaf! We can’t make any promises, but we’ll make sure to pass your feedback onto the right folks /FR 
+[Fri Nov 10 08:07:48 +0000 2017] [Customer @260226]: @SpotifyCares @642963 I would also love to block artists, but in my case it’s Pearl Jam. I just really don’t like them! 
+[Fri Nov 10 10:10:07 +0000 2017] [Spotify Support @SpotifyCares]: @260226 Hey there! This isn't possible right now, but you can vote for the idea and help make it happen here: https://t.co/hlXvRg5Zog /GK 
+[Fri Nov 10 11:15:48 +0000 2017] [Customer @260226]: @SpotifyCares I'm pretty sure you are mistaken about that, sadly. https://t.co/AjxaL34Gst 
+[Fri Nov 10 12:05:03 +0000 2017] [Spotify Support @SpotifyCares]: @260226 Apologies for that. Here's an updated link: https://t.co/MsbeukVztP. In any case, we'll pass on your suggestion to the right team /GK",Feature Requests & Device Support
+E025,23654,@SpotifyCares I signed up for a student account but I was charged $9.99,"@153878 Hi Hailey, help's here! Can you DM us with your account's username and email address? We'll check it out backstage /WW https://t.co/ldFdZRiNAt","[Fri Nov 24 18:00:54 +0000 2017] [Customer @153878]: @SpotifyCares I signed up for a student account but I was charged $9.99 
+[Fri Nov 24 19:35:41 +0000 2017] [Spotify Support @SpotifyCares]: @153878 Hi Hailey, help's here! Can you DM us with your account's username and email address? We'll check it out backstage /WW https://t.co/ldFdZRiNAt",Subscription & Billing Issues
+E026,12437,@115888 f you join a family spotify account can you transfer your playlists from your old premium account. I WANT MY PLAYLISTS BACK PLS,"@583139 Hey there, help's here! Could you DM us your account's username or email address? We'll see what we can suggest /RE https://t.co/ldFdZRiNAt","[Tue Oct 31 12:46:02 +0000 2017] [Customer @583139]: @115888 f you join a family spotify account can you transfer your playlists from your old premium account. I WANT MY PLAYLISTS BACK PLS 
+[Tue Oct 31 14:21:24 +0000 2017] [Spotify Support @SpotifyCares]: @583139 Hey there, help's here! Could you DM us your account's username or email address? We'll see what we can suggest /RE https://t.co/ldFdZRiNAt",Playlist & Library Management
+E027,5707,"My @115888 keeps pausing and turning itself off? (Nobody else is logged in / it’s not synced to anything, I’ve only had it a few days) 🤔
+
+@SpotifyCares Ill have to let you know in a few days, cant tell so soon, it happens over a spread-out time period. Thnx for the advice, Ill give it a try!","@449522 Hey Rebecca, help's here! That's not cool. Does logging out &gt; restarting the device &gt; logging back in help? Keep us posted /PX
+
+@449522 Okay! Just let us know if we can help with anything else. We'll be waiting 🙂 /PX","[Mon Oct 16 15:22:07 +0000 2017] [Customer @449522]: My @115888 keeps pausing and turning itself off? (Nobody else is logged in / it’s not synced to anything, I’ve only had it a few days) 🤔 
+[Mon Oct 16 17:29:10 +0000 2017] [Spotify Support @SpotifyCares]: @449522 Hey Rebecca, help's here! That's not cool. Does logging out &gt; restarting the device &gt; logging back in help? Keep us posted /PX 
+[Mon Oct 16 17:31:47 +0000 2017] [Customer @449522]: @SpotifyCares Ill have to let you know in a few days, cant tell so soon, it happens over a spread-out time period. Thnx for the advice, Ill give it a try! 
+[Mon Oct 16 17:43:17 +0000 2017] [Spotify Support @SpotifyCares]: @449522 Okay! Just let us know if we can help with anything else. We'll be waiting 🙂 /PX",Other / Unclear
+E028,16380,@SpotifyCares when is the app going to be updated for the iPhone X? The black bars look awful.,"@393485 Hi there! We don't have any info on this right now, but keep an eye out for any updates. Give us a shout if you have any questions 🙂 /KL","[Thu Nov 09 00:04:58 +0000 2017] [Customer @393485]: @SpotifyCares when is the app going to be updated for the iPhone X? The black bars look awful. 
+[Thu Nov 09 00:08:15 +0000 2017] [Spotify Support @SpotifyCares]: @393485 Hi there! We don't have any info on this right now, but keep an eye out for any updates. Give us a shout if you have any questions 🙂 /KL",Feature Requests & Device Support
+E029,9821,"@115888 my account has been hacked and you mfks don't have a straightforward link to get help or report this issue.
+
+@SpotifyCares Done",@400475 Hey there! Can you DM us your account's email address? We'll take a look /RB https://t.co/ldFdZR1cbT,"[Wed Oct 25 01:18:10 +0000 2017] [Customer @400475]: @115888 my account has been hacked and you mfks don't have a straightforward link to get help or report this issue. 
+[Wed Oct 25 01:24:40 +0000 2017] [Spotify Support @SpotifyCares]: @400475 Hey there! Can you DM us your account's email address? We'll take a look /RB https://t.co/ldFdZR1cbT 
+[Wed Oct 25 01:27:29 +0000 2017] [Customer @400475]: @SpotifyCares Done",Account Access & Security
+E030,13401,@SpotifyCares i've been trying to contact Spotify for weeks about an album that is incorrectly attributed to my artist page please help ASAP,@460329 Hey there! Could you DM us the email address you used to reach out to them? We'll chase it up /SP https://t.co/ldFdZRiNAt,"[Thu Nov 02 18:38:51 +0000 2017] [Customer @460329]: @SpotifyCares i've been trying to contact Spotify for weeks about an album that is incorrectly attributed to my artist page please help ASAP 
+[Thu Nov 02 19:15:25 +0000 2017] [Spotify Support @SpotifyCares]: @460329 Hey there! Could you DM us the email address you used to reach out to them? We'll chase it up /SP https://t.co/ldFdZRiNAt",Content Availability & Licensing
+E031,11610,@SpotifyCares Hello. The email address I think is associated with my account no longer exists. cannot access account (Still Being Charged),@695121 Hey there! Can you DM us your account's email address? We'll take a look backstage /TC https://t.co/ldFdZRiNAt,"[Sun Oct 29 10:15:00 +0000 2017] [Customer @695121]: @SpotifyCares Hello. The email address I think is associated with my account no longer exists. cannot access account (Still Being Charged) 
+[Sun Oct 29 12:30:36 +0000 2017] [Spotify Support @SpotifyCares]: @695121 Hey there! Can you DM us your account's email address? We'll take a look backstage /TC https://t.co/ldFdZRiNAt",Subscription & Billing Issues
+E032,23739,"@SpotifyCares Why isn't scrobling/last.fm working with some Connect devices (Onkyo in my case). Works ok with Sonos though.
+
+@SpotifyCares OSX High Sierra -&gt; Spotify 1.0.68.407.g6864aaaf -&gt; Onkyo NR-656. Once I set Spotify to send to ""This computer"", scrobbling seems to work as Last.fm reports ""Scrobbling now"" then. Does not happen when Onkyo is receiving the sound.","@156298 Hmm, that's odd. Don’t worry, we can help. What’s happening exactly? Can you let us know the devices and operating systems you’re having trouble with? Once you fire over that info, we'll take a look 🔍 /DT
+
+@156298 Sorry to hear that. It's not possible at the moment, but you can help make it happen by showing your support here: https://t.co/BPEq9CIxJ8 /MG","[Fri Nov 24 21:29:16 +0000 2017] [Customer @156298]: @SpotifyCares Why isn't scrobling/last.fm working with some Connect devices (Onkyo in my case). Works ok with Sonos though. 
+[Fri Nov 24 22:37:42 +0000 2017] [Spotify Support @SpotifyCares]: @156298 Hmm, that's odd. Don’t worry, we can help. What’s happening exactly? Can you let us know the devices and operating systems you’re having trouble with? Once you fire over that info, we'll take a look 🔍 /DT 
+[Fri Nov 24 23:06:17 +0000 2017] [Customer @156298]: @SpotifyCares OSX High Sierra -&gt; Spotify 1.0.68.407.g6864aaaf -&gt; Onkyo NR-656. Once I set Spotify to send to ""This computer"", scrobbling seems to work as Last.fm reports ""Scrobbling now"" then. Does not happen when Onkyo is receiving the sound. 
+[Sat Nov 25 00:48:05 +0000 2017] [Spotify Support @SpotifyCares]: @156298 Sorry to hear that. It's not possible at the moment, but you can help make it happen by showing your support here: https://t.co/BPEq9CIxJ8 /MG",Content Availability & Licensing
+E033,27516,@115888 I might cancel my premium I can’t access my account I got a new one I need to delete it if it’s not accable not happy no one has helped me I forgot my id pass word,@244024 Let's not throw in the towel just yet. We'd love to help out. Can you send us a DM? /MU https://t.co/ldFdZRiNAt,"[Sat Dec 02 02:52:45 +0000 2017] [Customer @244024]: @115888 I might cancel my premium I can’t access my account I got a new one I need to delete it if it’s not accable not happy no one has helped me I forgot my id pass word 
+[Sat Dec 02 12:54:22 +0000 2017] [Spotify Support @SpotifyCares]: @244024 Let's not throw in the towel just yet. We'd love to help out. Can you send us a DM? /MU https://t.co/ldFdZRiNAt",Subscription & Billing Issues
+E034,8898,@SpotifyCares I cancelled my premium account in August and have still been charged the premium service. I haven't used it since I cancelled.,@562099 Hey Fern! Could you send us a DM with your account's email address or username? We'll take a look backstage /FR https://t.co/ldFdZRiNAt,"[Sun Oct 22 22:10:04 +0000 2017] [Customer @562099]: @SpotifyCares I cancelled my premium account in August and have still been charged the premium service. I haven't used it since I cancelled. 
+[Mon Oct 23 03:58:30 +0000 2017] [Spotify Support @SpotifyCares]: @562099 Hey Fern! Could you send us a DM with your account's email address or username? We'll take a look backstage /FR https://t.co/ldFdZRiNAt",Subscription & Billing Issues
+E035,11634,@115888 Will there ever be a Apple Watch app ? 😶,@579421 Hey Mike! Check out the official idea and add your vote to let our devs know it's something you'd like to see: https://t.co/SEK4E4gi22 /DR,"[Sun Oct 29 12:13:05 +0000 2017] [Customer @579421]: @115888 Will there ever be a Apple Watch app ? 😶 
+[Sun Oct 29 13:57:02 +0000 2017] [Spotify Support @SpotifyCares]: @579421 Hey Mike! Check out the official idea and add your vote to let our devs know it's something you'd like to see: https://t.co/SEK4E4gi22 /DR",Feature Requests & Device Support
+E036,19575,@115888 why is Beyoncé's Lemonade album still not on Spotify? 🤧,"@366774 Hey there! We're working on it, and we hope to have it available soon. There's more info here: https://t.co/WI0fi4cJu2 /PX","[Wed Nov 15 16:37:29 +0000 2017] [Customer @366774]: @115888 why is Beyoncé's Lemonade album still not on Spotify? 🤧 
+[Wed Nov 15 17:26:14 +0000 2017] [Spotify Support @SpotifyCares]: @366774 Hey there! We're working on it, and we hope to have it available soon. There's more info here: https://t.co/WI0fi4cJu2 /PX",Content Availability & Licensing
+E037,8280,"@118266 min saya mau update payment via mobile indosat tp selalu gadapet sms code number gmn nih min?
+
+@SpotifyCares hello i want to update spotify payment by mobile but i dont get any code number message what should i do?
+
+@SpotifyCares ok i dmed u already","@333571 Hey! We can help out in English via Twitter, but we also have Indonesian support via email at https://t.co/ZgU70TbP8M /RB
+
+@333571 Thanks! Can you DM us your account's email address? We'll take a look /RB https://t.co/ldFdZRiNAt","[Sat Oct 21 02:08:51 +0000 2017] [Customer @333571]: @118266 min saya mau update payment via mobile indosat tp selalu gadapet sms code number gmn nih min? 
+[Sat Oct 21 03:11:18 +0000 2017] [Spotify Support @SpotifyCares]: @333571 Hey! We can help out in English via Twitter, but we also have Indonesian support via email at https://t.co/ZgU70TbP8M /RB 
+[Sat Oct 21 03:18:41 +0000 2017] [Customer @333571]: @SpotifyCares hello i want to update spotify payment by mobile but i dont get any code number message what should i do? 
+[Sat Oct 21 04:25:36 +0000 2017] [Spotify Support @SpotifyCares]: @333571 Thanks! Can you DM us your account's email address? We'll take a look /RB https://t.co/ldFdZRiNAt 
+[Sat Oct 21 04:32:20 +0000 2017] [Customer @333571]: @SpotifyCares ok i dmed u already",Subscription & Billing Issues
+E038,20782,"@SpotifyCares Hi. @115888 keeps pausing on me randomly. Help?
+
+@SpotifyCares Thanks. I'm using a MacBook Air with OS X Yosemite. No idea what version of Spotify (1.0.67.582.g19436fa3 ?). Randomly pauses and I have to manually press play button each time.","@544894 Hi, help's here! Can you give us some more info on what's happening? What device, operating system, and Spotify version are you using? We'll see what we can suggest /MC
+
+@544894 Thanks. Does logging out &gt; restarting your device &gt; logging back in help at all? /MC","[Fri Nov 17 15:50:05 +0000 2017] [Customer @544894]: @SpotifyCares Hi. @115888 keeps pausing on me randomly. Help? 
+[Fri Nov 17 16:03:46 +0000 2017] [Spotify Support @SpotifyCares]: @544894 Hi, help's here! Can you give us some more info on what's happening? What device, operating system, and Spotify version are you using? We'll see what we can suggest /MC 
+[Fri Nov 17 16:07:36 +0000 2017] [Customer @544894]: @SpotifyCares Thanks. I'm using a MacBook Air with OS X Yosemite. No idea what version of Spotify (1.0.67.582.g19436fa3 ?). Randomly pauses and I have to manually press play button each time. 
+[Fri Nov 17 18:49:47 +0000 2017] [Spotify Support @SpotifyCares]: @544894 Thanks. Does logging out &gt; restarting your device &gt; logging back in help at all? /MC",Playback & Technical Errors
+E039,24955,@SpotifyCares I got a Spotify account as a result of my mobile phone plan.  I am interested in signing up for the Premium family plan.  What is the easiest way to do this?,"@794515 Hi Len, help's here! Can you DM us your account's email address? We'll take a look backstage /DV https://t.co/ldFdZRiNAt","[Mon Nov 27 22:03:10 +0000 2017] [Customer @794515]: @SpotifyCares I got a Spotify account as a result of my mobile phone plan.  I am interested in signing up for the Premium family plan.  What is the easiest way to do this? 
+[Mon Nov 27 22:24:00 +0000 2017] [Spotify Support @SpotifyCares]: @794515 Hi Len, help's here! Can you DM us your account's email address? We'll take a look backstage /DV https://t.co/ldFdZRiNAt",Subscription & Billing Issues
+E040,12999,"@115888 please dont play ads with sound at the bottom of your web player while I'm trying to listen to down with the sickness.
+
+@SpotifyCares Sometimes the web player changes ads, and the one it goes to has volume that interrupts the song being played.
+
+@SpotifyCares Usually it stops but sometimes I have to refresh because it didn't stop and I don't want to listen to fifty seconds of non music audio
+
+@SpotifyCares In the middle of down with the sickness.
+
+@SpotifyCares Well... I haven't tried to log in under incognito because I find no need to to hide my musical tastes from the masses.
+
+@SpotifyCares So no, I haven't logged into the web player with incognito or private browsing
+
+@SpotifyCares Will do","@130006 Hey John! Do ads play while you're streaming on the web player? Let us know - we'll look into this /SY
+
+@130006 Thanks! Does it happen when you use the web player in an incognito or a private browsing window? /SY
+
+@130006 Gotcha. Try giving it another go using an incognito window of your browser to avoid any cache-related issues. Let us know how it goes /SY
+
+@130006 Sweet, we'll be right here when you get back 🙂 /SY","[Wed Nov 01 19:45:30 +0000 2017] [Customer @130006]: @115888 please dont play ads with sound at the bottom of your web player while I'm trying to listen to down with the sickness. 
+[Wed Nov 01 21:24:57 +0000 2017] [Spotify Support @SpotifyCares]: @130006 Hey John! Do ads play while you're streaming on the web player? Let us know - we'll look into this /SY 
+[Wed Nov 01 21:50:24 +0000 2017] [Customer @130006]: @SpotifyCares Sometimes the web player changes ads, and the one it goes to has volume that interrupts the song being played. 
+[Wed Nov 01 21:51:09 +0000 2017] [Customer @130006]: @SpotifyCares Usually it stops but sometimes I have to refresh because it didn't stop and I don't want to listen to fifty seconds of non music audio 
+[Wed Nov 01 21:51:23 +0000 2017] [Customer @130006]: @SpotifyCares In the middle of down with the sickness. 
+[Wed Nov 01 22:27:52 +0000 2017] [Spotify Support @SpotifyCares]: @130006 Thanks! Does it happen when you use the web player in an incognito or a private browsing window? /SY 
+[Wed Nov 01 22:29:22 +0000 2017] [Customer @130006]: @SpotifyCares Well... I haven't tried to log in under incognito because I find no need to to hide my musical tastes from the masses. 
+[Wed Nov 01 22:29:57 +0000 2017] [Customer @130006]: @SpotifyCares So no, I haven't logged into the web player with incognito or private browsing 
+[Wed Nov 01 22:33:42 +0000 2017] [Spotify Support @SpotifyCares]: @130006 Gotcha. Try giving it another go using an incognito window of your browser to avoid any cache-related issues. Let us know how it goes /SY 
+[Wed Nov 01 22:45:32 +0000 2017] [Customer @130006]: @SpotifyCares Will do 
+[Wed Nov 01 22:52:48 +0000 2017] [Spotify Support @SpotifyCares]: @130006 Sweet, we'll be right here when you get back 🙂 /SY",Playback & Technical Errors
+E041,7097,"If @SpotifyCares had a phone number, my issues could have been fixed this afternoon. But instead I'm up at 1am waiting for a Twitter DM.",@601384 Hey there. We've just sent a DM your way. Let's carry on chatting there /JU,"[Thu Oct 19 06:09:34 +0000 2017] [Customer @601384]: If @SpotifyCares had a phone number, my issues could have been fixed this afternoon. But instead I'm up at 1am waiting for a Twitter DM. 
+[Thu Oct 19 06:34:35 +0000 2017] [Spotify Support @SpotifyCares]: @601384 Hey there. We've just sent a DM your way. Let's carry on chatting there /JU",Other / Unclear
+E042,3627,". @115888 it's 2017, add an easily accessible sleep timer to your damn app already. Sincerely, every user. #SleepSpotifySleep #UpAllNight
+
+@SpotifyCares . @115888 I don't need to vote for a sleep timer, just add the damn thing already. #UpAllNight #SleepSpotifySleep","@306449 Hey! A sleep timer is a great idea. Help make it happen by adding support here: https://t.co/pMmX7wXq24 /NQ
+
+@306449 We hear you! Rest assured, your feedback will be passed on to the right folks /TB","[Thu Oct 12 06:10:17 +0000 2017] [Customer @306449]: . @115888 it's 2017, add an easily accessible sleep timer to your damn app already. Sincerely, every user. #SleepSpotifySleep #UpAllNight 
+[Thu Oct 12 06:22:36 +0000 2017] [Spotify Support @SpotifyCares]: @306449 Hey! A sleep timer is a great idea. Help make it happen by adding support here: https://t.co/pMmX7wXq24 /NQ 
+[Thu Oct 12 16:29:25 +0000 2017] [Customer @306449]: @SpotifyCares . @115888 I don't need to vote for a sleep timer, just add the damn thing already. #UpAllNight #SleepSpotifySleep 
+[Thu Oct 12 17:09:05 +0000 2017] [Spotify Support @SpotifyCares]: @306449 We hear you! Rest assured, your feedback will be passed on to the right folks /TB",Feature Requests & Device Support
+E043,26204,"@115888 if I add premium service to my account, can I set it up to charge any credit card I want.","@219083 Hey Marc, help has arrived! Could you DM us your account's email address? We'll check what we can suggest /RK https://t.co/ldFdZRiNAt","[Wed Nov 29 18:55:29 +0000 2017] [Customer @219083]: @115888 if I add premium service to my account, can I set it up to charge any credit card I want. 
+[Wed Nov 29 20:23:27 +0000 2017] [Spotify Support @SpotifyCares]: @219083 Hey Marc, help has arrived! Could you DM us your account's email address? We'll check what we can suggest /RK https://t.co/ldFdZRiNAt",Subscription & Billing Issues
+E044,15406,@117153  I paid for premium through my mobile banking app yet it still hasn't activated in the Spotify app,"@600191 Hi Andhika, help's here! Could you DM us your email address and username? We'll take a closer look /JQ https://t.co/ldFdZRiNAt","[Tue Nov 07 04:30:58 +0000 2017] [Customer @600191]: @117153  I paid for premium through my mobile banking app yet it still hasn't activated in the Spotify app 
+[Tue Nov 07 04:48:50 +0000 2017] [Spotify Support @SpotifyCares]: @600191 Hi Andhika, help's here! Could you DM us your email address and username? We'll take a closer look /JQ https://t.co/ldFdZRiNAt",Subscription & Billing Issues
+E045,13193,"@SpotifyCares my email account suddenly got unregistered on my spotify and i cant use the premium service anymore while the invoice remains on my bill. Any solution? Need this to be solved asap.
+
+@SpotifyCares Done. Kindly check your DM",@450411 Hey! Can you fire over your account's email address or username via DM? We'll take a look backstage /RC https://t.co/ldFdZRiNAt,"[Thu Nov 02 08:29:11 +0000 2017] [Customer @450411]: @SpotifyCares my email account suddenly got unregistered on my spotify and i cant use the premium service anymore while the invoice remains on my bill. Any solution? Need this to be solved asap. 
+[Thu Nov 02 08:49:59 +0000 2017] [Spotify Support @SpotifyCares]: @450411 Hey! Can you fire over your account's email address or username via DM? We'll take a look backstage /RC https://t.co/ldFdZRiNAt 
+[Thu Nov 02 09:16:12 +0000 2017] [Customer @450411]: @SpotifyCares Done. Kindly check your DM",Subscription & Billing Issues
+E046,7424,@117153 Spotify has logged me out and I keep getting a dns error... what to do? https://t.co/fcqiHwcs87,"@558304 Hey Emily, help's here! Could you let us know which other devices this is happening to besides your mobile device? Keep us posted 🙂 /CG","[Thu Oct 19 20:26:24 +0000 2017] [Customer @558304]: @117153 Spotify has logged me out and I keep getting a dns error... what to do? https://t.co/fcqiHwcs87 
+[Thu Oct 19 21:51:22 +0000 2017] [Spotify Support @SpotifyCares]: @558304 Hey Emily, help's here! Could you let us know which other devices this is happening to besides your mobile device? Keep us posted 🙂 /CG",Other / Unclear
+E047,4381,@SpotifyCares can't login now because I set the app to offline mode before the update... Hitting connect won't do anything 😱 https://t.co/fPMcnCsMx4,"@541760 Hey, that's not cool! Can you DM us your account's username or email address? We'll see what we can do to help /JM https://t.co/ldFdZRiNAt","[Fri Oct 13 12:44:27 +0000 2017] [Customer @541760]: @SpotifyCares can't login now because I set the app to offline mode before the update... Hitting connect won't do anything 😱 https://t.co/fPMcnCsMx4 
+[Fri Oct 13 14:40:32 +0000 2017] [Spotify Support @SpotifyCares]: @541760 Hey, that's not cool! Can you DM us your account's username or email address? We'll see what we can do to help /JM https://t.co/ldFdZRiNAt",Account Access & Security
+E048,12839,"@SpotifyCares is this a genuine email of yours, I think I have been hacked as I can't log in https://t.co/yyuAjvMoE9","@584757 Hey James! We'd recommend deleting your first tweet, as it contains private information. Also, could you DM us your account's username? /MQ https://t.co/ldFdZRiNAt","[Wed Nov 01 14:13:31 +0000 2017] [Customer @584757]: @SpotifyCares is this a genuine email of yours, I think I have been hacked as I can't log in https://t.co/yyuAjvMoE9 
+[Wed Nov 01 15:11:48 +0000 2017] [Spotify Support @SpotifyCares]: @584757 Hey James! We'd recommend deleting your first tweet, as it contains private information. Also, could you DM us your account's username? /MQ https://t.co/ldFdZRiNAt",Account Access & Security
+E049,4111,@SpotifyCares I am on student plan but just got charged the regular fee. What's up?,"@538248 Hey Seth, help's here! Can you DM us your account's email address and username? We'll take a look backstage /MQ https://t.co/ldFdZRiNAt","[Thu Oct 12 23:39:01 +0000 2017] [Customer @538248]: @SpotifyCares I am on student plan but just got charged the regular fee. What's up? 
+[Thu Oct 12 23:50:57 +0000 2017] [Spotify Support @SpotifyCares]: @538248 Hey Seth, help's here! Can you DM us your account's email address and username? We'll take a look backstage /MQ https://t.co/ldFdZRiNAt",Subscription & Billing Issues
+E050,14946,@SpotifyCares YO. Update the App for iPhone X cause I might change to Apple Music.......,"@510008 Hey Jordy! Don't worry, we're on it. Our developers are looking into this, and we'll keep everyone updated /MQ","[Mon Nov 06 13:43:58 +0000 2017] [Customer @510008]: @SpotifyCares YO. Update the App for iPhone X cause I might change to Apple Music....... 
+[Mon Nov 06 14:35:24 +0000 2017] [Spotify Support @SpotifyCares]: @510008 Hey Jordy! Don't worry, we're on it. Our developers are looking into this, and we'll keep everyone updated /MQ",Feature Requests & Device Support
+E051,24654,Hello @SpotifyCares I would like to set up an premium account with my Kuwait bank account/PayPal. Please help! 🙏🏼,@786594 Hey there! Could you send us a DM with your account's email address? We'll take a look backstage /MA https://t.co/ldFdZRiNAt,"[Mon Nov 27 08:05:04 +0000 2017] [Customer @786594]: Hello @SpotifyCares I would like to set up an premium account with my Kuwait bank account/PayPal. Please help! 🙏🏼 
+[Mon Nov 27 08:07:29 +0000 2017] [Spotify Support @SpotifyCares]: @786594 Hey there! Could you send us a DM with your account's email address? We'll take a look backstage /MA https://t.co/ldFdZRiNAt",Subscription & Billing Issues
+E052,15722,@SpotifyCares need help updating payment details. tried on phone and on computer. just spins and never goes through. advice?,@670260 Hi Janna! Can you DM us your username or email address? We'll see what we can suggest /NH https://t.co/ldFdZRiNAt,"[Tue Nov 07 19:40:49 +0000 2017] [Customer @670260]: @SpotifyCares need help updating payment details. tried on phone and on computer. just spins and never goes through. advice? 
+[Tue Nov 07 20:49:46 +0000 2017] [Spotify Support @SpotifyCares]: @670260 Hi Janna! Can you DM us your username or email address? We'll see what we can suggest /NH https://t.co/ldFdZRiNAt",Subscription & Billing Issues
+E053,1918,"@115888 I need your help. Where is your guy's live chat???
+
+@SpotifyCares I just inboxed you guys on twitter
+
+@SpotifyCares got it!","@198687 Hi! You can get in touch with our Chat team at https://t.co/manM05TIUL. We can also help through Twitter. We'll be right here for you /MT
+
+@198687 Got it! We've just sent a DM your way. Let's carry on chatting there /MT","[Sun Oct 08 04:46:41 +0000 2017] [Customer @198687]: @115888 I need your help. Where is your guy's live chat??? 
+[Sun Oct 08 04:52:57 +0000 2017] [Spotify Support @SpotifyCares]: @198687 Hi! You can get in touch with our Chat team at https://t.co/manM05TIUL. We can also help through Twitter. We'll be right here for you /MT 
+[Sun Oct 08 04:55:22 +0000 2017] [Customer @198687]: @SpotifyCares I just inboxed you guys on twitter 
+[Sun Oct 08 04:58:16 +0000 2017] [Spotify Support @SpotifyCares]: @198687 Got it! We've just sent a DM your way. Let's carry on chatting there /MT 
+[Sun Oct 08 05:02:56 +0000 2017] [Customer @198687]: @SpotifyCares got it!",Content Availability & Licensing
+E054,1866,".@115888 needs a “You’ve skipped over this song literally every time it’s come on shuffle, would you like to remove it from your library” feature","@197361 Hey Matt! We hear you 🎧 Rest assured, your feedback will be passed on to the right folks /RA","[Sun Oct 08 00:24:23 +0000 2017] [Customer @197361]: .@115888 needs a “You’ve skipped over this song literally every time it’s come on shuffle, would you like to remove it from your library” feature 
+[Sun Oct 08 00:31:26 +0000 2017] [Spotify Support @SpotifyCares]: @197361 Hey Matt! We hear you 🎧 Rest assured, your feedback will be passed on to the right folks /RA",Feature Requests & Device Support
+E055,25105,I've had 2 payments come out this month for @115888... help @115888,"@124189 Hey Kerry, help's here. Can you send us a DM with your account's email address or username? We'll take a look backstage /AY https://t.co/ldFdZRiNAt","[Tue Nov 28 07:17:18 +0000 2017] [Customer @124189]: I've had 2 payments come out this month for @115888... help @115888 
+[Tue Nov 28 08:54:16 +0000 2017] [Spotify Support @SpotifyCares]: @124189 Hey Kerry, help's here. Can you send us a DM with your account's email address or username? We'll take a look backstage /AY https://t.co/ldFdZRiNAt",Subscription & Billing Issues
+E056,15416,@115888 still waiting for the iphone x update!!!,"@471808 Hey there! We don't have any info on this right now, but we'll let the right team know it's something you'd like to see /NQ","[Tue Nov 07 05:06:02 +0000 2017] [Customer @471808]: @115888 still waiting for the iphone x update!!! 
+[Tue Nov 07 05:43:46 +0000 2017] [Spotify Support @SpotifyCares]: @471808 Hey there! We don't have any info on this right now, but we'll let the right team know it's something you'd like to see /NQ",Feature Requests & Device Support
+E057,5643,"@115888 so your app just decides to stop playing music... great! #refund
+
+@SpotifyCares 8.4.23.784 version Spotify
+Samsung Galaxy S6
+Android v7.0
+
+@SpotifyCares Uninstalled it.. reinstalled.
+
+All working now.. thanks!","@437800 Hey, that doesn't sound fun! Can you let us know more about what's happening? What device, OS, and Spotify version are you using? /MA
+
+@437800 Thanks. Can you try logging out and back in again? You can also try restarting your phone to see if it helps /MA
+
+@437800 Awesome! Give us a shout if you ever need us again. We'd be... https://t.co/LgAM6ky9Vv 😁 /MA","[Mon Oct 16 13:30:01 +0000 2017] [Customer @437800]: @115888 so your app just decides to stop playing music... great! #refund 
+[Mon Oct 16 14:29:56 +0000 2017] [Spotify Support @SpotifyCares]: @437800 Hey, that doesn't sound fun! Can you let us know more about what's happening? What device, OS, and Spotify version are you using? /MA 
+[Mon Oct 16 14:41:36 +0000 2017] [Customer @437800]: @SpotifyCares 8.4.23.784 version Spotify Samsung Galaxy S6 Android v7.0 
+[Mon Oct 16 14:47:00 +0000 2017] [Spotify Support @SpotifyCares]: @437800 Thanks. Can you try logging out and back in again? You can also try restarting your phone to see if it helps /MA 
+[Mon Oct 16 15:01:53 +0000 2017] [Customer @437800]: @SpotifyCares Uninstalled it.. reinstalled.  All working now.. thanks! 
+[Mon Oct 16 15:03:30 +0000 2017] [Spotify Support @SpotifyCares]: @437800 Awesome! Give us a shout if you ever need us again. We'd be... https://t.co/LgAM6ky9Vv 😁 /MA",Subscription & Billing Issues
+E058,11928,@SpotifyCares Good morning to you guys! For some reason my payment for premium wont go thru. Still my card is working normal.,@715944 Hey! Can you DM us your account's username and email address? We'll take a look backstage /JL https://t.co/ldFdZRiNAt,"[Mon Oct 30 06:02:45 +0000 2017] [Customer @715944]: @SpotifyCares Good morning to you guys! For some reason my payment for premium wont go thru. Still my card is working normal. 
+[Mon Oct 30 06:03:42 +0000 2017] [Spotify Support @SpotifyCares]: @715944 Hey! Can you DM us your account's username and email address? We'll take a look backstage /JL https://t.co/ldFdZRiNAt",Subscription & Billing Issues
+E059,24374,@SpotifyCares hi. Can i pay with paypal balance?,"@785034 Hey, apologies for the delay! We've just sent you a bit more info over DM. We'll carry on helping out there /NQ","[Sun Nov 26 16:29:12 +0000 2017] [Customer @785034]: @SpotifyCares hi. Can i pay with paypal balance? 
+[Mon Nov 27 03:08:22 +0000 2017] [Spotify Support @SpotifyCares]: @785034 Hey, apologies for the delay! We've just sent you a bit more info over DM. We'll carry on helping out there /NQ",Subscription & Billing Issues
+E060,5807,@SpotifyCares y'all should make an optuon to listen on seperate devices online with same account. Both of us wanna listen and download music,"@465646 Hey, we don't have any info on this right now, but we'll let the right team know it's something you'd like to see /RB","[Mon Oct 16 18:50:17 +0000 2017] [Customer @465646]: @SpotifyCares y'all should make an optuon to listen on seperate devices online with same account. Both of us wanna listen and download music 
+[Mon Oct 16 21:56:25 +0000 2017] [Spotify Support @SpotifyCares]: @465646 Hey, we don't have any info on this right now, but we'll let the right team know it's something you'd like to see /RB",Playback & Technical Errors
+E061,7472,"@SpotifyCares can’t skip song whilst connected to Bluetooth in my car, many others having the same problem. Any suggestions?
+
+@SpotifyCares iPhone 7, iOS 11.0.3 and Spotify version 8.4.22 thank you :)","@558437 Hey Luke! Can you let us know the device, operating system, and Spotify version you're using? We'll see what we can suggest /RH
+
+@558437 Thanks. Could you try logging out &gt; restarting your phone &gt; logging back in? Let us know if that makes a difference /RH","[Thu Oct 19 21:53:23 +0000 2017] [Customer @558437]: @SpotifyCares can’t skip song whilst connected to Bluetooth in my car, many others having the same problem. Any suggestions? 
+[Thu Oct 19 22:28:41 +0000 2017] [Spotify Support @SpotifyCares]: @558437 Hey Luke! Can you let us know the device, operating system, and Spotify version you're using? We'll see what we can suggest /RH 
+[Thu Oct 19 22:32:51 +0000 2017] [Customer @558437]: @SpotifyCares iPhone 7, iOS 11.0.3 and Spotify version 8.4.22 thank you :) 
+[Thu Oct 19 22:43:15 +0000 2017] [Spotify Support @SpotifyCares]: @558437 Thanks. Could you try logging out &gt; restarting your phone &gt; logging back in? Let us know if that makes a difference /RH",Feature Requests & Device Support
+E062,22163,"@SpotifyCares HELP!  I have an account that is on an old email add, and I don't remember my password.  I can't update without it, and contacting Spotify by email requires it as well.","@776656 Hey there, help's here! Could you DM us your account's email address and username? We'll take a look backstage /CG https://t.co/ldFdZRiNAt","[Tue Nov 21 15:58:25 +0000 2017] [Customer @776656]: @SpotifyCares HELP!  I have an account that is on an old email add, and I don't remember my password.  I can't update without it, and contacting Spotify by email requires it as well. 
+[Tue Nov 21 16:43:26 +0000 2017] [Spotify Support @SpotifyCares]: @776656 Hey there, help's here! Could you DM us your account's email address and username? We'll take a look backstage /CG https://t.co/ldFdZRiNAt",Feature Requests & Device Support
+E063,4849,@SpotifyCares I have a charge on my account for Spotify Premium but my Spotify account still says it’s Free. What should I do?,"@543423 Hey Emily, help's here! Could you send us a DM with your account's username or email address? We'll take a look backstage 🔍 /DB https://t.co/ldFdZRiNAt","[Sat Oct 14 11:13:55 +0000 2017] [Customer @543423]: @SpotifyCares I have a charge on my account for Spotify Premium but my Spotify account still says it’s Free. What should I do? 
+[Sat Oct 14 16:06:07 +0000 2017] [Spotify Support @SpotifyCares]: @543423 Hey Emily, help's here! Could you send us a DM with your account's username or email address? We'll take a look backstage 🔍 /DB https://t.co/ldFdZRiNAt",Subscription & Billing Issues
+E064,14656,"@115888 are your design and dev teams working on an #iPhoneX update? Would really love to see that edge to edge #Spotify app :)
+
+@SpotifyCares Care teams don’t get the love they deserve. Thanks for your response and action.","@501359 Hey there! We don't have any info on this right now, but we'll let the right team know it's something you'd like to see /NQ
+
+@501359 You're welcome. Just let us know if we can help with anything else. https://t.co/m4HWSbgHVZ 🙂 /NQ","[Sun Nov 05 19:28:30 +0000 2017] [Customer @501359]: @115888 are your design and dev teams working on an #iPhoneX update? Would really love to see that edge to edge #Spotify app :) 
+[Sun Nov 05 23:16:44 +0000 2017] [Spotify Support @SpotifyCares]: @501359 Hey there! We don't have any info on this right now, but we'll let the right team know it's something you'd like to see /NQ 
+[Sun Nov 05 23:17:30 +0000 2017] [Customer @501359]: @SpotifyCares Care teams don’t get the love they deserve. Thanks for your response and action. 
+[Mon Nov 06 00:07:03 +0000 2017] [Spotify Support @SpotifyCares]: @501359 You're welcome. Just let us know if we can help with anything else. https://t.co/m4HWSbgHVZ 🙂 /NQ",Feature Requests & Device Support
+E065,4084,Why is X’s music getting removed from @115888??,@538080 Hey! Sometimes content gets temporarily removed because of licensing changes. Hopefully we'll have it available again soon! /TR,"[Thu Oct 12 22:30:12 +0000 2017] [Customer @538080]: Why is X’s music getting removed from @115888?? 
+[Thu Oct 12 22:50:22 +0000 2017] [Spotify Support @SpotifyCares]: @538080 Hey! Sometimes content gets temporarily removed because of licensing changes. Hopefully we'll have it available again soon! /TR",Content Availability & Licensing
+E066,13894,"@SpotifyCares I found an album on the web player (that won't play), but I can't find that album on the app. Help?
+
+@SpotifyCares https://t.co/1grwJT22Yz","@475500 Hi Joel! Can you tell us which album that is? On the web player, click on the three dots &gt; Copy Album Link /NH
+
+@475500 Hey! Sometimes content gets temporarily removed because of licensing changes. Hopefully we'll have it available again soon /DF","[Fri Nov 03 18:10:14 +0000 2017] [Customer @475500]: @SpotifyCares I found an album on the web player (that won't play), but I can't find that album on the app. Help? 
+[Fri Nov 03 23:19:18 +0000 2017] [Spotify Support @SpotifyCares]: @475500 Hi Joel! Can you tell us which album that is? On the web player, click on the three dots &gt; Copy Album Link /NH 
+[Fri Nov 03 23:26:45 +0000 2017] [Customer @475500]: @SpotifyCares https://t.co/1grwJT22Yz 
+[Sat Nov 04 00:25:50 +0000 2017] [Spotify Support @SpotifyCares]: @475500 Hey! Sometimes content gets temporarily removed because of licensing changes. Hopefully we'll have it available again soon /DF",Playback & Technical Errors
+E067,5686,"@SpotifyCares my web player isn’t working 🆘
+
+@SpotifyCares I figured it out!","@443695 Hey there, we're here to help! Are you receiving an error of any kind in your browser? Let us know /RV
+
+@443695 Awesome, that's what we like to hear! If you need us again, just... https://t.co/AUc7DGJpgF /RV","[Mon Oct 16 14:51:14 +0000 2017] [Customer @443695]: @SpotifyCares my web player isn’t working 🆘 
+[Mon Oct 16 16:10:11 +0000 2017] [Spotify Support @SpotifyCares]: @443695 Hey there, we're here to help! Are you receiving an error of any kind in your browser? Let us know /RV 
+[Mon Oct 16 16:14:01 +0000 2017] [Customer @443695]: @SpotifyCares I figured it out! 
+[Mon Oct 16 16:16:31 +0000 2017] [Spotify Support @SpotifyCares]: @443695 Awesome, that's what we like to hear! If you need us again, just... https://t.co/AUc7DGJpgF /RV",Playback & Technical Errors
+E068,16958,@SpotifyCares @117168 why is reputation not here??!!😭😭 https://t.co/sYrsunnLex,"@450262 Hi! Fingers crossed we'll be able to have it soon, but there's info about Spotify content here: https://t.co/0i8GpimuDa /DR","[Fri Nov 10 05:18:49 +0000 2017] [Customer @450262]: @SpotifyCares @117168 why is reputation not here??!!😭😭 https://t.co/sYrsunnLex 
+[Fri Nov 10 06:16:59 +0000 2017] [Spotify Support @SpotifyCares]: @450262 Hi! Fingers crossed we'll be able to have it soon, but there's info about Spotify content here: https://t.co/0i8GpimuDa /DR",Content Availability & Licensing
+E069,13645,"Why isn't @289430 ""Don't Miss You"" on Spotify?!?! I'm very upset about this @115888","@589599 Hey there! We’d love to have all of her stuff available, but we have some info about content here: https://t.co/0i8GpimuDa /GK","[Fri Nov 03 07:30:29 +0000 2017] [Customer @589599]: Why isn't @289430 ""Don't Miss You"" on Spotify?!?! I'm very upset about this @115888 
+[Fri Nov 03 08:26:08 +0000 2017] [Spotify Support @SpotifyCares]: @589599 Hey there! We’d love to have all of her stuff available, but we have some info about content here: https://t.co/0i8GpimuDa /GK",Content Availability & Licensing
+E070,27114,"Thanks @115888 for deleting my fucking offline library for the 6th time. It never ceases to be any less fun redownloading all my albums that i want on my phone!!!!!
+
+@SpotifyCares Thank you","@231393 Hey, that's not cool. Could you DM us your account's email address and username? We'll take a look backstage /JZ https://t.co/ldFdZRiNAt","[Fri Dec 01 14:31:42 +0000 2017] [Customer @231393]: Thanks @115888 for deleting my fucking offline library for the 6th time. It never ceases to be any less fun redownloading all my albums that i want on my phone!!!!! 
+[Fri Dec 01 16:22:59 +0000 2017] [Spotify Support @SpotifyCares]: @231393 Hey, that's not cool. Could you DM us your account's email address and username? We'll take a look backstage /JZ https://t.co/ldFdZRiNAt 
+[Fri Dec 01 16:24:09 +0000 2017] [Customer @231393]: @SpotifyCares Thank you",Playlist & Library Management
+E071,14492,"@115888 explain why an app I pay $9.99 monthly for can’t be bothered to update their app, you’ve had over a month to do it this shit. https://t.co/yw9ubCqrqK",@405689 Hey Joe! Can you let us know what's happening exactly? We'll see what we can suggest /PL,"[Sun Nov 05 08:30:20 +0000 2017] [Customer @405689]: @115888 explain why an app I pay $9.99 monthly for can’t be bothered to update their app, you’ve had over a month to do it this shit. https://t.co/yw9ubCqrqK 
+[Sun Nov 05 09:19:18 +0000 2017] [Spotify Support @SpotifyCares]: @405689 Hey Joe! Can you let us know what's happening exactly? We'll see what we can suggest /PL",Other / Unclear
+E072,5204,@SpotifyCares @116130 my account has been hacked and email changed.  Please contact to sort asap,"@385697 Hey! In this case, we suggest you follow the steps at https://t.co/QHn3ok8y2n. We hope that helps /CB","[Sun Oct 15 09:57:54 +0000 2017] [Customer @385697]: @SpotifyCares @116130 my account has been hacked and email changed.  Please contact to sort asap 
+[Sun Oct 15 14:23:34 +0000 2017] [Spotify Support @SpotifyCares]: @385697 Hey! In this case, we suggest you follow the steps at https://t.co/QHn3ok8y2n. We hope that helps /CB",Account Access & Security
+E073,10752,"@SpotifyCares I downloaded Spotify for Mac but it’s so slow. Are there updates or should I continue to use the web since it’s quicker?
+
+@SpotifyCares Im running High Sierra 10.13. I’m not too sure about Spotify version but it’s the Spotify Free
+
+@SpotifyCares And the long # when I click on About Spotify is 1.0.66.478.g1296534d","@423224 Hey Stacey! Can you let us know the OS X and Spotify versions you're using? We'll see what we can suggest /FR
+
+@423224 Thanks for sending the info. Does logging out, restarting your device, and logging back in make any difference? /FR","[Thu Oct 26 22:23:44 +0000 2017] [Customer @423224]: @SpotifyCares I downloaded Spotify for Mac but it’s so slow. Are there updates or should I continue to use the web since it’s quicker? 
+[Thu Oct 26 22:26:56 +0000 2017] [Spotify Support @SpotifyCares]: @423224 Hey Stacey! Can you let us know the OS X and Spotify versions you're using? We'll see what we can suggest /FR 
+[Thu Oct 26 22:44:09 +0000 2017] [Customer @423224]: @SpotifyCares Im running High Sierra 10.13. I’m not too sure about Spotify version but it’s the Spotify Free 
+[Thu Oct 26 22:44:33 +0000 2017] [Customer @423224]: @SpotifyCares And the long # when I click on About Spotify is 1.0.66.478.g1296534d 
+[Thu Oct 26 22:47:32 +0000 2017] [Spotify Support @SpotifyCares]: @423224 Thanks for sending the info. Does logging out, restarting your device, and logging back in make any difference? /FR",Playback & Technical Errors
+E074,9416,"@117153 the payment for my signature was discounted on my credit card but my signature is not on yet bc they are analysing my college documents,  how can I proceed?",@566789 Hey there! Could you send us a DM with your account's email address or username? We'll take a look backstage /LO https://t.co/ldFdZRiNAt,"[Tue Oct 24 02:53:47 +0000 2017] [Customer @566789]: @117153 the payment for my signature was discounted on my credit card but my signature is not on yet bc they are analysing my college documents,  how can I proceed? 
+[Tue Oct 24 03:59:31 +0000 2017] [Spotify Support @SpotifyCares]: @566789 Hey there! Could you send us a DM with your account's email address or username? We'll take a look backstage /LO https://t.co/ldFdZRiNAt",Subscription & Billing Issues
+E075,19432,@SpotifyCares @115888 https://t.co/TrCVRQODm1 wrong artist link. Should be https://t.co/AXeM5XL1a7,"@220664 Hey, thanks. We've already reported this. Great detective work! https://t.co/LpsmyUtme0 /PL","[Wed Nov 15 10:43:08 +0000 2017] [Customer @220664]: @SpotifyCares @115888 https://t.co/TrCVRQODm1 wrong artist link. Should be https://t.co/AXeM5XL1a7 
+[Wed Nov 15 12:01:33 +0000 2017] [Spotify Support @SpotifyCares]: @220664 Hey, thanks. We've already reported this. Great detective work! https://t.co/LpsmyUtme0 /PL",Content Availability & Licensing
+E076,9773,"So when's @115888 gonna let us sort albums by length and release date, I wanna access EPs/new releases quickly
+
+@SpotifyCares While I appreciate you getting back to me so quickly, your suggestions weren't really that helpful. I already use Release Radar and [1/2]
+
+@SpotifyCares While I love release radar, I just want to be able to sort through the albums I've -already saved- by album length and release date. [2/2]
+
+@SpotifyCares Maybe a nice option for premium users would be to manually organize your albums into a sort of meta playlist, I think this would be [3/2]
+
+@SpotifyCares Really useful if I want to search through my albums by genre as well
+
+@SpotifyCares Thank you, I'll do just that.","@398465 Hey! There's info on sorting and filtering here: https://t.co/5hjtm5AdqM. Checking out Fresh Finds and Release Radar should also help 🙂 /AR
+
+@398465 We're afraid this isn't currently possible. To help make it happen, add your vote for a similar idea at https://t.co/e4LI1pbSdX /AR
+
+@398465 You're welcome! If you ever need us with anything else, just give us a... https://t.co/AUc7DGJpgF 🙂 /AR","[Tue Oct 24 22:21:38 +0000 2017] [Customer @398465]: So when's @115888 gonna let us sort albums by length and release date, I wanna access EPs/new releases quickly 
+[Tue Oct 24 22:29:58 +0000 2017] [Spotify Support @SpotifyCares]: @398465 Hey! There's info on sorting and filtering here: https://t.co/5hjtm5AdqM. Checking out Fresh Finds and Release Radar should also help 🙂 /AR 
+[Tue Oct 24 22:33:34 +0000 2017] [Customer @398465]: @SpotifyCares While I appreciate you getting back to me so quickly, your suggestions weren't really that helpful. I already use Release Radar and [1/2] 
+[Tue Oct 24 22:35:17 +0000 2017] [Customer @398465]: @SpotifyCares While I love release radar, I just want to be able to sort through the albums I've -already saved- by album length and release date. [2/2] 
+[Tue Oct 24 22:38:16 +0000 2017] [Customer @398465]: @SpotifyCares Maybe a nice option for premium users would be to manually organize your albums into a sort of meta playlist, I think this would be [3/2] 
+[Tue Oct 24 22:39:57 +0000 2017] [Customer @398465]: @SpotifyCares Really useful if I want to search through my albums by genre as well 
+[Tue Oct 24 22:46:39 +0000 2017] [Spotify Support @SpotifyCares]: @398465 We're afraid this isn't currently possible. To help make it happen, add your vote for a similar idea at https://t.co/e4LI1pbSdX /AR 
+[Tue Oct 24 22:55:03 +0000 2017] [Customer @398465]: @SpotifyCares Thank you, I'll do just that. 
+[Tue Oct 24 22:57:02 +0000 2017] [Spotify Support @SpotifyCares]: @398465 You're welcome! If you ever need us with anything else, just give us a... https://t.co/AUc7DGJpgF 🙂 /AR",Feature Requests & Device Support
+E077,1330,"spotify lyric thing sucks @115888 i want all the lyrics none of these facts
+
+@SpotifyCares how do you get to the last one?","@153236 Hey there! These annotations give extra details to the songs. In the track's last Genius card, there’s a link to the full lyrics /AG
+
+@153236 The link displays at the end of each song. That'll take you to the Genius website and show the lyrics for the track. Hope this helps /AG","[Fri Oct 06 18:35:36 +0000 2017] [Customer @153236]: spotify lyric thing sucks @115888 i want all the lyrics none of these facts 
+[Fri Oct 06 21:32:28 +0000 2017] [Spotify Support @SpotifyCares]: @153236 Hey there! These annotations give extra details to the songs. In the track's last Genius card, there’s a link to the full lyrics /AG 
+[Fri Oct 06 21:37:48 +0000 2017] [Customer @153236]: @SpotifyCares how do you get to the last one? 
+[Fri Oct 06 21:48:44 +0000 2017] [Spotify Support @SpotifyCares]: @153236 The link displays at the end of each song. That'll take you to the Genius website and show the lyrics for the track. Hope this helps /AG",Feature Requests & Device Support
+E078,6670,"Hey @115888 I'm experiencing this weird issue that I can't listen to any single #TheXX song on my mobile, which runs Android 7.
+
+@115888 Other artist work just fine, and the problem has been around for a while now. So, ""turning it off and on again"" doesn't seem to fix this one
+
+@115888 Any ideas?
+
+@SpotifyCares Great! Here's the info:
+Device: LG G6
+Android: 7.0
+Spotify version: 8.4.23.784 armV7
+
+@SpotifyCares Unfortunately, the problem still persists.
+
+There is no error message if I click on a ""The XX"" song. It doesn't react at all.
+
+@SpotifyCares Her you go: https://t.co/YWFmF3qc4g
+
+The country is set to Switzerland.
+
+@SpotifyCares It didn't unfortunately.
+By the way, I've just tried to play the song on my desktop. It doesn't work, but at least there is an error message
+
+@SpotifyCares ""This song is not available. If you have the file on your computer you can import it.""","@552568 Hi Claudio! Can you let us know the device's model and exact Android and Spotify versions you're using? We'll see what we can suggest /PL
+
+@552568 Thanks! Are you getting any error messages? Can you try logging out &gt; restarting your device &gt; logging back in? /PL
+
+@552568 Can you send us the Song Link? Just tap the three dots &gt; Share &gt; Copy Link. Also, what country is your account set to? /PL
+
+@552568 Can you check if the steps here does the trick: https://t.co/cxGHt0bCR8? Keep us posted /PL
+
+@552568 Got it! Can you DM us your account's username or email address? We'll take a look under the hood /PL https://t.co/ldFdZRiNAt","[Wed Oct 18 10:17:47 +0000 2017] [Customer @552568]: Hey @115888 I'm experiencing this weird issue that I can't listen to any single #TheXX song on my mobile, which runs Android 7. 
+[Wed Oct 18 10:20:31 +0000 2017] [Customer @552568]: @115888 Other artist work just fine, and the problem has been around for a while now. So, ""turning it off and on again"" doesn't seem to fix this one 
+[Wed Oct 18 10:20:37 +0000 2017] [Customer @552568]: @115888 Any ideas? 
+[Wed Oct 18 11:48:16 +0000 2017] [Spotify Support @SpotifyCares]: @552568 Hi Claudio! Can you let us know the device's model and exact Android and Spotify versions you're using? We'll see what we can suggest /PL 
+[Wed Oct 18 12:22:03 +0000 2017] [Customer @552568]: @SpotifyCares Great! Here's the info: Device: LG G6 Android: 7.0 Spotify version: 8.4.23.784 armV7 
+[Wed Oct 18 12:35:11 +0000 2017] [Spotify Support @SpotifyCares]: @552568 Thanks! Are you getting any error messages? Can you try logging out &gt; restarting your device &gt; logging back in? /PL 
+[Wed Oct 18 13:14:48 +0000 2017] [Customer @552568]: @SpotifyCares Unfortunately, the problem still persists.  There is no error message if I click on a ""The XX"" song. It doesn't react at all. 
+[Wed Oct 18 13:19:19 +0000 2017] [Spotify Support @SpotifyCares]: @552568 Can you send us the Song Link? Just tap the three dots &gt; Share &gt; Copy Link. Also, what country is your account set to? /PL 
+[Wed Oct 18 13:26:31 +0000 2017] [Customer @552568]: @SpotifyCares Her you go: https://t.co/YWFmF3qc4g  The country is set to Switzerland. 
+[Wed Oct 18 13:36:13 +0000 2017] [Spotify Support @SpotifyCares]: @552568 Can you check if the steps here does the trick: https://t.co/cxGHt0bCR8? Keep us posted /PL 
+[Wed Oct 18 13:47:40 +0000 2017] [Customer @552568]: @SpotifyCares It didn't unfortunately. By the way, I've just tried to play the song on my desktop. It doesn't work, but at least there is an error message 
+[Wed Oct 18 13:48:14 +0000 2017] [Customer @552568]: @SpotifyCares ""This song is not available. If you have the file on your computer you can import it."" 
+[Wed Oct 18 13:53:58 +0000 2017] [Spotify Support @SpotifyCares]: @552568 Got it! Can you DM us your account's username or email address? We'll take a look under the hood /PL https://t.co/ldFdZRiNAt",Content Availability & Licensing
+E079,3963,@115888 pls bring back lyrics,"@364439 Hey there, we hear you! Any updates will be posted at https://t.co/osebD49Qxe. We'd recommend voting to support the idea too 👍 /DQ","[Thu Oct 12 18:38:15 +0000 2017] [Customer @364439]: @115888 pls bring back lyrics 
+[Thu Oct 12 19:03:53 +0000 2017] [Spotify Support @SpotifyCares]: @364439 Hey there, we hear you! Any updates will be posted at https://t.co/osebD49Qxe. We'd recommend voting to support the idea too 👍 /DQ",Content Availability & Licensing
+E080,13958,@115888 if y’all don’t friggin stop removing all my downloaded albums every other week I’m friggin switching to @115948,"@473200 1: Hey Jake, sorry to hear that! Check out the steps under “Downloads unexpectedly removed”...
+
+@473200 2: at https://t.co/38J7tFlIBF. They should help with this /SY","[Fri Nov 03 20:25:02 +0000 2017] [Customer @473200]: @115888 if y’all don’t friggin stop removing all my downloaded albums every other week I’m friggin switching to @115948 
+[Fri Nov 03 21:00:17 +0000 2017] [Spotify Support @SpotifyCares]: @473200 1: Hey Jake, sorry to hear that! Check out the steps under “Downloads unexpectedly removed”... 
+[Fri Nov 03 21:00:26 +0000 2017] [Spotify Support @SpotifyCares]: @473200 2: at https://t.co/38J7tFlIBF. They should help with this /SY",Playback & Technical Errors
+E081,2775,"Far out I actually can’t believe how glitchy my Spotify is being lately... plz get it together @115888
+
+@SpotifyCares I’m using it on iOS. The music turns off whenever I exit the app, or when I go onto another app such as Snapchat and sometime with Twitter
+
+@SpotifyCares Also I just have the latest version
+
+@SpotifyCares It happens when I listen to my downloaded music. Version 8.4.20","@215511 Hey Sam! That doesn't sound good. Can you let us know what's happening exactly? Also, which device/OS and Spotify version are you using? /YM
+
+@215511 Got it. Does this happen when you stream online or when you listen to your downloaded music? Also, what Spotify version are you using? /JN
+
+@215511 Thanks! Can you DM us your account's email address? We'll take a look backstage /JN https://t.co/ldFdZRiNAt","[Tue Oct 10 07:10:30 +0000 2017] [Customer @215511]: Far out I actually can’t believe how glitchy my Spotify is being lately... plz get it together @115888 
+[Tue Oct 10 07:33:38 +0000 2017] [Spotify Support @SpotifyCares]: @215511 Hey Sam! That doesn't sound good. Can you let us know what's happening exactly? Also, which device/OS and Spotify version are you using? /YM 
+[Tue Oct 10 07:37:21 +0000 2017] [Customer @215511]: @SpotifyCares I’m using it on iOS. The music turns off whenever I exit the app, or when I go onto another app such as Snapchat and sometime with Twitter 
+[Tue Oct 10 07:39:26 +0000 2017] [Customer @215511]: @SpotifyCares Also I just have the latest version 
+[Tue Oct 10 08:41:27 +0000 2017] [Spotify Support @SpotifyCares]: @215511 Got it. Does this happen when you stream online or when you listen to your downloaded music? Also, what Spotify version are you using? /JN 
+[Tue Oct 10 08:55:44 +0000 2017] [Customer @215511]: @SpotifyCares It happens when I listen to my downloaded music. Version 8.4.20 
+[Tue Oct 10 09:02:13 +0000 2017] [Spotify Support @SpotifyCares]: @215511 Thanks! Can you DM us your account's email address? We'll take a look backstage /JN https://t.co/ldFdZRiNAt",Playback & Technical Errors
+E082,22235,"Another day, another day #Reputation isn’t on @115888 😭😭","@778301 Hey there, we’ll have it available to you as soon as it’s available to us! For now, check out the singles: https://t.co/3h0TnPWP0c /SY","[Tue Nov 21 17:47:22 +0000 2017] [Customer @778301]: Another day, another day #Reputation isn’t on @115888 😭😭 
+[Tue Nov 21 19:04:50 +0000 2017] [Spotify Support @SpotifyCares]: @778301 Hey there, we’ll have it available to you as soon as it’s available to us! For now, check out the singles: https://t.co/3h0TnPWP0c /SY",Content Availability & Licensing
+E083,23514,"@SpotifyCares Hey guys! Any plans to come to Russia? Any reason you’re not still here?
+We really want you! ❤️
+I’d love to use Spotify Premium instead of Google Play and Apple Music but I can’t. Thanks!",@149497 Hey there! We're launching in new countries as often as possible. Sign up here to be first to hear: https://t.co/XDwWzj7cLP /CO,"[Fri Nov 24 09:49:33 +0000 2017] [Customer @149497]: @SpotifyCares Hey guys! Any plans to come to Russia? Any reason you’re not still here? We really want you! ❤️ I’d love to use Spotify Premium instead of Google Play and Apple Music but I can’t. Thanks! 
+[Fri Nov 24 14:21:14 +0000 2017] [Spotify Support @SpotifyCares]: @149497 Hey there! We're launching in new countries as often as possible. Sign up here to be first to hear: https://t.co/XDwWzj7cLP /CO",Other / Unclear
+E084,672,@115888 make an alarm a premium feature,@169625 Hey there! We can see how that’d be handy. Thanks for taking the time to reach out – your feedback's been noted 📝 /NQ,"[Thu Oct 05 04:36:03 +0000 2017] [Customer @169625]: @115888 make an alarm a premium feature 
+[Thu Oct 05 05:05:05 +0000 2017] [Spotify Support @SpotifyCares]: @169625 Hey there! We can see how that’d be handy. Thanks for taking the time to reach out – your feedback's been noted 📝 /NQ",Feature Requests & Device Support
+E085,25204,"@SpotifyCares just sign up for the premium after Logging in seem is not can’t play any song like .
+
+@SpotifyCares Issue was fix thanks","@127867 Hey Jonathan, help's here! Can you DM us your account's username and email address? We'll check it out 🔍 /TR https://t.co/ldFdZRiNAt
+
+@127867 No worries! Glad to hear it's fixed. If you ever need anything else, just shout and we'll come running 🏃 /TR","[Tue Nov 28 15:10:37 +0000 2017] [Customer @127867]: @SpotifyCares just sign up for the premium after Logging in seem is not can’t play any song like . 
+[Tue Nov 28 16:42:47 +0000 2017] [Spotify Support @SpotifyCares]: @127867 Hey Jonathan, help's here! Can you DM us your account's username and email address? We'll check it out 🔍 /TR https://t.co/ldFdZRiNAt 
+[Tue Nov 28 16:43:15 +0000 2017] [Customer @127867]: @SpotifyCares Issue was fix thanks 
+[Tue Nov 28 16:56:02 +0000 2017] [Spotify Support @SpotifyCares]: @127867 No worries! Glad to hear it's fixed. If you ever need anything else, just shout and we'll come running 🏃 /TR",Other / Unclear
+E086,3762,"@SpotifyCares Har bytt från premium till premium for family, men hur aktiverar jag detta???
+
+@SpotifyCares We changed from Premium to premium for family. But how do we activate it??","@360677 Hey Marcus! We can help out in English via Twitter, but we also have Swedish support via email at https://t.co/ZgU70TbP8M /AY
+
+@360677 Could you DM us your accounts' email addresses or usernames? We'll take a look behind the scenes /AY https://t.co/ldFdZRiNAt","[Thu Oct 12 14:13:03 +0000 2017] [Customer @360677]: @SpotifyCares Har bytt från premium till premium for family, men hur aktiverar jag detta??? 
+[Thu Oct 12 14:16:29 +0000 2017] [Spotify Support @SpotifyCares]: @360677 Hey Marcus! We can help out in English via Twitter, but we also have Swedish support via email at https://t.co/ZgU70TbP8M /AY 
+[Thu Oct 12 14:45:27 +0000 2017] [Customer @360677]: @SpotifyCares We changed from Premium to premium for family. But how do we activate it?? 
+[Thu Oct 12 14:48:50 +0000 2017] [Spotify Support @SpotifyCares]: @360677 Could you DM us your accounts' email addresses or usernames? We'll take a look behind the scenes /AY https://t.co/ldFdZRiNAt",Other / Unclear
+E087,19116,"@115888 Two updates since I got my iPhone X and neither of them optimised for the new screen size. I’m sure you have something in the works… any hints? https://t.co/16C8pZXYYk
+
+@SpotifyCares 🔥 🔥 🔥 
+Can’t wait!","@697056 Hey there, we’re working on this as we speak. Stay tuned! /JO
+
+@697056 We know you're excited! Hopefully, we'll have an update soon. In the meantime, let us know if you need help with anything else /GU","[Tue Nov 14 19:10:28 +0000 2017] [Customer @697056]: @115888 Two updates since I got my iPhone X and neither of them optimised for the new screen size. I’m sure you have something in the works… any hints? https://t.co/16C8pZXYYk 
+[Tue Nov 14 19:43:41 +0000 2017] [Spotify Support @SpotifyCares]: @697056 Hey there, we’re working on this as we speak. Stay tuned! /JO 
+[Tue Nov 14 19:51:44 +0000 2017] [Customer @697056]: @SpotifyCares 🔥 🔥 🔥  Can’t wait! 
+[Tue Nov 14 19:55:44 +0000 2017] [Spotify Support @SpotifyCares]: @697056 We know you're excited! Hopefully, we'll have an update soon. In the meantime, let us know if you need help with anything else /GU",Feature Requests & Device Support
+E088,27515,"Dear @116130 you are officially shit. Your suggested songs ""feature"" ruins the listening experience turning everything into a @244027 playlist.","@244026 Hey Richard, help's here! Can you DM us your account's username or email address? We'll take a look under the hood /PK","[Sat Dec 02 02:50:11 +0000 2017] [Customer @244026]: Dear @116130 you are officially shit. Your suggested songs ""feature"" ruins the listening experience turning everything into a @244027 playlist. 
+[Sat Dec 02 12:39:00 +0000 2017] [Spotify Support @SpotifyCares]: @244026 Hey Richard, help's here! Can you DM us your account's username or email address? We'll take a look under the hood /PK",Feature Requests & Device Support
+E089,19465,"@115888 y’all charged my account 10$ and I don’t even have premium on it. And that 10 made me get an overdraft fee. C’mon.
+
+@115888  https://t.co/Yqwfo5TJfL","@707279 Hey, help's here! Could you DM us a screenshot of your bank statement reflecting the Spotify charge? Just make sure not to include your full card number /MA https://t.co/ldFdZRiNAt","[Wed Nov 15 12:38:04 +0000 2017] [Customer @707279]: @115888 y’all charged my account 10$ and I don’t even have premium on it. And that 10 made me get an overdraft fee. C’mon. 
+[Wed Nov 15 12:39:01 +0000 2017] [Customer @707279]: @115888  https://t.co/Yqwfo5TJfL 
+[Wed Nov 15 13:12:38 +0000 2017] [Spotify Support @SpotifyCares]: @707279 Hey, help's here! Could you DM us a screenshot of your bank statement reflecting the Spotify charge? Just make sure not to include your full card number /MA https://t.co/ldFdZRiNAt",Subscription & Billing Issues
+E090,15575,Can you fuck off with the 7 commercials to every 2 songs u bastards @115888,"@600933 Hi! Thanks for your feedback - we'll pass it on. For now, check out https://t.co/zgnxs53efU if you haven't had a subscription before /GT","[Tue Nov 07 14:13:43 +0000 2017] [Customer @600933]: Can you fuck off with the 7 commercials to every 2 songs u bastards @115888 
+[Tue Nov 07 15:25:11 +0000 2017] [Spotify Support @SpotifyCares]: @600933 Hi! Thanks for your feedback - we'll pass it on. For now, check out https://t.co/zgnxs53efU if you haven't had a subscription before /GT",Subscription & Billing Issues
+E091,16204,@115888 if i create a playlist i do not wanna hear your trash suggestions. I made the playlist.,@625887 Hey there! Can you DM us your account's email address and username? We'll take a look backstage /KL https://t.co/ldFdZRiNAt,"[Wed Nov 08 17:59:02 +0000 2017] [Customer @625887]: @115888 if i create a playlist i do not wanna hear your trash suggestions. I made the playlist. 
+[Wed Nov 08 18:09:36 +0000 2017] [Spotify Support @SpotifyCares]: @625887 Hey there! Can you DM us your account's email address and username? We'll take a look backstage /KL https://t.co/ldFdZRiNAt",Feature Requests & Device Support
+E092,19591,"i just want spotify to update for the iphone x i am sick of this block shit
+
+@SpotifyCares aww thanks huns","@491302 Hi there! We understand. Don't worry, we’re working on it as we speak. Stay tuned /LP
+
+@491302 No problem. If there's anything else, give us a shout. Have a https://t.co/fOHcTvQJC3 💚 /LP","[Wed Nov 15 17:10:54 +0000 2017] [Customer @491302]: i just want spotify to update for the iphone x i am sick of this block shit 
+[Wed Nov 15 17:49:17 +0000 2017] [Spotify Support @SpotifyCares]: @491302 Hi there! We understand. Don't worry, we’re working on it as we speak. Stay tuned /LP 
+[Wed Nov 15 18:13:21 +0000 2017] [Customer @491302]: @SpotifyCares aww thanks huns 
+[Wed Nov 15 18:17:18 +0000 2017] [Spotify Support @SpotifyCares]: @491302 No problem. If there's anything else, give us a shout. Have a https://t.co/fOHcTvQJC3 💚 /LP",Feature Requests & Device Support
+E093,12715,"@115888 Give me a song to jam to so I forget about my no good ex who was a selfish prick. No country though thanks💕
+
+@SpotifyCares You DO care 😭","@119468 Hey there! Here's a whole playlist of songs we think might help: https://t.co/k0bYw0dCVA /NQ
+
+@119468 We sure do. Feel free to send a tweet our way if you ever need any help with anything 🙂 /NQ","[Wed Nov 01 03:02:58 +0000 2017] [Customer @119468]: @115888 Give me a song to jam to so I forget about my no good ex who was a selfish prick. No country though thanks💕 
+[Wed Nov 01 03:27:50 +0000 2017] [Spotify Support @SpotifyCares]: @119468 Hey there! Here's a whole playlist of songs we think might help: https://t.co/k0bYw0dCVA /NQ 
+[Wed Nov 01 03:33:08 +0000 2017] [Customer @119468]: @SpotifyCares You DO care 😭 
+[Wed Nov 01 04:02:24 +0000 2017] [Spotify Support @SpotifyCares]: @119468 We sure do. Feel free to send a tweet our way if you ever need any help with anything 🙂 /NQ",Other / Unclear
+E094,24480,"@SpotifyCares My discover weekly playlist has not updated yet, got any solutions?","@786307 Hey, help's here! Just to check, have you been streaming music recently? If you could fire over your account's email address or username via DM, that'd be great /AY https://t.co/ldFdZRiNAt","[Sun Nov 26 21:44:57 +0000 2017] [Customer @786307]: @SpotifyCares My discover weekly playlist has not updated yet, got any solutions? 
+[Mon Nov 27 07:22:49 +0000 2017] [Spotify Support @SpotifyCares]: @786307 Hey, help's here! Just to check, have you been streaming music recently? If you could fire over your account's email address or username via DM, that'd be great /AY https://t.co/ldFdZRiNAt",Playlist & Library Management
+E095,14991,"Dear @115888, were you aware your Roku app sucks, and sucks hard? 🤔
+
+@SpotifyCares App works exactly as intended, I fear. ☹️
+
+It has none of the daily mixes I have in my other devices.
+
+@SpotifyCares Searching for “Ballad of Lupe Montosa” returns nothing in Roku, but the iOS app correctly shows it, l by Roger Clyne &amp; The Peacemakers.
+
+@SpotifyCares Since searching for songs doesn’t give meaningful results, the songs available in the “Currently Playing” become important.
+
+They all suck.
+
+@SpotifyCares When choosing output devices on iOS device, multiple instances where I’m signed into show up. That’s cool, except Roku doesn’t.
+
+@SpotifyCares Roku doesn’t show up, though I’m standing in front of it, on the same home network.
+
+@SpotifyCares Searching for artist is moderately more useful, unless you’re looking for a song by an artist like Tom Waits, who has a huge catalog.
+
+@SpotifyCares Is that enough for now? I can add more items, those are off the top of my head. I can fire up the app later, it is very quick to load.
+
+@SpotifyCares Which is good, because it doesn’t do a lot. 😕
+
+@SpotifyCares Main menu. https://t.co/iX0MmtZ2c1
+
+@SpotifyCares What’s New menu. Autotune 💩. ☹️ https://t.co/0gesimhGJA
+
+@SpotifyCares No ballad of Lupe Montosa. https://t.co/na6MTNJ6sI
+
+@SpotifyCares iOS app finds it. https://t.co/tUrSph37E0","@511973 Hey there! Could you tell us what's happening exactly? We'll see what we can suggest /DF
+
+@511973 Thanks for the heads-up. Could you also fire over a screenshot of how the Spotify app's menu looks like on your Roku? Keep us posted /MT
+
+@511973 Got it. We have some info about the Spotify app on Roku here: https://t.co/titMn0j3Im. Give us a shout if there's anything else /MT","[Mon Nov 06 15:11:59 +0000 2017] [Customer @511973]: Dear @115888, were you aware your Roku app sucks, and sucks hard? 🤔 
+[Mon Nov 06 17:14:38 +0000 2017] [Spotify Support @SpotifyCares]: @511973 Hey there! Could you tell us what's happening exactly? We'll see what we can suggest /DF 
+[Mon Nov 06 20:54:08 +0000 2017] [Customer @511973]: @SpotifyCares App works exactly as intended, I fear. ☹️  It has none of the daily mixes I have in my other devices. 
+[Mon Nov 06 20:56:41 +0000 2017] [Customer @511973]: @SpotifyCares Searching for “Ballad of Lupe Montosa” returns nothing in Roku, but the iOS app correctly shows it, l by Roger Clyne &amp; The Peacemakers. 
+[Mon Nov 06 20:58:24 +0000 2017] [Customer @511973]: @SpotifyCares Since searching for songs doesn’t give meaningful results, the songs available in the “Currently Playing” become important.  They all suck. 
+[Mon Nov 06 21:00:33 +0000 2017] [Customer @511973]: @SpotifyCares When choosing output devices on iOS device, multiple instances where I’m signed into show up. That’s cool, except Roku doesn’t. 
+[Mon Nov 06 21:01:29 +0000 2017] [Customer @511973]: @SpotifyCares Roku doesn’t show up, though I’m standing in front of it, on the same home network. 
+[Mon Nov 06 21:02:58 +0000 2017] [Customer @511973]: @SpotifyCares Searching for artist is moderately more useful, unless you’re looking for a song by an artist like Tom Waits, who has a huge catalog. 
+[Mon Nov 06 21:04:18 +0000 2017] [Customer @511973]: @SpotifyCares Is that enough for now? I can add more items, those are off the top of my head. I can fire up the app later, it is very quick to load. 
+[Mon Nov 06 21:04:53 +0000 2017] [Customer @511973]: @SpotifyCares Which is good, because it doesn’t do a lot. 😕 
+[Mon Nov 06 22:26:20 +0000 2017] [Spotify Support @SpotifyCares]: @511973 Thanks for the heads-up. Could you also fire over a screenshot of how the Spotify app's menu looks like on your Roku? Keep us posted /MT 
+[Tue Nov 07 04:18:01 +0000 2017] [Customer @511973]: @SpotifyCares Main menu. https://t.co/iX0MmtZ2c1 
+[Tue Nov 07 04:19:04 +0000 2017] [Customer @511973]: @SpotifyCares What’s New menu. Autotune 💩. ☹️ https://t.co/0gesimhGJA 
+[Tue Nov 07 04:19:33 +0000 2017] [Customer @511973]: @SpotifyCares No ballad of Lupe Montosa. https://t.co/na6MTNJ6sI 
+[Tue Nov 07 04:20:50 +0000 2017] [Customer @511973]: @SpotifyCares iOS app finds it. https://t.co/tUrSph37E0 
+[Tue Nov 07 04:21:38 +0000 2017] [Spotify Support @SpotifyCares]: @511973 Got it. We have some info about the Spotify app on Roku here: https://t.co/titMn0j3Im. Give us a shout if there's anything else /MT",Playlist & Library Management
+E096,19964,@115888 I used to have Spotify premium but now only use the version with ads. Ive received a text saying Ive been charged £9.99 for premium and Im not even using it. If you can switch me to premium so Im not wasting money that would be great thanks.,@723628 Hey! Can you DM us your account's email address? We'll see what we can suggest /CB https://t.co/ldFdZRiNAt,"[Thu Nov 16 11:49:00 +0000 2017] [Customer @723628]: @115888 I used to have Spotify premium but now only use the version with ads. Ive received a text saying Ive been charged £9.99 for premium and Im not even using it. If you can switch me to premium so Im not wasting money that would be great thanks. 
+[Thu Nov 16 14:01:04 +0000 2017] [Spotify Support @SpotifyCares]: @723628 Hey! Can you DM us your account's email address? We'll see what we can suggest /CB https://t.co/ldFdZRiNAt",Subscription & Billing Issues
+E097,18560,"@115888 It's ridiculous that I cannot see who follows my original playlists. Can you explain why this feature isn't available?
+
+@SpotifyCares It's been talked about within your community since early 2014 and nothing has been done.
+
+@SpotifyCares Thanks. Makes zero sense for a community based app.","@679167 1: Hey Jason! We can see why that'd be useful. We don't have any info to share right now, but be sure to...
+
+@679167 2: add your support to the idea in our Community: https://t.co/rXH5HEx9hM /CP
+
+@679167 We understand where you're coming from. We're not able to provide any updates on this, but we'll pass your feedback on /CP
+
+@679167 We're sorry you feel that way. Rest assured, we're taking your comments on board, and we'll make sure it reaches the right team /CP","[Mon Nov 13 16:07:48 +0000 2017] [Customer @679167]: @115888 It's ridiculous that I cannot see who follows my original playlists. Can you explain why this feature isn't available? 
+[Mon Nov 13 17:17:50 +0000 2017] [Spotify Support @SpotifyCares]: @679167 1: Hey Jason! We can see why that'd be useful. We don't have any info to share right now, but be sure to... 
+[Mon Nov 13 17:17:59 +0000 2017] [Spotify Support @SpotifyCares]: @679167 2: add your support to the idea in our Community: https://t.co/rXH5HEx9hM /CP 
+[Mon Nov 13 17:21:04 +0000 2017] [Customer @679167]: @SpotifyCares It's been talked about within your community since early 2014 and nothing has been done. 
+[Mon Nov 13 17:58:36 +0000 2017] [Spotify Support @SpotifyCares]: @679167 We understand where you're coming from. We're not able to provide any updates on this, but we'll pass your feedback on /CP 
+[Mon Nov 13 18:04:35 +0000 2017] [Customer @679167]: @SpotifyCares Thanks. Makes zero sense for a community based app. 
+[Mon Nov 13 18:11:56 +0000 2017] [Spotify Support @SpotifyCares]: @679167 We're sorry you feel that way. Rest assured, we're taking your comments on board, and we'll make sure it reaches the right team /CP",Feature Requests & Device Support
+E098,2892,"@SpotifyCares I got charged twice, 65php and 195php for my student and family subscription. I did not cont. student subscrpt. semarfepaquet",@619061 Hey there! We'd like to share some private info with you. Can you DM us your account's email address? We'll keep an eye out for it /GN https://t.co/ldFdZRiNAt,"[Tue Oct 10 14:35:58 +0000 2017] [Customer @619061]: @SpotifyCares I got charged twice, 65php and 195php for my student and family subscription. I did not cont. student subscrpt. semarfepaquet 
+[Tue Oct 10 14:39:35 +0000 2017] [Spotify Support @SpotifyCares]: @619061 Hey there! We'd like to share some private info with you. Can you DM us your account's email address? We'll keep an eye out for it /GN https://t.co/ldFdZRiNAt",Subscription & Billing Issues
+E099,1364,@115888 spirit award released an album today where is it? https://t.co/AWFkT0x7vH,"@608246 Hi Elyse! Fingers crossed we'll be able to have it soon, but there's info about Spotify content here: https://t.co/0i8GpimuDa /AU","[Fri Oct 06 19:30:02 +0000 2017] [Customer @608246]: @115888 spirit award released an album today where is it? https://t.co/AWFkT0x7vH 
+[Fri Oct 06 21:09:47 +0000 2017] [Spotify Support @SpotifyCares]: @608246 Hi Elyse! Fingers crossed we'll be able to have it soon, but there's info about Spotify content here: https://t.co/0i8GpimuDa /AU",Content Availability & Licensing
+E100,17090,"@115888 .... so like when is #reputation going to be available on Spotify??
+
+@SpotifyCares thank you!!","@648186 Hey Fiona. Reputation' isn't available to stream just yet – stay tuned! For now, check out the singles: https://t.co/3h0TnPWP0c /B","[Fri Nov 10 10:51:41 +0000 2017] [Customer @648186]: @115888 .... so like when is #reputation going to be available on Spotify?? 
+[Fri Nov 10 12:02:49 +0000 2017] [Spotify Support @SpotifyCares]: @648186 Hey Fiona. Reputation' isn't available to stream just yet – stay tuned! For now, check out the singles: https://t.co/3h0TnPWP0c /B 
+[Fri Nov 10 12:41:47 +0000 2017] [Customer @648186]: @SpotifyCares thank you!!",Content Availability & Licensing
+E101,20208,"Why would @115888 remove Take Care man wtf
+
+@SpotifyCares If it's not back by tomorrow I'm switching to spinrilla","@729397 Hey there! Sometimes content gets temporarily removed because of licensing changes. Hopefully we'll have it available again soon /CG
+
+@729397 You don't have to wait that long! Is this what you were looking for: https://t.co/vzWbxC013c? We hope this helps 🙂 /NH","[Thu Nov 16 18:50:49 +0000 2017] [Customer @729397]: Why would @115888 remove Take Care man wtf 
+[Thu Nov 16 20:03:03 +0000 2017] [Spotify Support @SpotifyCares]: @729397 Hey there! Sometimes content gets temporarily removed because of licensing changes. Hopefully we'll have it available again soon /CG 
+[Thu Nov 16 20:04:56 +0000 2017] [Customer @729397]: @SpotifyCares If it's not back by tomorrow I'm switching to spinrilla 
+[Thu Nov 16 20:27:56 +0000 2017] [Spotify Support @SpotifyCares]: @729397 You don't have to wait that long! Is this what you were looking for: https://t.co/vzWbxC013c? We hope this helps 🙂 /NH",Content Availability & Licensing
+E102,8382,"@115888 why is every song skipping and constantly crashing when played on my laptop ? 😣😣
+
+@SpotifyCares Spotify premium and ASUS laptop","@344069 Hi Shannon, help's here! Can you let us know the device, OS, and Spotify version you're using? We'll see what we can suggest /BM
+
+@344069 Thanks. We'd suggest logging out, closing the app, and restarting your laptop. Does that help? /BM","[Sat Oct 21 12:09:52 +0000 2017] [Customer @344069]: @115888 why is every song skipping and constantly crashing when played on my laptop ? 😣😣 
+[Sat Oct 21 14:45:21 +0000 2017] [Spotify Support @SpotifyCares]: @344069 Hi Shannon, help's here! Can you let us know the device, OS, and Spotify version you're using? We'll see what we can suggest /BM 
+[Sat Oct 21 16:14:22 +0000 2017] [Customer @344069]: @SpotifyCares Spotify premium and ASUS laptop 
+[Sat Oct 21 17:10:16 +0000 2017] [Spotify Support @SpotifyCares]: @344069 Thanks. We'd suggest logging out, closing the app, and restarting your laptop. Does that help? /BM",Playback & Technical Errors
+E103,182,"Hey @SpotifyCares after I updated the apps why it always go offline and then the music stop playing? How to fix the bug?
+
+@SpotifyCares My phone is Samsung A8,  android and spotify 8.4.21.508 armV7 version.
+
+@SpotifyCares Nope, no error message at all. I never restarting my device yet. Should I try it first?","@294294 Hey! What device, operating system, and Spotify version are you using? We'll see what we can suggest /CB
+
+@294294 Thanks for the info. Do you get an error message when this happens? Also, does restarting your device help at all? /CB
+
+@294294 Thanks for letting us know. Try restarting your device and keep us posted on the results /CB","[Tue Oct 03 11:48:04 +0000 2017] [Customer @294294]: Hey @SpotifyCares after I updated the apps why it always go offline and then the music stop playing? How to fix the bug? 
+[Tue Oct 03 13:18:04 +0000 2017] [Spotify Support @SpotifyCares]: @294294 Hey! What device, operating system, and Spotify version are you using? We'll see what we can suggest /CB 
+[Tue Oct 03 15:30:37 +0000 2017] [Customer @294294]: @SpotifyCares My phone is Samsung A8,  android and spotify 8.4.21.508 armV7 version. 
+[Tue Oct 03 15:32:59 +0000 2017] [Spotify Support @SpotifyCares]: @294294 Thanks for the info. Do you get an error message when this happens? Also, does restarting your device help at all? /CB 
+[Tue Oct 03 15:35:06 +0000 2017] [Customer @294294]: @SpotifyCares Nope, no error message at all. I never restarting my device yet. Should I try it first? 
+[Tue Oct 03 15:41:46 +0000 2017] [Spotify Support @SpotifyCares]: @294294 Thanks for letting us know. Try restarting your device and keep us posted on the results /CB",Playback & Technical Errors
+E104,6920,@SpotifyCares Just got a message saying my library is full and I can't add any more songs. I am a Premium customer. Why is this happening?,@602294 Hi! We've just sent you a bit more info over DM. We'll carry on helping out there /RB,"[Wed Oct 18 21:16:29 +0000 2017] [Customer @602294]: @SpotifyCares Just got a message saying my library is full and I can't add any more songs. I am a Premium customer. Why is this happening? 
+[Wed Oct 18 22:21:01 +0000 2017] [Spotify Support @SpotifyCares]: @602294 Hi! We've just sent you a bit more info over DM. We'll carry on helping out there /RB",Playlist & Library Management
+E105,5283,"@115888 Afternoon - on my android if I try and share a song/album/artist the app just crashes. Have tried uninstalling and reinstalling.
+
+@115888 @SpotifyCares",@545119 Hi Ryan! Can you let us know the device you're using along with the Android and Spotify versions you have installed? We'll be right here /MT,"[Sun Oct 15 16:37:23 +0000 2017] [Customer @545119]: @115888 Afternoon - on my android if I try and share a song/album/artist the app just crashes. Have tried uninstalling and reinstalling. 
+[Sun Oct 15 16:38:44 +0000 2017] [Customer @545119]: @115888 @SpotifyCares 
+[Sun Oct 15 22:41:55 +0000 2017] [Spotify Support @SpotifyCares]: @545119 Hi Ryan! Can you let us know the device you're using along with the Android and Spotify versions you have installed? We'll be right here /MT",Playback & Technical Errors
+E106,10694,"@SpotifyCares You're not making for customers. It's really getting aggravating having to download songs over and over again.
+
+@SpotifyCares Thanks, but I've seen this before.  I've uninstalled and reinstalled the app before, and this continues to happen. It's aggravating.","@569747 Hey Miguel. We're sorry you feel that way. Check out the steps under “Downloads unexpectedly removed” at https://t.co/38J7tFlIBF /QI
+
+@569747 We understand. We'd suggest clicking/tapping on Remove all Devices at https://t.co/NopZTmevLc before reinstalling. Hope this helps /QI","[Thu Oct 26 19:51:52 +0000 2017] [Customer @569747]: @SpotifyCares You're not making for customers. It's really getting aggravating having to download songs over and over again. 
+[Thu Oct 26 20:12:49 +0000 2017] [Spotify Support @SpotifyCares]: @569747 Hey Miguel. We're sorry you feel that way. Check out the steps under “Downloads unexpectedly removed” at https://t.co/38J7tFlIBF /QI 
+[Thu Oct 26 21:14:51 +0000 2017] [Customer @569747]: @SpotifyCares Thanks, but I've seen this before.  I've uninstalled and reinstalled the app before, and this continues to happen. It's aggravating. 
+[Thu Oct 26 21:43:52 +0000 2017] [Spotify Support @SpotifyCares]: @569747 We understand. We'd suggest clicking/tapping on Remove all Devices at https://t.co/NopZTmevLc before reinstalling. Hope this helps /QI",Playback & Technical Errors
+E107,12364,"Hi @SpotifyCares why i can't login to my account, it says wrong login information ( i'm sure it's right )",@582542 Hey there! Could you send us a DM with your account's email address or username? We'll take a look backstage /MA https://t.co/ldFdZRiNAt,"[Tue Oct 31 07:34:42 +0000 2017] [Customer @582542]: Hi @SpotifyCares why i can't login to my account, it says wrong login information ( i'm sure it's right ) 
+[Tue Oct 31 07:51:39 +0000 2017] [Spotify Support @SpotifyCares]: @582542 Hey there! Could you send us a DM with your account's email address or username? We'll take a look backstage /MA https://t.co/ldFdZRiNAt",Account Access & Security
+E108,19875,@115888 like fr I need to be able to block certain artists cause on the release radar this came up and I don’t know what I did to deserve this disgusting music on my release radar https://t.co/QlqvHRXupI,"@719872 Hey there! It's currently not possible to ban artists, but we'll let the team know it's a feature you'd like to see. Your Release Radar becomes more personalized the more you use Spotify. Carry on listening to the songs you love, and hopefully you'll see a new batch on Friday /KT","[Thu Nov 16 05:01:20 +0000 2017] [Customer @719872]: @115888 like fr I need to be able to block certain artists cause on the release radar this came up and I don’t know what I did to deserve this disgusting music on my release radar https://t.co/QlqvHRXupI 
+[Thu Nov 16 05:26:09 +0000 2017] [Spotify Support @SpotifyCares]: @719872 Hey there! It's currently not possible to ban artists, but we'll let the team know it's a feature you'd like to see. Your Release Radar becomes more personalized the more you use Spotify. Carry on listening to the songs you love, and hopefully you'll see a new batch on Friday /KT",Playlist & Library Management
+E109,20404,wHERE IS REPUTATION ON SPOTIFY I SWEAR IF TAYLOR MAKES ME BUY THAT ALBUM,"@734165 Hey there! Taylor Swift's 'Reputation' isn't available to stream just yet – stay tuned! For now, check out the singles: https://t.co/3h0TnPWP0c /GS","[Fri Nov 17 01:30:48 +0000 2017] [Customer @734165]: wHERE IS REPUTATION ON SPOTIFY I SWEAR IF TAYLOR MAKES ME BUY THAT ALBUM 
+[Fri Nov 17 02:00:14 +0000 2017] [Spotify Support @SpotifyCares]: @734165 Hey there! Taylor Swift's 'Reputation' isn't available to stream just yet – stay tuned! For now, check out the singles: https://t.co/3h0TnPWP0c /GS",Content Availability & Licensing
+E110,20578,@115888 c'mon where is perfect velvet,"@738036 Hey! Don't worry, we’ll have it available to you as soon as it’s available to us. We have more info about Spotify content at https://t.co/0i8GpimuDa. Let us know if you need more help /NY","[Fri Nov 17 10:13:53 +0000 2017] [Customer @738036]: @115888 c'mon where is perfect velvet 
+[Fri Nov 17 10:39:59 +0000 2017] [Spotify Support @SpotifyCares]: @738036 Hey! Don't worry, we’ll have it available to you as soon as it’s available to us. We have more info about Spotify content at https://t.co/0i8GpimuDa. Let us know if you need more help /NY",Content Availability & Licensing
+E111,5862,"@SpotifyCares i want to cancel my premium but don't know what email i used, i know the username though, what do i do?","@549997 Hey Laura, help's here! Could you send us a DM with any email address the account might be under and the username? We'll take a look /RV https://t.co/ldFdZRiNAt","[Mon Oct 16 20:46:48 +0000 2017] [Customer @549997]: @SpotifyCares i want to cancel my premium but don't know what email i used, i know the username though, what do i do? 
+[Mon Oct 16 22:33:55 +0000 2017] [Spotify Support @SpotifyCares]: @549997 Hey Laura, help's here! Could you send us a DM with any email address the account might be under and the username? We'll take a look /RV https://t.co/ldFdZRiNAt",Subscription & Billing Issues
+E112,17226,.@117168 How do I disable censored tracks from appearing?,"@393501 Hey Kennon, this sounds like a great idea! Suggest it in our Community at https://t.co/rtDvYZOF32 and get support from other users /TR","[Fri Nov 10 16:27:58 +0000 2017] [Customer @393501]: .@117168 How do I disable censored tracks from appearing? 
+[Fri Nov 10 17:07:56 +0000 2017] [Spotify Support @SpotifyCares]: @393501 Hey Kennon, this sounds like a great idea! Suggest it in our Community at https://t.co/rtDvYZOF32 and get support from other users /TR",Other / Unclear
+E113,781,"@SpotifyCares All my songs just disappeared from my account! What happened? Can I get them back?
+
+@SpotifyCares I have both and Android phone and a Linux laptop, the songs are gone on both, and it just happened about 20 minutes ago.","@171853 Hi Eduardo! Help's arrived. Could you let us know what device, OS, and Spotify version you're rocking? Since when has it been happening? /PI
+
+@171853 Thanks. Can you DM us your Spotify account's email address? We'll take a look backstage 🔍 /PI https://t.co/ldFdZRiNAt","[Thu Oct 05 12:44:36 +0000 2017] [Customer @171853]: @SpotifyCares All my songs just disappeared from my account! What happened? Can I get them back? 
+[Thu Oct 05 12:51:02 +0000 2017] [Spotify Support @SpotifyCares]: @171853 Hi Eduardo! Help's arrived. Could you let us know what device, OS, and Spotify version you're rocking? Since when has it been happening? /PI 
+[Thu Oct 05 12:54:39 +0000 2017] [Customer @171853]: @SpotifyCares I have both and Android phone and a Linux laptop, the songs are gone on both, and it just happened about 20 minutes ago. 
+[Thu Oct 05 12:57:01 +0000 2017] [Spotify Support @SpotifyCares]: @171853 Thanks. Can you DM us your Spotify account's email address? We'll take a look backstage 🔍 /PI https://t.co/ldFdZRiNAt",Content Availability & Licensing
+E114,16083,"@SpotifyCares can you tell me why my app keeps removing all downloaded songs. 2nd time this week it's happened. I listen mainly offline so need downloads https://t.co/YUmALFBPfe
+
+@SpotifyCares Just the albums my playlists are ok.","@625000 Hey, help's here. Is this happening to just your downloaded albums or to your offline playlists as well? /AY
+
+@625000 Thanks for clearing that up. Could you send us a DM with your account's email address? We'll take a look backstage /QI https://t.co/ldFdZRiNAt","[Wed Nov 08 14:37:16 +0000 2017] [Customer @625000]: @SpotifyCares can you tell me why my app keeps removing all downloaded songs. 2nd time this week it's happened. I listen mainly offline so need downloads https://t.co/YUmALFBPfe 
+[Wed Nov 08 14:52:38 +0000 2017] [Spotify Support @SpotifyCares]: @625000 Hey, help's here. Is this happening to just your downloaded albums or to your offline playlists as well? /AY 
+[Wed Nov 08 14:58:52 +0000 2017] [Customer @625000]: @SpotifyCares Just the albums my playlists are ok. 
+[Wed Nov 08 15:01:59 +0000 2017] [Spotify Support @SpotifyCares]: @625000 Thanks for clearing that up. Could you send us a DM with your account's email address? We'll take a look backstage /QI https://t.co/ldFdZRiNAt",Playlist & Library Management
+E115,27286,"Hey @115888 I have an idea; why don't we encode playlist identifiers in the stream so we can ""Shazam"" for playlists? #dinneratarestaurrant",@235572 Hey Andreas! We can see how that’d be handy. We can’t make any promises but we’ll pass your feedback onto the right folks 🙂 /JI,"[Fri Dec 01 18:37:25 +0000 2017] [Customer @235572]: Hey @115888 I have an idea; why don't we encode playlist identifiers in the stream so we can ""Shazam"" for playlists? #dinneratarestaurrant 
+[Fri Dec 01 20:42:46 +0000 2017] [Spotify Support @SpotifyCares]: @235572 Hey Andreas! We can see how that’d be handy. We can’t make any promises but we’ll pass your feedback onto the right folks 🙂 /JI",Playlist & Library Management
+E116,17223,"@115888 @115858 Spotify is soooo buggy for CarPlay. Pls fix soon thanks
+
+@SpotifyCares No that didn’t work :( I’m attaching a screenshot of what it’s doing w/the app open https://t.co/Lo3IuLmPk0
+
+@SpotifyCares Currently using iOS 11.0.3 and the Spotify version is 8.4.25.906","@249035 Hi Lizzie, the cavalry's here! Does logging out, restarting your device, and logging back into Spotify help? Keep us posted /JI
+
+@249035 Thanks for the screenshot. Can you let us know the device iOS and version of Spotify you're using? We'll see what we can suggest /JI
+
+@249035 Got it. Does logging out &gt; restarting your device &gt; logging back in help at all? Give us a shout on how you get on /MT","[Fri Nov 10 16:25:33 +0000 2017] [Customer @249035]: @115888 @115858 Spotify is soooo buggy for CarPlay. Pls fix soon thanks 
+[Fri Nov 10 16:59:15 +0000 2017] [Spotify Support @SpotifyCares]: @249035 Hi Lizzie, the cavalry's here! Does logging out, restarting your device, and logging back into Spotify help? Keep us posted /JI 
+[Fri Nov 10 23:11:50 +0000 2017] [Customer @249035]: @SpotifyCares No that didn’t work :( I’m attaching a screenshot of what it’s doing w/the app open https://t.co/Lo3IuLmPk0 
+[Sat Nov 11 00:11:31 +0000 2017] [Spotify Support @SpotifyCares]: @249035 Thanks for the screenshot. Can you let us know the device iOS and version of Spotify you're using? We'll see what we can suggest /JI 
+[Sat Nov 11 06:12:39 +0000 2017] [Customer @249035]: @SpotifyCares Currently using iOS 11.0.3 and the Spotify version is 8.4.25.906 
+[Sat Nov 11 06:39:25 +0000 2017] [Spotify Support @SpotifyCares]: @249035 Got it. Does logging out &gt; restarting your device &gt; logging back in help at all? Give us a shout on how you get on /MT",Feature Requests & Device Support
+E117,4559,"@115888 @SpotifyCares am having issues joining a family plan, would you help?",@378348 @115888 We've just sent you a DM 🙂 /PX,"[Fri Oct 13 17:49:38 +0000 2017] [Customer @378348]: @115888 @SpotifyCares am having issues joining a family plan, would you help? 
+[Fri Oct 13 20:58:56 +0000 2017] [Spotify Support @SpotifyCares]: @378348 @115888 We've just sent you a DM 🙂 /PX",Subscription & Billing Issues
+E118,21830,"@115888 love Spotify but so limited what I can with my Alexa I will need to drop it..
+
+@SpotifyCares Spotify loses available devices constantly, can only play playlist from master acct, can't play on all devices at once
+
+@SpotifyCares If Google can overcome these issues I will ditch alexa
+
+@SpotifyCares How do I fix Spotify losing my multiple echos?","@231312 Hey! Sorry to hear that. Can you let us know what's happening exactly? We'd love to help you out /JS
+
+@231312 Got it. We're afraid you can only stream from one device at a time, but rest assured we'll pass on your feedback to the right team. Give us a shout for anything else 🙂 /JS
+
+@231312 Hmm. Could you DM us your account's username or email address? We'll take a look under the hood /JS https://t.co/ldFdZRiNAt","[Mon Nov 20 23:17:36 +0000 2017] [Customer @231312]: @115888 love Spotify but so limited what I can with my Alexa I will need to drop it.. 
+[Mon Nov 20 23:26:30 +0000 2017] [Spotify Support @SpotifyCares]: @231312 Hey! Sorry to hear that. Can you let us know what's happening exactly? We'd love to help you out /JS 
+[Mon Nov 20 23:30:00 +0000 2017] [Customer @231312]: @SpotifyCares Spotify loses available devices constantly, can only play playlist from master acct, can't play on all devices at once 
+[Mon Nov 20 23:33:07 +0000 2017] [Customer @231312]: @SpotifyCares If Google can overcome these issues I will ditch alexa 
+[Mon Nov 20 23:35:07 +0000 2017] [Spotify Support @SpotifyCares]: @231312 Got it. We're afraid you can only stream from one device at a time, but rest assured we'll pass on your feedback to the right team. Give us a shout for anything else 🙂 /JS 
+[Mon Nov 20 23:35:55 +0000 2017] [Customer @231312]: @SpotifyCares How do I fix Spotify losing my multiple echos? 
+[Mon Nov 20 23:42:02 +0000 2017] [Spotify Support @SpotifyCares]: @231312 Hmm. Could you DM us your account's username or email address? We'll take a look under the hood /JS https://t.co/ldFdZRiNAt",Feature Requests & Device Support
+E119,9168,"@SpotifyCares, Do offline listens add up to an artist's plays whenever I go back online? 🤔
+
+@SpotifyCares Great! Yes, so I suppose they also count for the end of the year playlist ""Your Top Songs 20##""?","@486667 Offline listens are counted and sent to Spotify's server the next time you connect to the Internet. We hope this answers your question 🙂 /KL
+
+@486667 We're afraid we don't have any more info on this. Let us know if you have other questions /KL","[Mon Oct 23 15:32:47 +0000 2017] [Customer @486667]: @SpotifyCares, Do offline listens add up to an artist's plays whenever I go back online? 🤔 
+[Mon Oct 23 18:09:52 +0000 2017] [Spotify Support @SpotifyCares]: @486667 Offline listens are counted and sent to Spotify's server the next time you connect to the Internet. We hope this answers your question 🙂 /KL 
+[Mon Oct 23 20:01:14 +0000 2017] [Customer @486667]: @SpotifyCares Great! Yes, so I suppose they also count for the end of the year playlist ""Your Top Songs 20##""? 
+[Mon Oct 23 20:07:47 +0000 2017] [Spotify Support @SpotifyCares]: @486667 We're afraid we don't have any more info on this. Let us know if you have other questions /KL",Playlist & Library Management
+E120,8941,@SpotifyCares why was the Moon Song by Karen O ft Ezra Koenig taken off of spotify,@364380 Hey! Sometimes content gets temporarily removed because of licensing changes. Hopefully we'll have it available again soon /RA,"[Mon Oct 23 00:45:16 +0000 2017] [Customer @364380]: @SpotifyCares why was the Moon Song by Karen O ft Ezra Koenig taken off of spotify 
+[Mon Oct 23 05:33:40 +0000 2017] [Spotify Support @SpotifyCares]: @364380 Hey! Sometimes content gets temporarily removed because of licensing changes. Hopefully we'll have it available again soon /RA",Content Availability & Licensing
+E121,26004,"All I want for Christmas is a @115888 “song-in-loop” feature. Thank you please. #musicocd
+
+@SpotifyCares Yay! iPhone 6. Device OS 11.2 Public beta 5. Spotify version 8.4.28.1104. Thanks for caring! 🙌
+
+@SpotifyCares 😮🤦🏻‍♀️Sweeet! Thanks for the help!","@811592 Hey, help's here! This should be possible right now. Can you let us know the device, operating system, and Spotify version you're using? We'll see what we can suggest /GK
+
+@811592 Thanks. On the screen where the song is being played, you'll see the repeat function shaped like an oval loop to the right of the play button. Press that once to repeat the playlist. Press it twice to repeat just the song that's being played. Hope this info helps /GK
+
+@811592 No worries! Feel free to tweet us if there's anything else. https://t.co/uEkAlnxbzn /GK","[Wed Nov 29 09:37:19 +0000 2017] [Customer @811592]: All I want for Christmas is a @115888 “song-in-loop” feature. Thank you please. #musicocd 
+[Wed Nov 29 10:57:30 +0000 2017] [Spotify Support @SpotifyCares]: @811592 Hey, help's here! This should be possible right now. Can you let us know the device, operating system, and Spotify version you're using? We'll see what we can suggest /GK 
+[Wed Nov 29 11:03:04 +0000 2017] [Customer @811592]: @SpotifyCares Yay! iPhone 6. Device OS 11.2 Public beta 5. Spotify version 8.4.28.1104. Thanks for caring! 🙌 
+[Wed Nov 29 11:51:15 +0000 2017] [Spotify Support @SpotifyCares]: @811592 Thanks. On the screen where the song is being played, you'll see the repeat function shaped like an oval loop to the right of the play button. Press that once to repeat the playlist. Press it twice to repeat just the song that's being played. Hope this info helps /GK 
+[Wed Nov 29 13:11:30 +0000 2017] [Customer @811592]: @SpotifyCares 😮🤦🏻‍♀️Sweeet! Thanks for the help! 
+[Wed Nov 29 13:26:09 +0000 2017] [Spotify Support @SpotifyCares]: @811592 No worries! Feel free to tweet us if there's anything else. https://t.co/uEkAlnxbzn /GK",Feature Requests & Device Support
+E122,18818,"Wish Spotify would let you share playlists that u create @115888
+
+@SpotifyCares Wow !! It works..I just tried it.  Thank you so much.  I knew u could share individual songs but not full playlists!! 🤩🤩🤩","@686482 Hey Carrie! You can share your personally-created playlists with these steps: https://t.co/RT7XNMNEAr. Hope this helps /KB
+
+@686482 Awesome! Give us a shout if you ever need us again. We'd be... https://t.co/LgAM6ky9Vv /KB","[Tue Nov 14 04:52:42 +0000 2017] [Customer @686482]: Wish Spotify would let you share playlists that u create @115888 
+[Tue Nov 14 05:22:35 +0000 2017] [Spotify Support @SpotifyCares]: @686482 Hey Carrie! You can share your personally-created playlists with these steps: https://t.co/RT7XNMNEAr. Hope this helps /KB 
+[Tue Nov 14 05:28:11 +0000 2017] [Customer @686482]: @SpotifyCares Wow !! It works..I just tried it.  Thank you so much.  I knew u could share individual songs but not full playlists!! 🤩🤩🤩 
+[Tue Nov 14 05:29:51 +0000 2017] [Spotify Support @SpotifyCares]: @686482 Awesome! Give us a shout if you ever need us again. We'd be... https://t.co/LgAM6ky9Vv /KB",Playlist & Library Management
+E123,17303,"Hey @115888 Eminem dropped song today. And it’s not on Spotify yet. I hope you see the problem
+
+@SpotifyCares How are you going to give me a link that don’t work","@655855 Hey there! Just to check, is this the track you're looking for: spotify:track:7zLGHiDWd9T1Rxw4PQCb13? Keep us posted /DF
+
+@655855 Well, that's embarrassing! Try this link: https://t.co/u6zrDfI3Yx. Keep rocking 🤘 /DQ","[Fri Nov 10 18:56:49 +0000 2017] [Customer @655855]: Hey @115888 Eminem dropped song today. And it’s not on Spotify yet. I hope you see the problem 
+[Fri Nov 10 20:05:07 +0000 2017] [Spotify Support @SpotifyCares]: @655855 Hey there! Just to check, is this the track you're looking for: spotify:track:7zLGHiDWd9T1Rxw4PQCb13? Keep us posted /DF 
+[Fri Nov 10 20:08:11 +0000 2017] [Customer @655855]: @SpotifyCares How are you going to give me a link that don’t work 
+[Fri Nov 10 21:12:38 +0000 2017] [Spotify Support @SpotifyCares]: @655855 Well, that's embarrassing! Try this link: https://t.co/u6zrDfI3Yx. Keep rocking 🤘 /DQ",Content Availability & Licensing
+E124,11058,"@116130 I've been charged the full £9.99 for premium even though I'm on the student plan, can someone please help me with this","@573615 Hey Lauren, help's here! Could you DM us your account's username and email address? We'll take a look backstage 🔍 /DQ https://t.co/ldFdZRiNAt","[Fri Oct 27 16:52:17 +0000 2017] [Customer @573615]: @116130 I've been charged the full £9.99 for premium even though I'm on the student plan, can someone please help me with this 
+[Fri Oct 27 17:31:49 +0000 2017] [Spotify Support @SpotifyCares]: @573615 Hey Lauren, help's here! Could you DM us your account's username and email address? We'll take a look backstage 🔍 /DQ https://t.co/ldFdZRiNAt",Subscription & Billing Issues
+E125,12433,"I....I don....I don't understand, @115888. https://t.co/h6qLR3eyBh
+
+@SpotifyCares @118134 Great, thanks!
+
+@SpotifyCares Oh my god did you just send a song ... that is not available in my Spotify app. I'm sad.","@583132 @118134 Hi! This song is included in the series' soundtrack. No worries, we'll make sure to pass your feedback on to the relevant folks /GT
+
+@583132 https://t.co/rkpsuGlCiy! We're always happy to help so just send a tweet our way if you need us again 😉 /GT
+
+@583132 That's odd. Can you DM us your account's email address or username? We'll take a look backstage /PB https://t.co/ldFdZRiNAt","[Tue Oct 31 12:40:20 +0000 2017] [Customer @583132]: I....I don....I don't understand, @115888. https://t.co/h6qLR3eyBh 
+[Tue Oct 31 14:14:41 +0000 2017] [Spotify Support @SpotifyCares]: @583132 @118134 Hi! This song is included in the series' soundtrack. No worries, we'll make sure to pass your feedback on to the relevant folks /GT 
+[Tue Oct 31 20:53:56 +0000 2017] [Customer @583132]: @SpotifyCares @118134 Great, thanks! 
+[Tue Oct 31 21:03:56 +0000 2017] [Spotify Support @SpotifyCares]: @583132 https://t.co/rkpsuGlCiy! We're always happy to help so just send a tweet our way if you need us again 😉 /GT 
+[Tue Oct 31 21:10:36 +0000 2017] [Customer @583132]: @SpotifyCares Oh my god did you just send a song ... that is not available in my Spotify app. I'm sad. 
+[Tue Oct 31 21:25:05 +0000 2017] [Spotify Support @SpotifyCares]: @583132 That's odd. Can you DM us your account's email address or username? We'll take a look backstage /PB https://t.co/ldFdZRiNAt",Content Availability & Licensing
+E126,13517,@115888 I’m tryna listen to the album not no got damn recommended. Killing my whole vibe.,@461432 Hey there! Can you DM us your account's email address or username? We'll take a look /NS https://t.co/ldFdZRiNAt,"[Thu Nov 02 23:11:03 +0000 2017] [Customer @461432]: @115888 I’m tryna listen to the album not no got damn recommended. Killing my whole vibe. 
+[Fri Nov 03 00:54:59 +0000 2017] [Spotify Support @SpotifyCares]: @461432 Hey there! Can you DM us your account's email address or username? We'll take a look /NS https://t.co/ldFdZRiNAt",Other / Unclear
+E127,9938,@SpotifyCares can I upgrade from premium to family and still pay on my phone bill?,@567659 Hey! It's currently not possible to subscribe to Family via your mobile provider. Could you DM us your account's email/username? /AY https://t.co/ldFdZRiNAt,"[Wed Oct 25 10:02:00 +0000 2017] [Customer @567659]: @SpotifyCares can I upgrade from premium to family and still pay on my phone bill? 
+[Wed Oct 25 11:28:36 +0000 2017] [Spotify Support @SpotifyCares]: @567659 Hey! It's currently not possible to subscribe to Family via your mobile provider. Could you DM us your account's email/username? /AY https://t.co/ldFdZRiNAt",Subscription & Billing Issues
+E128,12021,"After @115888 inexplicably deleting my downloads for the umpteenth time, I am moving on. @116935 let's see what you're made of.
+
+@SpotifyCares Nah. Make Spotify Student work with NUS cards again and we'll talk.","@580722 Hi. Sorry to hear that! Can you check the steps under “Manage your active offline devices” at https://t.co/38J7tFlIBF? /DN
+
+@580722 We understand. Right now, we don’t have any other info on this, but let us know if you need a hand getting set up with UNiDAYS /DN","[Mon Oct 30 13:34:59 +0000 2017] [Customer @580722]: After @115888 inexplicably deleting my downloads for the umpteenth time, I am moving on. @116935 let's see what you're made of. 
+[Mon Oct 30 17:11:51 +0000 2017] [Spotify Support @SpotifyCares]: @580722 Hi. Sorry to hear that! Can you check the steps under “Manage your active offline devices” at https://t.co/38J7tFlIBF? /DN 
+[Mon Oct 30 17:12:34 +0000 2017] [Customer @580722]: @SpotifyCares Nah. Make Spotify Student work with NUS cards again and we'll talk. 
+[Mon Oct 30 18:14:06 +0000 2017] [Spotify Support @SpotifyCares]: @580722 We understand. Right now, we don’t have any other info on this, but let us know if you need a hand getting set up with UNiDAYS /DN",Playback & Technical Errors
+E129,27815,@115888 you guys have overcharged me i bought the 3 months for 9kr but you guys charged me 99kr for 1 month!!,@253499 Hey Günduz! Help's here. Can you DM us your account's email address? We'll take a look backstage /DD https://t.co/ldFdZRiNAt,"[Sat Dec 02 17:33:39 +0000 2017] [Customer @253499]: @115888 you guys have overcharged me i bought the 3 months for 9kr but you guys charged me 99kr for 1 month!! 
+[Sun Dec 03 02:38:48 +0000 2017] [Spotify Support @SpotifyCares]: @253499 Hey Günduz! Help's here. Can you DM us your account's email address? We'll take a look backstage /DD https://t.co/ldFdZRiNAt",Subscription & Billing Issues
+E130,16887,@115888 I pay for premium but my app says it’s only the free version? Help please!,@646227 Hey Dana! Can you DM us your account's email address or username? We'll check backstage /AR https://t.co/ldFdZRiNAt,"[Fri Nov 10 02:02:12 +0000 2017] [Customer @646227]: @115888 I pay for premium but my app says it’s only the free version? Help please! 
+[Fri Nov 10 04:15:35 +0000 2017] [Spotify Support @SpotifyCares]: @646227 Hey Dana! Can you DM us your account's email address or username? We'll check backstage /AR https://t.co/ldFdZRiNAt",Subscription & Billing Issues
+E131,5114,"Why is @115888 skipping like a CD ? Highly confused 🤔
+
+@SpotifyCares iPhone 6s Plus , iOS 11.0.2, and Spotify version 8.4.20.535","@377164 Hi! We're here to help. What device, operating system, and Spotify version are you using? We'll see what we can suggest /RA
+
+@377164 Thanks! Just to confirm, is this happening via WiFi or 3/4G? Also, have you tried logging out and back in? Keep us posted /BH","[Sun Oct 15 01:39:12 +0000 2017] [Customer @377164]: Why is @115888 skipping like a CD ? Highly confused 🤔 
+[Sun Oct 15 03:38:36 +0000 2017] [Spotify Support @SpotifyCares]: @377164 Hi! We're here to help. What device, operating system, and Spotify version are you using? We'll see what we can suggest /RA 
+[Sun Oct 15 17:17:06 +0000 2017] [Customer @377164]: @SpotifyCares iPhone 6s Plus , iOS 11.0.2, and Spotify version 8.4.20.535 
+[Sun Oct 15 22:57:36 +0000 2017] [Spotify Support @SpotifyCares]: @377164 Thanks! Just to confirm, is this happening via WiFi or 3/4G? Also, have you tried logging out and back in? Keep us posted /BH",Playback & Technical Errors
+E132,9746,"@125633 Hey, what happened I can not see my artist page, I already have my account verified. But I'm getting request to check again",@569051 Hey there! This sounds like something for our Artist Services friends. You can reach out to them here: https://t.co/3j9HWSEG0s /KP,"[Tue Oct 24 21:06:00 +0000 2017] [Customer @569051]: @125633 Hey, what happened I can not see my artist page, I already have my account verified. But I'm getting request to check again 
+[Tue Oct 24 21:42:34 +0000 2017] [Spotify Support @SpotifyCares]: @569051 Hey there! This sounds like something for our Artist Services friends. You can reach out to them here: https://t.co/3j9HWSEG0s /KP",Content Availability & Licensing
+E133,22990,@115888 can you add a feature so I can block certain artists from my music feed? Like I never wanna hear the craptastic @3568 @4711  @30403 or @1266 ever again and ive been thumbing them down since signing up. #stopshittymusic,"@278994 Hey Jennifer! We don't have any info on this right now, but we'll let the right team know it's something you'd like to see /FR","[Thu Nov 23 01:47:46 +0000 2017] [Customer @278994]: @115888 can you add a feature so I can block certain artists from my music feed? Like I never wanna hear the craptastic @3568 @4711  @30403 or @1266 ever again and ive been thumbing them down since signing up. #stopshittymusic 
+[Thu Nov 23 03:06:34 +0000 2017] [Spotify Support @SpotifyCares]: @278994 Hey Jennifer! We don't have any info on this right now, but we'll let the right team know it's something you'd like to see /FR",Feature Requests & Device Support
+E134,19931,@115888 when will #Spotify be available in #SouthAfrica,"@721938 Hey! We don't have any info regarding that. Don't you worry, we're launching regularly in countries around the world. Sign up here to be first to hear: https://t.co/XDwWzj7cLP. If you have any other questions, you know where to reach us /DR","[Thu Nov 16 09:11:41 +0000 2017] [Customer @721938]: @115888 when will #Spotify be available in #SouthAfrica 
+[Thu Nov 16 09:35:32 +0000 2017] [Spotify Support @SpotifyCares]: @721938 Hey! We don't have any info regarding that. Don't you worry, we're launching regularly in countries around the world. Sign up here to be first to hear: https://t.co/XDwWzj7cLP. If you have any other questions, you know where to reach us /DR",Content Availability & Licensing
+E135,1061,All I want is @12899 's Lemonade album on @115888 😩,"@288845 Hey! We're working on it, and we hope to have it available soon. There's more info here: https://t.co/WI0fi3V8Cu /JQ","[Fri Oct 06 03:27:30 +0000 2017] [Customer @288845]: All I want is @12899 's Lemonade album on @115888 😩 
+[Fri Oct 06 04:13:22 +0000 2017] [Spotify Support @SpotifyCares]: @288845 Hey! We're working on it, and we hope to have it available soon. There's more info here: https://t.co/WI0fi3V8Cu /JQ",Content Availability & Licensing
+E136,19522,"@SpotifyCares Hi, I have an invite for family plan, when i tried to accept that invite spotify says ""Oops! Something went wrong, please try again."" I can't use my premium for ~2 weeks.
+
+@SpotifyCares I guess spotify cares for only 1 message, i am still waiting your reply","@708522 Hey, help's here! We just replied to your DM. For your account's security, let's carry on chatting there 🙂 /RR
+
+@708522 Hey, sorry for the delay! We just replied to your DM. Check it out 🔍 /RR","[Wed Nov 15 14:51:14 +0000 2017] [Customer @708522]: @SpotifyCares Hi, I have an invite for family plan, when i tried to accept that invite spotify says ""Oops! Something went wrong, please try again."" I can't use my premium for ~2 weeks. 
+[Wed Nov 15 14:59:55 +0000 2017] [Spotify Support @SpotifyCares]: @708522 Hey, help's here! We just replied to your DM. For your account's security, let's carry on chatting there 🙂 /RR 
+[Wed Nov 15 15:44:52 +0000 2017] [Customer @708522]: @SpotifyCares I guess spotify cares for only 1 message, i am still waiting your reply 
+[Wed Nov 15 15:47:43 +0000 2017] [Spotify Support @SpotifyCares]: @708522 Hey, sorry for the delay! We just replied to your DM. Check it out 🔍 /RR",Subscription & Billing Issues
+E137,14147,"@115888 can you update the iOS version of your app I can’t leave the home screen 😒
+
+@SpotifyCares No it doesn’t I also restarted my phone. Basically it stays on the home part of the app and the bar on the bottom doesn’t come up
+
+@SpotifyCares The bar that says now playing doesn’t go away and I can’t choose the search, browse, library or home option
+
+@SpotifyCares To be fair it could be the horrible iOS update","@593217 Hey Alyssia! What's happening exactly? Does reinstalling the app with these steps: https://t.co/mu10ot63uW make any difference at all? /KT
+
+@593217 Got it. Could you send us your exact device model, iOS, Spotify version, and a screenshot of the issue? We'll see what we can suggest /KT","[Sat Nov 04 07:06:59 +0000 2017] [Customer @593217]: @115888 can you update the iOS version of your app I can’t leave the home screen 😒 
+[Sat Nov 04 07:46:29 +0000 2017] [Spotify Support @SpotifyCares]: @593217 Hey Alyssia! What's happening exactly? Does reinstalling the app with these steps: https://t.co/mu10ot63uW make any difference at all? /KT 
+[Sat Nov 04 07:47:56 +0000 2017] [Customer @593217]: @SpotifyCares No it doesn’t I also restarted my phone. Basically it stays on the home part of the app and the bar on the bottom doesn’t come up 
+[Sat Nov 04 07:48:48 +0000 2017] [Customer @593217]: @SpotifyCares The bar that says now playing doesn’t go away and I can’t choose the search, browse, library or home option 
+[Sat Nov 04 07:50:24 +0000 2017] [Customer @593217]: @SpotifyCares To be fair it could be the horrible iOS update 
+[Sat Nov 04 07:58:05 +0000 2017] [Spotify Support @SpotifyCares]: @593217 Got it. Could you send us your exact device model, iOS, Spotify version, and a screenshot of the issue? We'll see what we can suggest /KT",Playlist & Library Management
+E138,16627,Really sucks that @115888 has a download limit,@639476 Hey Cody! We hear you. Make sure to show your support for the idea at https://t.co/8OOl8B2i69 to help make it happen /GU,"[Thu Nov 09 15:47:38 +0000 2017] [Customer @639476]: Really sucks that @115888 has a download limit 
+[Thu Nov 09 16:56:37 +0000 2017] [Spotify Support @SpotifyCares]: @639476 Hey Cody! We hear you. Make sure to show your support for the idea at https://t.co/8OOl8B2i69 to help make it happen /GU",Playback & Technical Errors
+E139,5716,"@115888 Dear Spotify, please update your Roku App and add playlists. I would love to enjoy the whole experience in my Roku.",@542732 Hey Nuri! We have some info about the Spotify app on Roku here: https://t.co/titMn0j3Im. Give us a shout if there's anything else /JX,"[Mon Oct 16 15:36:35 +0000 2017] [Customer @542732]: @115888 Dear Spotify, please update your Roku App and add playlists. I would love to enjoy the whole experience in my Roku. 
+[Mon Oct 16 17:50:17 +0000 2017] [Spotify Support @SpotifyCares]: @542732 Hey Nuri! We have some info about the Spotify app on Roku here: https://t.co/titMn0j3Im. Give us a shout if there's anything else /JX",Playlist & Library Management
+E140,22467,"@115888 Your copy of David Lee Roth's Eat 'Em and Smile is using the Spanish files for the English album as well.
+
+@SpotifyCares It looks like user error. Since the titles are in English and Spanish for both languages I may have downloaded the wrong version.","@657957 Hey there! Can you let us know what's happening exactly with the album? We'll look into it /GS
+
+@657957 We understand. To avoid mix-ups, here's the English version: https://t.co/Tt8lRd3C29. Hope this helps /GS","[Wed Nov 22 01:57:29 +0000 2017] [Customer @657957]: @115888 Your copy of David Lee Roth's Eat 'Em and Smile is using the Spanish files for the English album as well. 
+[Wed Nov 22 03:50:08 +0000 2017] [Spotify Support @SpotifyCares]: @657957 Hey there! Can you let us know what's happening exactly with the album? We'll look into it /GS 
+[Wed Nov 22 05:36:23 +0000 2017] [Customer @657957]: @SpotifyCares It looks like user error. Since the titles are in English and Spanish for both languages I may have downloaded the wrong version. 
+[Wed Nov 22 05:43:37 +0000 2017] [Spotify Support @SpotifyCares]: @657957 We understand. To avoid mix-ups, here's the English version: https://t.co/Tt8lRd3C29. Hope this helps /GS",Playback & Technical Errors
+E141,22152,@SpotifyCares Spotify pauses every fucking time I get on snapchat or get an notification from snapchat fix ittt :)),"@776956 Hi there! Can you tell us what specific device, operating system, and Spotify version you're using? We'll see what we can suggest /NH","[Tue Nov 21 15:31:22 +0000 2017] [Customer @776956]: @SpotifyCares Spotify pauses every fucking time I get on snapchat or get an notification from snapchat fix ittt :)) 
+[Tue Nov 21 17:04:53 +0000 2017] [Spotify Support @SpotifyCares]: @776956 Hi there! Can you tell us what specific device, operating system, and Spotify version you're using? We'll see what we can suggest /NH",Playback & Technical Errors
+E142,4964,@SpotifyCares Having trouble connecting my Student Spotify Premium account to Hulu. Think it's an email issue. Any help??,@389698 Hi! Could you DM us your account's email address or username? We'll take a look backstage /AU https://t.co/ldFdZRiNAt,"[Sat Oct 14 17:49:43 +0000 2017] [Customer @389698]: @SpotifyCares Having trouble connecting my Student Spotify Premium account to Hulu. Think it's an email issue. Any help?? 
+[Sat Oct 14 22:11:19 +0000 2017] [Spotify Support @SpotifyCares]: @389698 Hi! Could you DM us your account's email address or username? We'll take a look backstage /AU https://t.co/ldFdZRiNAt",Other / Unclear
+E143,23723,@115888 this is the 2nd time your app has removed all my downloaded music.. what am I paying for now I have to download everything,@155912 Hey Thomas! Sorry to hear that. We'd suggest to check out the steps under “Downloads unexpectedly removed” at https://t.co/38J7tFlIBF. They should help with this /GN,"[Fri Nov 24 21:00:57 +0000 2017] [Customer @155912]: @115888 this is the 2nd time your app has removed all my downloaded music.. what am I paying for now I have to download everything 
+[Fri Nov 24 22:08:12 +0000 2017] [Spotify Support @SpotifyCares]: @155912 Hey Thomas! Sorry to hear that. We'd suggest to check out the steps under “Downloads unexpectedly removed” at https://t.co/38J7tFlIBF. They should help with this /GN",Playback & Technical Errors
+E144,17569,"Hey @115888 and @115940, why did you cancel my Hulu premium student subscription through Spotify? I no longer have access to Hulu through my Spotify account!",@661807 Hi Jordan! Help's here. Can you DM us your account's username or email address? We'll check things backstage /MU https://t.co/ldFdZRiNAt,"[Sat Nov 11 06:34:48 +0000 2017] [Customer @661807]: Hey @115888 and @115940, why did you cancel my Hulu premium student subscription through Spotify? I no longer have access to Hulu through my Spotify account! 
+[Sat Nov 11 07:01:10 +0000 2017] [Spotify Support @SpotifyCares]: @661807 Hi Jordan! Help's here. Can you DM us your account's username or email address? We'll check things backstage /MU https://t.co/ldFdZRiNAt",Subscription & Billing Issues
+E145,19897,@SpotifyCares I can't login to my account linked with Facebook. It keeps giving me an error.,"@720725 Hey Zoë! Don't worry, we can help. Could you DM us your account's email address? We'll take a look under the hood /KB https://t.co/ldFdZRiNAt","[Thu Nov 16 06:49:27 +0000 2017] [Customer @720725]: @SpotifyCares I can't login to my account linked with Facebook. It keeps giving me an error. 
+[Thu Nov 16 06:50:58 +0000 2017] [Spotify Support @SpotifyCares]: @720725 Hey Zoë! Don't worry, we can help. Could you DM us your account's email address? We'll take a look under the hood /KB https://t.co/ldFdZRiNAt",Account Access & Security
+E146,18085,@SpotifyCares Spotify account reverted back to an old version. Lost all playlists and songs I’ve built over the last two months.,@667854 Hey! Can you DM us your account's email address? We'll see what we can suggest /CB https://t.co/ldFdZRiNAt,"[Sun Nov 12 14:53:42 +0000 2017] [Customer @667854]: @SpotifyCares Spotify account reverted back to an old version. Lost all playlists and songs I’ve built over the last two months. 
+[Sun Nov 12 17:34:55 +0000 2017] [Spotify Support @SpotifyCares]: @667854 Hey! Can you DM us your account's email address? We'll see what we can suggest /CB https://t.co/ldFdZRiNAt",Playlist & Library Management
+E147,25066,@115888 since last week I've had 5 payments pending in my account. That's 60 dollars you have. When will it get refunded???,@798425 Hi! We've just replied to your DM. Let's continue chatting there /JL,"[Tue Nov 28 03:16:29 +0000 2017] [Customer @798425]: @115888 since last week I've had 5 payments pending in my account. That's 60 dollars you have. When will it get refunded??? 
+[Tue Nov 28 05:41:15 +0000 2017] [Spotify Support @SpotifyCares]: @798425 Hi! We've just replied to your DM. Let's continue chatting there /JL",Subscription & Billing Issues
+E148,5145,"@115888 My account got hacked fam, help ya boy out. Used same account since 2013, you don't understand how heartbroken I am😢
+
+@115888 @SpotifyCares","@378503 Hey, we’re sorry to hear that. Check out https://t.co/QHn3ok8y2n for what to do next /NQ","[Sun Oct 15 04:00:39 +0000 2017] [Customer @378503]: @115888 My account got hacked fam, help ya boy out. Used same account since 2013, you don't understand how heartbroken I am😢 
+[Sun Oct 15 04:02:27 +0000 2017] [Customer @378503]: @115888 @SpotifyCares 
+[Sun Oct 15 05:10:00 +0000 2017] [Spotify Support @SpotifyCares]: @378503 Hey, we’re sorry to hear that. Check out https://t.co/QHn3ok8y2n for what to do next /NQ",Account Access & Security
+E149,6642,@SpotifyCares is it common for songs to be removed by you from my playlists? Looks like it’s been removed from your catalogue too,"@552276 Hey there! Sometimes content is temporarily removed due to licensing, but we hope to have it back soon: https://t.co/VMrgnGpB4G /GK","[Wed Oct 18 07:18:46 +0000 2017] [Customer @552276]: @SpotifyCares is it common for songs to be removed by you from my playlists? Looks like it’s been removed from your catalogue too 
+[Wed Oct 18 08:19:19 +0000 2017] [Spotify Support @SpotifyCares]: @552276 Hey there! Sometimes content is temporarily removed due to licensing, but we hope to have it back soon: https://t.co/VMrgnGpB4G /GK",Content Availability & Licensing
+E150,14641,"@SpotifyCares i️ have a billing question
+
+@SpotifyCares i️ signed up for hulu + spotify student discount. spotify took out $4.99 as agreed but hulu took their full portion out. did i️ miss a step?","@486619 Hey, fire away! We're here to help /RH
+
+@486619 Can you DM us your account's email address or username? We'll take a look backstage /RH https://t.co/ldFdZRiNAt","[Sun Nov 05 18:22:34 +0000 2017] [Customer @486619]: @SpotifyCares i️ have a billing question 
+[Sun Nov 05 22:42:42 +0000 2017] [Spotify Support @SpotifyCares]: @486619 Hey, fire away! We're here to help /RH 
+[Sun Nov 05 22:49:48 +0000 2017] [Customer @486619]: @SpotifyCares i️ signed up for hulu + spotify student discount. spotify took out $4.99 as agreed but hulu took their full portion out. did i️ miss a step? 
+[Sun Nov 05 22:52:21 +0000 2017] [Spotify Support @SpotifyCares]: @486619 Can you DM us your account's email address or username? We'll take a look backstage /RH https://t.co/ldFdZRiNAt",Subscription & Billing Issues
+E151,16397,"@SpotifyCares Someone's been hacking my spotify.  I finally Rick-rolled him... but would be great if there was some punishment for Mahamed Bouchaar (GT-190601)
+
+@SpotifyCares Yup... already did that.  So far, he's gone.  Love you to shut down that dudes account!","@632016 Hey Ky! We’re sorry to hear that. We'd suggest checking out https://t.co/QHn3ok8y2n for what to do next /FR
+
+@632016 1: This is something for our Accounts team. To get in touch with them, just go to our contact form here: https://t.co/EQsHGd5NCy and...
+
+@632016 2: select Logging in &gt; I can't log in to Spotify &gt; I STILL NEED HELP /FR","[Thu Nov 09 01:14:10 +0000 2017] [Customer @632016]: @SpotifyCares Someone's been hacking my spotify.  I finally Rick-rolled him... but would be great if there was some punishment for Mahamed Bouchaar (GT-190601) 
+[Thu Nov 09 01:19:52 +0000 2017] [Spotify Support @SpotifyCares]: @632016 Hey Ky! We’re sorry to hear that. We'd suggest checking out https://t.co/QHn3ok8y2n for what to do next /FR 
+[Thu Nov 09 01:23:06 +0000 2017] [Customer @632016]: @SpotifyCares Yup... already did that.  So far, he's gone.  Love you to shut down that dudes account! 
+[Thu Nov 09 01:33:57 +0000 2017] [Spotify Support @SpotifyCares]: @632016 1: This is something for our Accounts team. To get in touch with them, just go to our contact form here: https://t.co/EQsHGd5NCy and... 
+[Thu Nov 09 01:34:03 +0000 2017] [Spotify Support @SpotifyCares]: @632016 2: select Logging in &gt; I can't log in to Spotify &gt; I STILL NEED HELP /FR",Account Access & Security
+E152,21146,@SpotifyCares why does all of my saved music just un-download sometimes,"@748249 Hey Rachel! We're sorry to hear that. Don't worry, following the steps under “Downloads unexpectedly removed” at https://t.co/38J7tFlIBF should help with this. Let us know if you have any questions /KB","[Sun Nov 19 02:34:14 +0000 2017] [Customer @748249]: @SpotifyCares why does all of my saved music just un-download sometimes 
+[Sun Nov 19 04:02:50 +0000 2017] [Spotify Support @SpotifyCares]: @748249 Hey Rachel! We're sorry to hear that. Don't worry, following the steps under “Downloads unexpectedly removed” at https://t.co/38J7tFlIBF should help with this. Let us know if you have any questions /KB",Playback & Technical Errors
+E153,26324,"@115888 is constantly pausing and/or skipping my songs. 
+I am not having fun today.","@818537 Hey there! What device, operating system, and Spotify version are you using? We'll see what we can suggest /RB","[Wed Nov 29 23:14:56 +0000 2017] [Customer @818537]: @115888 is constantly pausing and/or skipping my songs.  I am not having fun today. 
+[Wed Nov 29 23:23:15 +0000 2017] [Spotify Support @SpotifyCares]: @818537 Hey there! What device, operating system, and Spotify version are you using? We'll see what we can suggest /RB",Playback & Technical Errors
+E154,10973,"@115888 so sick and tired of waiting on a refund. Over 35 emails, their replies make no sense and they DON’T listen to my ways to solve it!
+
+@SpotifyCares Recommend what exactly? It’s it’s been escalated and I’ve given them a solution and they ignore me. I WANT MY MONEY!
+
+@SpotifyCares I gave them the info they needed over a week ago. I even gave them an alternative solution. Tired of the BS! I NEED MY $80
+
+@SpotifyCares I have got back with them several time lately and I get nothing! This is ridiculous! How hard is it to issue a refund?? This company sucks!!
+
+@SpotifyCares Yeah they got back to me and said I would have to wait another 14 days to get my refund! THIS COMPANY SUCKS!!
+
+@SpotifyCares I’ve tried that and I get nowhere. They don’t address my issues and ignore what I say. You aren’t doing anything to help either.
+
+@SpotifyCares I have heard from them and now they tell me it’s going to take 14 business days to get my refund. This is total bullshit!! U suck!
+
+@SpotifyCares No they aren’t. They don’t care and neither do you","@381791 Hey Angela! It looks like our Email Support team have sent you a message. We'd recommend getting back to them for more help with this /C
+
+@381791 We understand. It looks like they've asked for some info. Replying with this should get the ball rolling. Let us know how you get on /C
+
+@381791 We're sorry you feel this way. To look into this further, just get back to the team with the info they've requested. They should help /C
+
+@381791 1: We understand your frustration. Rest assured, the team via email will be able to assist. If you've responded to them again...
+
+@381791 2: recently, they'll be in touch again soon to help you resolve this /T
+
+@381791 We're sorry you feel that way. We'd suggest continuing to talk to them via email about this to keep correspondence in one place /T
+
+@381791 1: Rest assured, the team will be happy to help. We recommend replying to the Support team's email about this.
+
+@381791 2: Give us the head's up when you have, and we'll be sure to get this chased up /K
+
+@381791 1: We're sorry for the delay. Rest assured, your refund will be returning to you within 14 business days
+
+@381791 2: We recommend replying to the email the Support team sent you if you have any questions. They're here to help /K","[Fri Oct 27 14:10:06 +0000 2017] [Customer @381791]: @115888 so sick and tired of waiting on a refund. Over 35 emails, their replies make no sense and they DON’T listen to my ways to solve it! 
+[Fri Oct 27 15:32:10 +0000 2017] [Spotify Support @SpotifyCares]: @381791 Hey Angela! It looks like our Email Support team have sent you a message. We'd recommend getting back to them for more help with this /C 
+[Fri Oct 27 16:29:07 +0000 2017] [Customer @381791]: @SpotifyCares Recommend what exactly? It’s it’s been escalated and I’ve given them a solution and they ignore me. I WANT MY MONEY! 
+[Fri Oct 27 16:36:04 +0000 2017] [Spotify Support @SpotifyCares]: @381791 We understand. It looks like they've asked for some info. Replying with this should get the ball rolling. Let us know how you get on /C 
+[Fri Oct 27 16:38:23 +0000 2017] [Customer @381791]: @SpotifyCares I gave them the info they needed over a week ago. I even gave them an alternative solution. Tired of the BS! I NEED MY $80 
+[Fri Oct 27 17:00:19 +0000 2017] [Spotify Support @SpotifyCares]: @381791 We're sorry you feel this way. To look into this further, just get back to the team with the info they've requested. They should help /C 
+[Fri Oct 27 17:10:40 +0000 2017] [Customer @381791]: @SpotifyCares I have got back with them several time lately and I get nothing! This is ridiculous! How hard is it to issue a refund?? This company sucks!! 
+[Sun Oct 29 12:20:16 +0000 2017] [Spotify Support @SpotifyCares]: @381791 1: We understand your frustration. Rest assured, the team via email will be able to assist. If you've responded to them again... 
+[Sun Oct 29 12:20:57 +0000 2017] [Spotify Support @SpotifyCares]: @381791 2: recently, they'll be in touch again soon to help you resolve this /T 
+[Sun Oct 29 21:54:24 +0000 2017] [Customer @381791]: @SpotifyCares Yeah they got back to me and said I would have to wait another 14 days to get my refund! THIS COMPANY SUCKS!! 
+[Mon Oct 30 10:20:19 +0000 2017] [Spotify Support @SpotifyCares]: @381791 We're sorry you feel that way. We'd suggest continuing to talk to them via email about this to keep correspondence in one place /T 
+[Mon Oct 30 16:14:18 +0000 2017] [Customer @381791]: @SpotifyCares I’ve tried that and I get nowhere. They don’t address my issues and ignore what I say. You aren’t doing anything to help either. 
+[Mon Oct 30 18:41:44 +0000 2017] [Spotify Support @SpotifyCares]: @381791 1: Rest assured, the team will be happy to help. We recommend replying to the Support team's email about this. 
+[Mon Oct 30 18:41:55 +0000 2017] [Spotify Support @SpotifyCares]: @381791 2: Give us the head's up when you have, and we'll be sure to get this chased up /K 
+[Tue Oct 31 21:45:05 +0000 2017] [Customer @381791]: @SpotifyCares I have heard from them and now they tell me it’s going to take 14 business days to get my refund. This is total bullshit!! U suck! 
+[Tue Oct 31 21:57:54 +0000 2017] [Spotify Support @SpotifyCares]: @381791 1: We're sorry for the delay. Rest assured, your refund will be returning to you within 14 business days 
+[Tue Oct 31 21:59:03 +0000 2017] [Spotify Support @SpotifyCares]: @381791 2: We recommend replying to the email the Support team sent you if you have any questions. They're here to help /K 
+[Tue Oct 31 22:47:23 +0000 2017] [Customer @381791]: @SpotifyCares No they aren’t. They don’t care and neither do you",Subscription & Billing Issues
+E155,351,"Why pay for @115888 when it wont let me log on !!!!!!
+
+@SpotifyCares I got logged out and now when i try to log back in, it say i am experiancing problems try later","@604205 Hey Rebecca, help's here! Could you send us some details about what's happening, along with any error messages you're seeing? /MQ
+
+@604205 Hmm, that's odd. Can you DM us your account's email address and username? We'll take a look backstage /MQ https://t.co/ldFdZRiNAt","[Wed Oct 04 13:56:31 +0000 2017] [Customer @604205]: Why pay for @115888 when it wont let me log on !!!!!! 
+[Wed Oct 04 14:25:06 +0000 2017] [Spotify Support @SpotifyCares]: @604205 Hey Rebecca, help's here! Could you send us some details about what's happening, along with any error messages you're seeing? /MQ 
+[Wed Oct 04 14:26:31 +0000 2017] [Customer @604205]: @SpotifyCares I got logged out and now when i try to log back in, it say i am experiancing problems try later 
+[Wed Oct 04 14:32:09 +0000 2017] [Spotify Support @SpotifyCares]: @604205 Hmm, that's odd. Can you DM us your account's email address and username? We'll take a look backstage /MQ https://t.co/ldFdZRiNAt",Other / Unclear
+E156,14926,"I just got 30 minutes of ad free music on @115888 and i listened to 1 song, changed the playlist, AND GOT AN AD. This is the reason i have trust issues
+
+@SpotifyCares No
+
+@SpotifyCares Yes","@514332 Hi Sarah, that doesn't sound good! Did the app crash at any point during the 30 minutes? That can cause the ad-free time to reset /ME
+
+@514332 Thanks. Just to check, did you watch the video ad that grants you 30 minutes ad-free listening in full after hearing the offer? /ME
+
+@514332 That's strange. We'll get this passed on to our devs so they can look into it. Give us a shout if you need anything else /ME","[Mon Nov 06 12:46:54 +0000 2017] [Customer @514332]: I just got 30 minutes of ad free music on @115888 and i listened to 1 song, changed the playlist, AND GOT AN AD. This is the reason i have trust issues 
+[Mon Nov 06 14:08:29 +0000 2017] [Spotify Support @SpotifyCares]: @514332 Hi Sarah, that doesn't sound good! Did the app crash at any point during the 30 minutes? That can cause the ad-free time to reset /ME 
+[Mon Nov 06 17:22:07 +0000 2017] [Customer @514332]: @SpotifyCares No 
+[Mon Nov 06 17:30:36 +0000 2017] [Spotify Support @SpotifyCares]: @514332 Thanks. Just to check, did you watch the video ad that grants you 30 minutes ad-free listening in full after hearing the offer? /ME 
+[Mon Nov 06 17:38:40 +0000 2017] [Customer @514332]: @SpotifyCares Yes 
+[Mon Nov 06 18:12:12 +0000 2017] [Spotify Support @SpotifyCares]: @514332 That's strange. We'll get this passed on to our devs so they can look into it. Give us a shout if you need anything else /ME",Playlist & Library Management
+E157,20153,@115888 WHY TF AIN'T TAKE CARE ON SPOTIFY ANYMORE. I WAS JUST LISTENING TO THIS SHIT YESTERDAY,"@729398 Hey there! Not to worry, you can find that Drake album here: https://t.co/vzWbxC013c. Let us know if you have any trouble getting those tunes flowing /TO","[Thu Nov 16 17:44:33 +0000 2017] [Customer @729398]: @115888 WHY TF AIN'T TAKE CARE ON SPOTIFY ANYMORE. I WAS JUST LISTENING TO THIS SHIT YESTERDAY 
+[Thu Nov 16 20:02:31 +0000 2017] [Spotify Support @SpotifyCares]: @729398 Hey there! Not to worry, you can find that Drake album here: https://t.co/vzWbxC013c. Let us know if you have any trouble getting those tunes flowing /TO",Content Availability & Licensing
+E158,2802,"@SpotifyCares cannot log into my Spotify account, I’m not even receiving email to reset password so I’m assuming I’ve been hacked","@215681 Hey Darryl, we've come to the rescue! Could you DM us your account's username or email address? We'll check backstage /RE","[Tue Oct 10 10:00:19 +0000 2017] [Customer @215681]: @SpotifyCares cannot log into my Spotify account, I’m not even receiving email to reset password so I’m assuming I’ve been hacked 
+[Tue Oct 10 10:06:04 +0000 2017] [Spotify Support @SpotifyCares]: @215681 Hey Darryl, we've come to the rescue! Could you DM us your account's username or email address? We'll check backstage /RE",Account Access & Security
+E159,22946,@SpotifyCares hi there i wanted to take up the new 3month deal for $14.99 but it won't let me even though i haven't had premium for months,"@160407 Hi there! Can you DM us your account's email address or username, along with a screenshot of what you're seeing? We'll take a look backstage /NQ https://t.co/ldFdZRiNAt","[Wed Nov 22 23:49:29 +0000 2017] [Customer @160407]: @SpotifyCares hi there i wanted to take up the new 3month deal for $14.99 but it won't let me even though i haven't had premium for months 
+[Thu Nov 23 00:14:11 +0000 2017] [Spotify Support @SpotifyCares]: @160407 Hi there! Can you DM us your account's email address or username, along with a screenshot of what you're seeing? We'll take a look backstage /NQ https://t.co/ldFdZRiNAt",Other / Unclear
+E160,3312,"Hi @115888, just letting you know the tracklisting on the Damien Dempsey 'best of' album is incorrect. 😉
+
+@SpotifyCares https://t.co/8Hd3UrnrOW. Yeh the names just don't match up. One example is the song 'Teachers' is actually called 'Serious'.
+
+@SpotifyCares That being said not all names are incorrect...","@298149 Hey there! What's happening exactly? Can you send us the album's URI or link? We'll take a look backstage /PB
+
+@298149 Thanks. We'll get this reported. Great detective work! https://t.co/LpsmyUtme0 /PB","[Wed Oct 11 14:38:16 +0000 2017] [Customer @298149]: Hi @115888, just letting you know the tracklisting on the Damien Dempsey 'best of' album is incorrect. 😉 
+[Wed Oct 11 15:37:10 +0000 2017] [Spotify Support @SpotifyCares]: @298149 Hey there! What's happening exactly? Can you send us the album's URI or link? We'll take a look backstage /PB 
+[Wed Oct 11 16:11:21 +0000 2017] [Customer @298149]: @SpotifyCares https://t.co/8Hd3UrnrOW. Yeh the names just don't match up. One example is the song 'Teachers' is actually called 'Serious'. 
+[Wed Oct 11 16:11:41 +0000 2017] [Customer @298149]: @SpotifyCares That being said not all names are incorrect... 
+[Wed Oct 11 16:22:38 +0000 2017] [Spotify Support @SpotifyCares]: @298149 Thanks. We'll get this reported. Great detective work! https://t.co/LpsmyUtme0 /PB",Other / Unclear
+E161,9753,"When y'all gonna lift this stupid 3,333 songs download limit? @115888",@397729 Hey Leroy! We can see how that’d be useful! You can vote for the official idea here: https://t.co/Z9OErWpTNz. Stay awesome /ND,"[Tue Oct 24 21:24:20 +0000 2017] [Customer @397729]: When y'all gonna lift this stupid 3,333 songs download limit? @115888 
+[Tue Oct 24 22:05:45 +0000 2017] [Spotify Support @SpotifyCares]: @397729 Hey Leroy! We can see how that’d be useful! You can vote for the official idea here: https://t.co/Z9OErWpTNz. Stay awesome /ND",Playback & Technical Errors
+E162,23282,"@115888 can you please add a ""mix-button""? So you can mix the songs on you're playlist?
+
+@SpotifyCares I want A ""mix-button"" so the songs mix in your playlist. It's very tuff to change all the song by your shelf. It takes a long time.
+
+@SpotifyCares I mean so places of the songs changes. Do you understand?
+
+@SpotifyCares I mean that all the songs mixes when you press the ""mix-Burton"". It takes A long time to move them around by you Shelf.
+
+@SpotifyCares Button*
+
+@SpotifyCares I want A Button you press and then all the songs on your playlist change places randomly.","@141280 Hey Vincent, help has arrived! Can you tell us exactly what you'd like to do? We'll see what we can suggest /RK
+
+@141280 Got it! If you're on Premium, you can play your awesome tunes randomly by turning on the shuffle button. Check out this link on how to find it, and more ways to play your awesome tunes: https://t.co/Um7DQ7RV6o. Hope this helps /LS
+
+@141280 Sorry for the confusion!  If you want to sort the songs in your playlist, you can find the steps here: https://t.co/5hjtm5AdqM. Is this what you were looking for? /LS
+
+@141280 Hmm. To make sure we're on the same page, do you want to sort your songs in a specific order? /LS
+
+@141280 Thanks! We’d recommend suggesting it in our Community where you can get support from other fans: https://t.co/WgY7GXI7jf. Feel free to send a tweet our way if you ever need any help with anything else 👍 /LS","[Thu Nov 23 19:37:54 +0000 2017] [Customer @141280]: @115888 can you please add a ""mix-button""? So you can mix the songs on you're playlist? 
+[Thu Nov 23 21:05:18 +0000 2017] [Spotify Support @SpotifyCares]: @141280 Hey Vincent, help has arrived! Can you tell us exactly what you'd like to do? We'll see what we can suggest /RK 
+[Fri Nov 24 14:14:04 +0000 2017] [Customer @141280]: @SpotifyCares I want A ""mix-button"" so the songs mix in your playlist. It's very tuff to change all the song by your shelf. It takes a long time. 
+[Fri Nov 24 15:08:59 +0000 2017] [Spotify Support @SpotifyCares]: @141280 Got it! If you're on Premium, you can play your awesome tunes randomly by turning on the shuffle button. Check out this link on how to find it, and more ways to play your awesome tunes: https://t.co/Um7DQ7RV6o. Hope this helps /LS 
+[Fri Nov 24 15:11:25 +0000 2017] [Customer @141280]: @SpotifyCares I mean so places of the songs changes. Do you understand? 
+[Fri Nov 24 15:44:31 +0000 2017] [Spotify Support @SpotifyCares]: @141280 Sorry for the confusion!  If you want to sort the songs in your playlist, you can find the steps here: https://t.co/5hjtm5AdqM. Is this what you were looking for? /LS 
+[Fri Nov 24 21:34:16 +0000 2017] [Customer @141280]: @SpotifyCares I mean that all the songs mixes when you press the ""mix-Burton"". It takes A long time to move them around by you Shelf. 
+[Fri Nov 24 21:34:33 +0000 2017] [Customer @141280]: @SpotifyCares Button* 
+[Fri Nov 24 21:53:11 +0000 2017] [Spotify Support @SpotifyCares]: @141280 Hmm. To make sure we're on the same page, do you want to sort your songs in a specific order? /LS 
+[Fri Nov 24 22:03:41 +0000 2017] [Customer @141280]: @SpotifyCares I want A Button you press and then all the songs on your playlist change places randomly. 
+[Fri Nov 24 22:54:46 +0000 2017] [Spotify Support @SpotifyCares]: @141280 Thanks! We’d recommend suggesting it in our Community where you can get support from other fans: https://t.co/WgY7GXI7jf. Feel free to send a tweet our way if you ever need any help with anything else 👍 /LS",Feature Requests & Device Support
+E163,9548,"Dear @SpotifyCares - my desktop application is constantly offline despite strong internet connection. How do I connect? @117168
+
+@SpotifyCares Intel Xeon CPU, Windows 7 Enterprise, Spotify 1.0.66.478.g1296534d (not sure where I check version)
+
+@SpotifyCares Nope - nothing helps. I reinstalled and it worked briefly, but no longer.
+
+@SpotifyCares Work, non-public hard line
+
+@SpotifyCares Happy to do this faster off Twitter too - knittelf(at)https://t.co/h2mmwrcQpE","@393346 Hey there! Can you let us know your device's make/model, operating system, and Spotify version? We'll see what we can suggest /GT
+
+@393346 Thanks. Does logging out, restarting your computer, and logging back in help? Keep us posted /GT
+
+@393346 Got it. Are you currently connected to a home or work/public WiFi network? Keep us in the loop /JI
+
+@393346 Hey! For your security, we'd recommend deleting your previous post. Can we have you DM us your username? We'll continue talking there /JI https://t.co/ldFdZRiNAt","[Tue Oct 24 13:38:51 +0000 2017] [Customer @393346]: Dear @SpotifyCares - my desktop application is constantly offline despite strong internet connection. How do I connect? @117168 
+[Tue Oct 24 15:21:28 +0000 2017] [Spotify Support @SpotifyCares]: @393346 Hey there! Can you let us know your device's make/model, operating system, and Spotify version? We'll see what we can suggest /GT 
+[Tue Oct 24 16:58:06 +0000 2017] [Customer @393346]: @SpotifyCares Intel Xeon CPU, Windows 7 Enterprise, Spotify 1.0.66.478.g1296534d (not sure where I check version) 
+[Tue Oct 24 17:15:26 +0000 2017] [Spotify Support @SpotifyCares]: @393346 Thanks. Does logging out, restarting your computer, and logging back in help? Keep us posted /GT 
+[Tue Oct 24 17:59:00 +0000 2017] [Customer @393346]: @SpotifyCares Nope - nothing helps. I reinstalled and it worked briefly, but no longer. 
+[Tue Oct 24 19:02:34 +0000 2017] [Spotify Support @SpotifyCares]: @393346 Got it. Are you currently connected to a home or work/public WiFi network? Keep us in the loop /JI 
+[Tue Oct 24 19:08:38 +0000 2017] [Customer @393346]: @SpotifyCares Work, non-public hard line 
+[Tue Oct 24 19:09:10 +0000 2017] [Customer @393346]: @SpotifyCares Happy to do this faster off Twitter too - knittelf(at)https://t.co/h2mmwrcQpE 
+[Tue Oct 24 19:21:15 +0000 2017] [Spotify Support @SpotifyCares]: @393346 Hey! For your security, we'd recommend deleting your previous post. Can we have you DM us your username? We'll continue talking there /JI https://t.co/ldFdZRiNAt",Playback & Technical Errors
+E164,27315,"@115888 Hello
+My account got stolen by changing the email. Origina name: KisuoX e-mail: __email__ Please change it back.",@236482 We've just sent a DM your way. Let's carry on chatting there 🙂 /CG,"[Fri Dec 01 19:25:42 +0000 2017] [Customer @236482]: @115888 Hello My account got stolen by changing the email. Origina name: KisuoX e-mail: __email__ Please change it back. 
+[Fri Dec 01 21:37:54 +0000 2017] [Spotify Support @SpotifyCares]: @236482 We've just sent a DM your way. Let's carry on chatting there 🙂 /CG",Account Access & Security
+E165,11451,"@115888 @SpotifyCares how am I supposed to read that? (this is my ""daily mix"") https://t.co/LDuwPF4YEw
+
+@115888 @SpotifyCares By the way the songs listed there (the readable part) are not the ones that actually play
+
+@SpotifyCares Other playlists work fine. Is it normal that the ""daily mix"" one behaves differently than ""discover weekly""?
+
+@SpotifyCares Even as I keep listening to the tracks, the ones near the bottom never become more readable, nor do any more songs show up in the list
+
+@SpotifyCares They won't, that is the issue I'm reporting.","@171765 What you're seeing is normal. You'd be able to see and play more songs as you listen. Are you able to play tracks from other playlists? /CO
+
+@171765 We understand. Just to clarify, as you approach the bottom of the visible list more suggested songs will be loaded in to your Daily Mix /TY
+
+@171765 We'd like to share a bit more info with you. Do you mind sending us a DM? We'll continue helping out there /NG https://t.co/ldFdZRiNAt","[Sat Oct 28 19:38:26 +0000 2017] [Customer @171765]: @115888 @SpotifyCares how am I supposed to read that? (this is my ""daily mix"") https://t.co/LDuwPF4YEw 
+[Sat Oct 28 19:54:55 +0000 2017] [Customer @171765]: @115888 @SpotifyCares By the way the songs listed there (the readable part) are not the ones that actually play 
+[Sat Oct 28 20:13:33 +0000 2017] [Spotify Support @SpotifyCares]: @171765 What you're seeing is normal. You'd be able to see and play more songs as you listen. Are you able to play tracks from other playlists? /CO 
+[Mon Oct 30 15:33:58 +0000 2017] [Customer @171765]: @SpotifyCares Other playlists work fine. Is it normal that the ""daily mix"" one behaves differently than ""discover weekly""? 
+[Mon Oct 30 15:55:55 +0000 2017] [Customer @171765]: @SpotifyCares Even as I keep listening to the tracks, the ones near the bottom never become more readable, nor do any more songs show up in the list 
+[Mon Oct 30 17:53:19 +0000 2017] [Spotify Support @SpotifyCares]: @171765 We understand. Just to clarify, as you approach the bottom of the visible list more suggested songs will be loaded in to your Daily Mix /TY 
+[Tue Oct 31 15:22:50 +0000 2017] [Customer @171765]: @SpotifyCares They won't, that is the issue I'm reporting. 
+[Tue Oct 31 15:52:52 +0000 2017] [Spotify Support @SpotifyCares]: @171765 We'd like to share a bit more info with you. Do you mind sending us a DM? We'll continue helping out there /NG https://t.co/ldFdZRiNAt",Playlist & Library Management
+E166,26714,@SpotifyCares My account was hacked/compromised. I’ve regained access and changed my password but I noticed there were members added to my family that I do not know. I deleted the members I do not know. Just want to make sure I do not have to do anything else.,@124507 Hi Chris. That doesn't sound good! Can you DM us your account's email address or username? We'll take a look under the hood /WP https://t.co/ldFdZRiNAt,"[Thu Nov 30 18:41:42 +0000 2017] [Customer @124507]: @SpotifyCares My account was hacked/compromised. I’ve regained access and changed my password but I noticed there were members added to my family that I do not know. I deleted the members I do not know. Just want to make sure I do not have to do anything else. 
+[Thu Nov 30 20:09:19 +0000 2017] [Spotify Support @SpotifyCares]: @124507 Hi Chris. That doesn't sound good! Can you DM us your account's email address or username? We'll take a look under the hood /WP https://t.co/ldFdZRiNAt",Account Access & Security
+E167,2910,"@SpotifyCares 45 songs just downloaded over cellular data. Couldn't stop them without airplane mode. Explain yourself.
+
+@SpotifyCares Samsung Galaxy S7
+Android 7.0 Nougat
+Spotify 8.4.22.857 armV7
+
+@SpotifyCares It was off. I checked when I caught it downloading song 18/45. I switched it on and back off again to see if it would help. It didn't.
+
+@SpotifyCares I also force closed the app, which stopped the download until I reopened the app again.","@615596 Hi Dewitt! What device (make &amp; model), operating system, and app version are you using? We'll keep an eye out for your reply /LP
+
+@615596 Got it. Can you check if Download using cellular is enabled under Your Library &gt; Settings &gt; Music Quality? We'll be right here waiting /LP
+
+@615596 Hmm. Could you send us your account's username or email address via DM? We'll take a look backstage /LP https://t.co/ldFdZRiNAt","[Tue Oct 10 15:23:01 +0000 2017] [Customer @615596]: @SpotifyCares 45 songs just downloaded over cellular data. Couldn't stop them without airplane mode. Explain yourself. 
+[Tue Oct 10 15:42:29 +0000 2017] [Spotify Support @SpotifyCares]: @615596 Hi Dewitt! What device (make &amp; model), operating system, and app version are you using? We'll keep an eye out for your reply /LP 
+[Tue Oct 10 16:10:35 +0000 2017] [Customer @615596]: @SpotifyCares Samsung Galaxy S7 Android 7.0 Nougat Spotify 8.4.22.857 armV7 
+[Tue Oct 10 16:13:14 +0000 2017] [Spotify Support @SpotifyCares]: @615596 Got it. Can you check if Download using cellular is enabled under Your Library &gt; Settings &gt; Music Quality? We'll be right here waiting /LP 
+[Tue Oct 10 16:31:06 +0000 2017] [Customer @615596]: @SpotifyCares It was off. I checked when I caught it downloading song 18/45. I switched it on and back off again to see if it would help. It didn't. 
+[Tue Oct 10 16:32:01 +0000 2017] [Customer @615596]: @SpotifyCares I also force closed the app, which stopped the download until I reopened the app again. 
+[Tue Oct 10 16:39:50 +0000 2017] [Spotify Support @SpotifyCares]: @615596 Hmm. Could you send us your account's username or email address via DM? We'll take a look backstage /LP https://t.co/ldFdZRiNAt",Playback & Technical Errors
+E168,9173,"Wow @115888 apparently I've reached the maximum number of downloads. What do I do now 🤔
+
+@SpotifyCares Id say probably around 2500","@376423 Hey Elvis! How many tracks would you say you have in Songs (roughly)? e.g. 100, 1000, 5000, or more? /TB
+
+@376423 Got it! There's currently a download limit of 3,333 songs per device, on a maximum of 3 devices. More info here: https://t.co/02nLeSTUV7 /TB","[Mon Oct 23 15:52:38 +0000 2017] [Customer @376423]: Wow @115888 apparently I've reached the maximum number of downloads. What do I do now 🤔 
+[Mon Oct 23 18:36:30 +0000 2017] [Spotify Support @SpotifyCares]: @376423 Hey Elvis! How many tracks would you say you have in Songs (roughly)? e.g. 100, 1000, 5000, or more? /TB 
+[Mon Oct 23 18:37:26 +0000 2017] [Customer @376423]: @SpotifyCares Id say probably around 2500 
+[Mon Oct 23 18:50:29 +0000 2017] [Spotify Support @SpotifyCares]: @376423 Got it! There's currently a download limit of 3,333 songs per device, on a maximum of 3 devices. More info here: https://t.co/02nLeSTUV7 /TB",Playback & Technical Errors
+E169,11710,@115888 HeLp my music keeps uninstalling and i dont know why 😩 then i gotta download all of it again and its killing me,"@577219 Hey, sorry to hear that! Check out the steps under “Downloads unexpectedly removed” at https://t.co/38J7tFlIBF. This should help /QI","[Sun Oct 29 17:03:22 +0000 2017] [Customer @577219]: @115888 HeLp my music keeps uninstalling and i dont know why 😩 then i gotta download all of it again and its killing me 
+[Sun Oct 29 21:52:40 +0000 2017] [Spotify Support @SpotifyCares]: @577219 Hey, sorry to hear that! Check out the steps under “Downloads unexpectedly removed” at https://t.co/38J7tFlIBF. This should help /QI",Playback & Technical Errors
+E170,11118,Never wanted a feature so badly as I want the ability to tag songs for flexible playlists @115888 perty plz,@270648 Hey there! We can see how that’d be handy. Thanks for taking the time to reach out – your feedback's been noted 📝 /DF,"[Fri Oct 27 19:10:49 +0000 2017] [Customer @270648]: Never wanted a feature so badly as I want the ability to tag songs for flexible playlists @115888 perty plz 
+[Fri Oct 27 19:46:11 +0000 2017] [Spotify Support @SpotifyCares]: @270648 Hey there! We can see how that’d be handy. Thanks for taking the time to reach out – your feedback's been noted 📝 /DF",Feature Requests & Device Support
+E171,2324,"Why the fuck dose the Teen Party playlist have so many of that kid Jacobs songs.
+
+6 songs. 
+Did someone hack you @SpotifyCares","@206142 1: Hey there, thanks for the feedback! Our Curation team are independent &amp; use taste, data, research, and trends to create...
+
+@206142 2: playlists, but we’ll be sure to pass on your comments. Anything else, let us know /NY","[Mon Oct 09 07:13:37 +0000 2017] [Customer @206142]: Why the fuck dose the Teen Party playlist have so many of that kid Jacobs songs.  6 songs.  Did someone hack you @SpotifyCares 
+[Mon Oct 09 07:44:17 +0000 2017] [Spotify Support @SpotifyCares]: @206142 1: Hey there, thanks for the feedback! Our Curation team are independent &amp; use taste, data, research, and trends to create... 
+[Mon Oct 09 07:44:22 +0000 2017] [Spotify Support @SpotifyCares]: @206142 2: playlists, but we’ll be sure to pass on your comments. Anything else, let us know /NY",Playlist & Library Management
+E172,2238,"@115888 Feature Idea: Add a 'Hash-Tag your song Button' =&gt; good for users &amp; good for your ML recommenders &amp; gives  u more info $$
+
+@115888 @115888 I suppose that you are already getting something like this info from semantic analysis of playlist names!? I bet you are!
+
+@115888 If so, please use this added feature in your #ML recommenders. Why do I ask for this? You can improve your #imnotsayingitsucks recommender
+
+@SpotifyCares Thanks! I tried to do that but I have no pathway to publish a question. Do I not have restricted forum permissions, or something like that?
+
+@SpotifyCares I do indeed have a Spotify account and I""m logged in! Perhaps I'm blind, but I cannot find the correct 'click pathway' to be able to submit","@319328 Hey! If you think this could be useful, suggest it in our Community where you can get support from other fans: https://t.co/WgY7GXI7jf /AR
+
+@319328 We can see how that’d be handy. Thanks for taking the time to reach out – your feedback's been noted 📝 /AR
+
+@319328 1: Just to check, do you already have a Spotify account? If so, you can use your login details to create an account in our Community.
+
+@319328 2: Once you already have one, you can go ahead and post your suggestion /AR
+
+@319328 Can you DM us your account's email address or username? We'll check backstage /AR https://t.co/ldFdZRiNAt","[Mon Oct 09 01:37:20 +0000 2017] [Customer @319328]: @115888 Feature Idea: Add a 'Hash-Tag your song Button' =&gt; good for users &amp; good for your ML recommenders &amp; gives  u more info $$ 
+[Mon Oct 09 02:03:52 +0000 2017] [Spotify Support @SpotifyCares]: @319328 Hey! If you think this could be useful, suggest it in our Community where you can get support from other fans: https://t.co/WgY7GXI7jf /AR 
+[Mon Oct 09 04:24:04 +0000 2017] [Customer @319328]: @115888 @115888 I suppose that you are already getting something like this info from semantic analysis of playlist names!? I bet you are! 
+[Mon Oct 09 04:27:28 +0000 2017] [Customer @319328]: @115888 If so, please use this added feature in your #ML recommenders. Why do I ask for this? You can improve your #imnotsayingitsucks recommender 
+[Mon Oct 09 04:34:18 +0000 2017] [Spotify Support @SpotifyCares]: @319328 We can see how that’d be handy. Thanks for taking the time to reach out – your feedback's been noted 📝 /AR 
+[Mon Oct 09 04:38:01 +0000 2017] [Customer @319328]: @SpotifyCares Thanks! I tried to do that but I have no pathway to publish a question. Do I not have restricted forum permissions, or something like that? 
+[Mon Oct 09 04:46:04 +0000 2017] [Spotify Support @SpotifyCares]: @319328 1: Just to check, do you already have a Spotify account? If so, you can use your login details to create an account in our Community. 
+[Mon Oct 09 04:46:39 +0000 2017] [Spotify Support @SpotifyCares]: @319328 2: Once you already have one, you can go ahead and post your suggestion /AR 
+[Mon Oct 09 04:55:14 +0000 2017] [Customer @319328]: @SpotifyCares I do indeed have a Spotify account and I""m logged in! Perhaps I'm blind, but I cannot find the correct 'click pathway' to be able to submit 
+[Mon Oct 09 05:10:49 +0000 2017] [Spotify Support @SpotifyCares]: @319328 Can you DM us your account's email address or username? We'll check backstage /AR https://t.co/ldFdZRiNAt",Feature Requests & Device Support
+E173,25861,@SpotifyCares  someone hacked into my account...,"@807664 Hey there, sorry to hear that! Can you DM us your account's email address and username? We'll take a look backstage /KL https://t.co/ldFdZRiNAt","[Tue Nov 28 23:55:58 +0000 2017] [Customer @807664]: @SpotifyCares  someone hacked into my account... 
+[Wed Nov 29 00:11:04 +0000 2017] [Spotify Support @SpotifyCares]: @807664 Hey there, sorry to hear that! Can you DM us your account's email address and username? We'll take a look backstage /KL https://t.co/ldFdZRiNAt",Account Access & Security
+E174,12431,"@SpotifyCares Where is Chris Stapleton's ""Sometimes I Cry"" off the Traveller album? @115948 still has it... 👀",@583085 Hi Brandon! Sometimes content gets temporarily removed because of licensing changes. Hopefully we'll have it available again soon /PL,"[Tue Oct 31 12:31:43 +0000 2017] [Customer @583085]: @SpotifyCares Where is Chris Stapleton's ""Sometimes I Cry"" off the Traveller album? @115948 still has it... 👀 
+[Tue Oct 31 14:11:39 +0000 2017] [Spotify Support @SpotifyCares]: @583085 Hi Brandon! Sometimes content gets temporarily removed because of licensing changes. Hopefully we'll have it available again soon /PL",Content Availability & Licensing
+E175,24826,"Can’t get phone help with @115888 ? Really, almost enough to make me want to cancel my subscription. That’s ridiculous.","@794174 Hi there! We don't have phone support, but we'd be glad to lend a hand via Twitter. Could you send us a DM with your account's username or email address? We'll take a look backstage 🔍 /DB https://t.co/ldFdZRiNAt","[Mon Nov 27 16:56:42 +0000 2017] [Customer @794174]: Can’t get phone help with @115888 ? Really, almost enough to make me want to cancel my subscription. That’s ridiculous. 
+[Mon Nov 27 21:42:48 +0000 2017] [Spotify Support @SpotifyCares]: @794174 Hi there! We don't have phone support, but we'd be glad to lend a hand via Twitter. Could you send us a DM with your account's username or email address? We'll take a look backstage 🔍 /DB https://t.co/ldFdZRiNAt",Subscription & Billing Issues
+E176,2587,@115888 Can we get an Apple Watch App or a better way to control songs.,@337495 Hey Nelson! Check out the official idea and add your vote to let our devs know it's something you'd like to see: https://t.co/SEK4E4gi22 /SY,"[Mon Oct 09 19:44:01 +0000 2017] [Customer @337495]: @115888 Can we get an Apple Watch App or a better way to control songs. 
+[Mon Oct 09 20:54:25 +0000 2017] [Spotify Support @SpotifyCares]: @337495 Hey Nelson! Check out the official idea and add your vote to let our devs know it's something you'd like to see: https://t.co/SEK4E4gi22 /SY",Feature Requests & Device Support
+E177,8693,"Hey @SpotifyCares, you put this EP on the WRONG artist. This EP belong to SCANDAL (from Japan) not Scandal. Thx.
+https://t.co/Ko3TppP5Qh","@354062 Hi there! Thanks for the heads-up. No worries, we'll get this reported. Great detective work https://t.co/LpsmyUtme0 😉 /NY","[Sun Oct 22 07:42:09 +0000 2017] [Customer @354062]: Hey @SpotifyCares, you put this EP on the WRONG artist. This EP belong to SCANDAL (from Japan) not Scandal. Thx. https://t.co/Ko3TppP5Qh 
+[Sun Oct 22 12:00:36 +0000 2017] [Spotify Support @SpotifyCares]: @354062 Hi there! Thanks for the heads-up. No worries, we'll get this reported. Great detective work https://t.co/LpsmyUtme0 😉 /NY",Content Availability & Licensing
+E178,11847,"@SpotifyCares it seems that my account has been hacked, got an email address change notification and it wasn't me who did it...how do I fix?","@577618 Hey, that's not cool! Could you send us a DM with your account's email address or username? We'll take a look backstage /CH https://t.co/ldFdZRiNAt","[Mon Oct 30 00:31:34 +0000 2017] [Customer @577618]: @SpotifyCares it seems that my account has been hacked, got an email address change notification and it wasn't me who did it...how do I fix? 
+[Mon Oct 30 01:02:57 +0000 2017] [Spotify Support @SpotifyCares]: @577618 Hey, that's not cool! Could you send us a DM with your account's email address or username? We'll take a look backstage /CH https://t.co/ldFdZRiNAt",Account Access & Security
+E179,23175,Anyone know how you play all songs in your library on @115888 ??? #spotifyhelp,@287986 Hi there! You can enjoy all the tracks in Your Library by heading over to Songs and clicking on Play. Let us know how it goes /HR,"[Thu Nov 23 14:26:00 +0000 2017] [Customer @287986]: Anyone know how you play all songs in your library on @115888 ??? #spotifyhelp 
+[Thu Nov 23 17:41:32 +0000 2017] [Spotify Support @SpotifyCares]: @287986 Hi there! You can enjoy all the tracks in Your Library by heading over to Songs and clicking on Play. Let us know how it goes /HR",Playlist & Library Management
+E180,2206,"@115888 uhm i think ur ad machine is broken b/c i listened to the ad for 30 mins of ad free music and its been 10 mins and theres an ad....
+
+@SpotifyCares nope i was just jammin out and boom - there were no crashes and the app didnt close
+
+@SpotifyCares yep
+
+@SpotifyCares thanks","@204738 Hey, that doesn't sound good! Did the app crash at any point during the 30 minutes? That can cause the ad-free time to reset /RA
+
+@204738 Thanks for confirming! Just to check, did you definitely watch the video ad in full after hearing the offer? /RA
+
+@204738 That's strange. We'll get this passed on to our devs so they can look into it. Give us a shout if you need anything else /RA","[Sun Oct 08 23:30:01 +0000 2017] [Customer @204738]: @115888 uhm i think ur ad machine is broken b/c i listened to the ad for 30 mins of ad free music and its been 10 mins and theres an ad.... 
+[Mon Oct 09 00:53:39 +0000 2017] [Spotify Support @SpotifyCares]: @204738 Hey, that doesn't sound good! Did the app crash at any point during the 30 minutes? That can cause the ad-free time to reset /RA 
+[Mon Oct 09 00:54:54 +0000 2017] [Customer @204738]: @SpotifyCares nope i was just jammin out and boom - there were no crashes and the app didnt close 
+[Mon Oct 09 00:56:24 +0000 2017] [Spotify Support @SpotifyCares]: @204738 Thanks for confirming! Just to check, did you definitely watch the video ad in full after hearing the offer? /RA 
+[Mon Oct 09 00:56:42 +0000 2017] [Customer @204738]: @SpotifyCares yep 
+[Mon Oct 09 00:59:09 +0000 2017] [Spotify Support @SpotifyCares]: @204738 That's strange. We'll get this passed on to our devs so they can look into it. Give us a shout if you need anything else /RA 
+[Mon Oct 09 00:59:31 +0000 2017] [Customer @204738]: @SpotifyCares thanks",Playback & Technical Errors

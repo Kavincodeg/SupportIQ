@@ -1,0 +1,25 @@
+======================================================================
+SPOTIFYCARES DATASET FILTERING COMPARISON REPORT (V1 vs V2)
+======================================================================
+Original SpotifyCares threads: 28,280
+
+PREVIOUSLY (V1 Logic):
+  Fully trusted: 25,604
+  Rejected because multi_author_merge: 1,073 (all multi-author threads excluded)
+  Rejected because suspect_timing: 954
+
+AFTER FIX (V2 Logic):
+  Fully trusted: 26,243
+  Excluded by multi_author_merge AND suspect_timing: 395
+  Clean multi-author threads retained (in trusted corpus): 639
+  Of those, successfully extracted into a grounding pair: 481
+  Of those, excluded_ambiguous_attribution (kept in trusted corpus, not used as grounding pair): 158
+
+Change in trusted corpus = new_trusted - old_trusted = 26,243 - 25,604 = +639
+Percentage change = (new_trusted - old_trusted) / old_trusted * 100 = +2.50%
+
+GROUNDING CORPUS V2:
+  Single-author pairs: 25,604
+  Retained multi-author pairs: 481
+  Total Grounding Pairs in V2: 26,085
+======================================================================

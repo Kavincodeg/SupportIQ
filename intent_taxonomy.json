@@ -1,0 +1,108 @@
+{
+  "taxonomy_metadata": {
+    "corpus_source": "data/spotify_grounding_corpus_v2.csv",
+    "sample_file": "data/intent_sample_250.csv",
+    "reference_autolabeled_file": "data/intent_sample_250_llm_autolabeled.csv",
+    "sample_size": 250,
+    "random_seed": 42,
+    "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "clustering_evaluated_k": [5, 6, 7, 8, 9, 10, 11, 12],
+    "clustering_best_k": 5,
+    "clustering_best_silhouette": 0.0509,
+    "num_categories": 7,
+    "methodology_caveat": "Note: k-means silhouette scores were low (0.027-0.051) across all tested k values, indicating weak natural clustering structure in short, noisy tweet text. The final taxonomy was primarily derived through manual reading and categorization of the 250-sample by a human reviewer, using clustering only as a rough discovery aid rather than a definitive grouping. This should be treated honestly in any discussion of the taxonomy's derivation method - it is not purely 'unsupervised' or 'data-driven' in a strict algorithmic sense."
+  },
+  "intents": [
+    {
+      "id": "subscription_and_billing",
+      "name": "Subscription & Billing Issues",
+      "definition": "Customer requests regarding payments, unexpected or recurring charges, premium plan tiers (Family, Student, Duo), promotional pricing, subscription cancellation, refunds, or free-tier advertising experience complaints.",
+      "estimated_coverage_pct": 23.6,
+      "sample_count": 59,
+      "examples": [
+        "@SpotifyCares Hi for some strange reason i was charged 14.99 for premium and headspace this month, i havent changed anything and all previous months it has been 4.99 as i am a student. I have changed it back to student now but dont know why it had changed?",
+        "@SpotifyCares how do i cancel 30 day free trial",
+        "@115888 please stop playing creepy Halloween movie ads while I’m in the gym by myself at 1am thanks  @SpotifyCares Thank you! 😌"
+      ],
+      "classification_rubric": "Classify under 'Subscription & Billing Issues' whenever the user expresses concern regarding payment processing, billing discrepancies, subscription tiers (such as Student verification via SheerID, Premium Family plan invites/pricing/address verification, or free trial expirations), cancellation inquiries, refund requests, or comparative questions about the benefits/perks of upgrading from Free to Premium. This category also explicitly includes substantive complaints regarding the free-tier advertising experience—such as ad frequency, inappropriate or disturbing ad content (e.g. horror movie promos, gunshot sound effects), or jarring ad volume/loudness jumps—because ads are the defining monetization mechanism and differentiator between the free tier and a paid subscription. If a user complains about paying for Premium while asking why a specific song or album is missing from the catalog, prioritize 'Content Availability & Licensing' instead."
+    },
+    {
+      "id": "playback_and_technical_errors",
+      "name": "Playback & Technical Errors",
+      "definition": "Customer reports of application crashes, system freezes, songs failing to load or play, audio glitches, language/localization display bugs, corrupted offline downloads, or installation errors across platforms.",
+      "estimated_coverage_pct": 18.0,
+      "sample_count": 45,
+      "examples": [
+        "Hey @115888 , I'm getting real tired of not being able to listen to music and have the app crash all the time.  Please fix it. https://t.co/c1kQ9g7Hej  @SpotifyCares It's Spotify version 8.4.22.857 armV7 on a Samsung Galaxy S8+ running Android 7.0  @SpotifyCares Nope. Logged out of Spotify, restated phone, listened to one song on the playlist and it still froze up. https://t.co/OKJuMrXDTC  @SpotifyCares This is the 4th or 5th time I've noticed that this particular song is next in the queue when the app freezes. https://t.co/vRcm1VRcZy  @SpotifyCares Yes, it's on a playlist I follow from you guys. (Viva Latino - Top 50 by Spotify) I don't know if I can remove if the playlist isn't mine.",
+        "@SpotifyCares windows Error 17 on trying to install on PC tried all troubleshoot options , not happy , £9.99 a month and it doesn’t work ! Help please  @SpotifyCares It’s windows 7  @SpotifyCares I tried that and it didn’t work but then I tried “Troubleshoot compatibility” and it worked 🙂, I’ve been trying to load this for a long time , felt I was wasting my money , but all seems okay now , thankyou.  @SpotifyCares I spoke too soon , after successfully installing I got an option at the top of Spotify screen to install latest version , stupidly I clicked that option now have a blank screen , Spotify icon has windows shield on it , can you help ?",
+        "@SpotifyCares I have lost all offline tracks (AGAIN) but have 6GB of spotify files stuck on SD Card that won't delete after uninstall. Help  @SpotifyCares Ok thanks, I will give it a go."
+      ],
+      "classification_rubric": "Classify under 'Playback & Technical Errors' when the customer reports acute runtime bugs, application crashes, freezes, installation failures (e.g., Error 17, Error 50), blank screens, device display synchronization or language/localization settings bugs (e.g., app displaying in the wrong language across devices), offline downloads getting corrupted or deleted, or songs failing to play due to technical failure (e.g., infinite spinner, web player playback stopping, or audio stuttering). Do not use this intent if a song cannot be played specifically because it is greyed out, removed by copyright/licensing, or not yet released in the catalog; those belong to 'Content Availability & Licensing'."
+    },
+    {
+      "id": "feature_requests_and_device_support",
+      "name": "Feature Requests & Device Support",
+      "definition": "Customer requests for new software capabilities, UI improvements, hardware/OS platform integrations (e.g., Apple Watch, Apple TV, iPhone X, CarPlay), or algorithmic suggestions.",
+      "estimated_coverage_pct": 16.8,
+      "sample_count": 42,
+      "examples": [
+        "@115888 please tell me you’re going to release an AppleWatch app soon!? Want to run w/o phone!",
+        "When is @115888 going to put a sleep timer in their settings?  Because I could use that right now.",
+        "@115888  is there a way to block explicit songs from random playlists. I can’t listen to these at work."
+      ],
+      "classification_rubric": "Classify under 'Feature Requests & Device Support' when the customer proposes product enhancements, UI redesigns, missing software tools (such as sleep timers, explicit lyric filters, or lyrics integration), new hardware/platform support (e.g., Apple Watch standalone streaming, CarPlay responsiveness, smart speaker integration, Apple TV, or iPhone X display optimization), or international rollout requests (e.g. launching in India or Russia). This category covers forward-looking requests rather than complaints about existing features breaking."
+    },
+    {
+      "id": "content_availability_and_licensing",
+      "name": "Content Availability & Licensing",
+      "definition": "Inquiries or complaints regarding missing songs, unreleased or delayed albums, regional licensing restrictions, greyed-out tracks, or incorrect artist metadata.",
+      "estimated_coverage_pct": 16.4,
+      "sample_count": 41,
+      "examples": [
+        "@115888 where is 'Reputation'?! https://t.co/fc04Wpbakl  @SpotifyCares I already have heard them.. I want to listen to the album  @SpotifyCares I hope so",
+        "It sucks that #LEMONADE is still not on @115888...guys, c'mon! I need more @12899 in my life.",
+        "Blegh, some of the old Get Scraped Deamau5 tracks got removed from spotify ;(  @SpotifyCares https://t.co/G6J9keroaj #10 'bored of canada' is greyed out, doesn't show up in searches  @SpotifyCares Should be Netherlands"
+      ],
+      "classification_rubric": "Classify under 'Content Availability & Licensing' when a user asks about music or podcast content that is not found, was removed from Spotify, is greyed out in their country, has not yet been released on the platform (e.g., asking when an anticipated album like Taylor Swift's Reputation will arrive), or inquires about regional chart availability (e.g., Top Charts for a specific country). This also includes artist metadata errors (e.g., songs mapped to the wrong artist profile, incorrect bios, or artist release mismatches). If a track is available in the catalog but fails to stream due to app crashes or network bugs, assign to 'Playback & Technical Errors'."
+    },
+    {
+      "id": "playlist_and_library_management",
+      "name": "Playlist & Library Management",
+      "definition": "Questions, issues, or feedback regarding playlist creation, editing track order, changing cover art, managing saved collections, home screen playlist preferences, or hitting the 10,000-song library limit.",
+      "estimated_coverage_pct": 9.6,
+      "sample_count": 24,
+      "examples": [
+        "Dear @115888 - it would be super handy if we could edit the order of songs in playlists on phones... https://t.co/ZOLl1uzl0H  @SpotifyCares THANK YOU!!  👏🏻💃🏼👏🏻",
+        "@SpotifyCares why can't i change  the cover/description of my playlists?? it seems like everyone else can but me?? 😔  @SpotifyCares yes!  @SpotifyCares 1.0.20.101",
+        ":'-(  @SpotifyCares let me know when you remove your frustrating 10k song library limit.  https://t.co/vANgjQflxL"
+      ],
+      "classification_rubric": "Classify under 'Playlist & Library Management' when the user's inquiry focuses directly on organizing, curating, or configuring their playlists and music library. This includes reordering tracks, sorting alphabetically, uploading playlist artwork or descriptions, recovering deleted playlists, managing home screen playlist displays, navigating Daily Mixes / Discover Weekly curation, and venting or inquiring about the platform's 10,000-song saved library cap ('Epic collection my friend'). If the issue is that downloaded songs were wiped from local storage by a technical glitch, classify as 'Playback & Technical Errors'."
+    },
+    {
+      "id": "account_access_and_security",
+      "name": "Account Access & Security",
+      "definition": "Urgent customer issues regarding compromised/hacked accounts, password resets, unauthorized profile modifications, third-party social account unlinking, forgotten login credentials, or multi-device login conflicts.",
+      "estimated_coverage_pct": 8.0,
+      "sample_count": 20,
+      "examples": [
+        "@115888 someone is hacking my account; Why can't I readily find a support phone # or email to fix it? It's shitty and you know it.",
+        "@SpotifyCares my account has been hijacked and they also changed my email. I just reset my password tho and I hope it won’t happen again. I’m a premium user so please take this as a serious matter now that I know some ppl are complaining the same.",
+        "@SpotifyCares Uh spotify, why did you just log me out then tell me my email doesn't exist when I try to reset my password?  @SpotifyCares Your support team is slower than your programming monkeys - it was fixed by the time you responded."
+      ],
+      "classification_rubric": "Classify under 'Account Access & Security' when a user is locked out of their Spotify account, suspects unauthorized access, reports that an attacker changed their email or password, is trapped in password reset loops, requests unlinking of connected third-party social accounts (e.g. disconnecting a relative's Facebook profile), or notices concurrent playback from unknown remote devices ('account used elsewhere'). This category takes high priority because compromised accounts require immediate security escalation and identity verification workflows."
+    },
+    {
+      "id": "other_and_unclear",
+      "name": "Other / Unclear",
+      "definition": "Bounded catch-all category for truly ambiguous tweets, standalone links or screenshots with no context, brief acknowledgments/gratitude, or unrelated inquiries.",
+      "estimated_coverage_pct": 7.6,
+      "sample_count": 19,
+      "examples": [
+        "@SpotifyCares Thx spot",
+        "@SpotifyCares https://t.co/777rIXhISF",
+        "@181186 i want to work with you guys. Is it possible? I have a degree in computer information"
+      ],
+      "classification_rubric": "Classify under 'Other / Unclear' only as a last resort when the message cannot be definitively mapped to any of the specific support intents. Common examples include brief conversational acknowledgments ('thx spot', 'props for the creativity'), bare image/link URLs with no explanatory text ('https://t.co/777rIXhISF', 'why https://t.co/...'), vague statements of distress with no actionable details ('@SpotifyCares please help'), or off-topic inquiries such as job applications."
+    }
+  ]
+}

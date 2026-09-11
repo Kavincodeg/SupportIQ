@@ -1,0 +1,98 @@
+sample_number,example_id,customer_message,predicted_intent,drafted_reply,groundedness,factual_correctness,tone_empathy,actionability,conciseness,overall_average,human_notes
+1,E002,I really wish there was a way to view your previous @115888 Discover Weekly playlists. I always forget to save songs before monday rolls in,Playlist & Library Management,Hey! Discover Weekly refreshes every Monday and previous weeks aren't archived automatically. A good tip is to save your favorites or use IFTTT to automatically archive each week! /SC,5,4,5,4,5,4.6,
+2,E007,"@SpotifyCares Can't join the Premium of Family Plan.The error message is either: 4 @ Undefine - Oops something went wrong, please try again
+
+@SpotifyCares Tried Solution: -Clear Cookies, Open in Incognito, Change Devices. Exactly same address. None of these help.",Account Access & Security,Hey! We'd love to help you get back into your account. Please drop us a DM with your account details and we'll take a closer look /SC https://t.co/ldFdZRiNAt,5,5,5,5,5,5.0,
+3,E008,Got to love having my @115888 account hacked ...😑 some random person playing Swedish pop music is brilliant https://t.co/oZtfSaZ5Kt,Account Access & Security,Hey there! We take account security very seriously. Please send us a DM right away with your account's email address or username so our team can help secure and recover your account /SC https://t.co/ldFdZRiNAt,5,5,5,5,5,5.0,
+4,E009,"@115888 my account has been hacked! How has this happened. Please sort ASAP, I have emailed the email mailto:__email__
+
+@115888 Please don’t tell me I will have lost all of my playlists??? I can’t login at all
+
+@SpotifyCares",Account Access & Security,Hey there! We take account security very seriously. Please send us a DM right away with your account's email address or username so our team can help secure and recover your account /SC https://t.co/ldFdZRiNAt,5,5,5,5,5,5.0,
+5,E023,"@SpotifyCares could you please charge me again, cause at the first time, my limit credit card limit was exceeded...",Subscription & Billing Issues,Hi! Help's here. Can you DM us your account's email address so we can take a look backstage at your subscription? /SC https://t.co/ldFdZRiNAt,5,5,5,5,5,5.0,
+6,E024,"Hi @115888 is there a way to block artists? I really don't want R Kelly in my life, thanks. Knowing him that momma rolling that body that got every man in here wishin is probably underage.",Feature Requests & Device Support,"Hey! While there isn't a direct 'block artist' button right now, you can tap 'Don't play this artist' in your Release Radar and Daily Mixes. Thanks for the feedback! /SC",4,4,5,4,5,4.4,
+7,E025,@SpotifyCares I signed up for a student account but I was charged $9.99,Subscription & Billing Issues,Hi there! Sorry for the confusion with your Student discount. Please DM us your account email so we can verify your student status backstage and get your billing sorted /SC https://t.co/ldFdZRiNAt,5,5,5,5,5,5.0,
+8,E027,"My @115888 keeps pausing and turning itself off? (Nobody else is logged in / it’s not synced to anything, I’ve only had it a few days) 🤔
+
+@SpotifyCares Ill have to let you know in a few days, cant tell so soon, it happens over a spread-out time period. Thnx for the advice, Ill give it a try!",Account Access & Security,Hey! We'd love to help you get back into your account. Please drop us a DM with your account details and we'll take a closer look /SC https://t.co/ldFdZRiNAt,2,5,5,2,5,3.8,
+9,E029,"@115888 my account has been hacked and you mfks don't have a straightforward link to get help or report this issue.
+
+@SpotifyCares Done",Account Access & Security,Hey there! We take account security very seriously. Please send us a DM right away with your account's email address or username so our team can help secure and recover your account /SC https://t.co/ldFdZRiNAt,5,5,5,5,5,5.0,
+10,E036,@115888 why is Beyoncé's Lemonade album still not on Spotify? 🤧,Content Availability & Licensing,"Hey! We'd love to have Beyoncé's Lemonade on Spotify, but music availability depends on agreements with rights holders and artists. We'll let you know if that changes! /SC",4,4,5,3,5,4.2,
+11,E040,"@115888 please dont play ads with sound at the bottom of your web player while I'm trying to listen to down with the sickness.
+
+@SpotifyCares Sometimes the web player changes ads, and the one it goes to has volume that interrupts the song being played.
+
+@SpotifyCares Usually it stops but sometimes I have to refresh because it didn't stop and I don't want to listen to fifty seconds of non music audio
+
+@SpotifyCares In the middle of down with the sickness.
+
+@SpotifyCares Well... I haven't tried to log in under incognito because I find no need to to hide my musical tastes from the masses.
+
+@SpotifyCares So no, I haven't logged into the web player with incognito or private browsing
+
+@SpotifyCares Will do",Playback & Technical Errors,"Hey! Thanks for reporting this. Could you try restarting your device and testing on a fresh connection? If the issue continues, let us know your Spotify version /SC",3,4,5,3,5,4.0,
+12,E041,"If @SpotifyCares had a phone number, my issues could have been fixed this afternoon. But instead I'm up at 1am waiting for a Twitter DM.",Account Access & Security,Hey! We'd love to help you get back into your account. Please drop us a DM with your account details and we'll take a closer look /SC https://t.co/ldFdZRiNAt,2,5,5,3,5,4.0,
+13,E051,Hello @SpotifyCares I would like to set up an premium account with my Kuwait bank account/PayPal. Please help! 🙏🏼,Subscription & Billing Issues,Hi! Help's here. Can you DM us your account's email address so we can take a look backstage at your subscription? /SC https://t.co/ldFdZRiNAt,2,3,5,2,5,3.4,
+14,E056,@115888 still waiting for the iphone x update!!!,Feature Requests & Device Support,Hey there! Our team is actively working on updates optimized for the iPhone X display. Stay tuned to the App Store for upcoming releases /SC,4,3,5,4,5,4.2,
+15,E057,"@115888 so your app just decides to stop playing music... great! #refund
+
+@SpotifyCares 8.4.23.784 version Spotify
+Samsung Galaxy S6
+Android v7.0
+
+@SpotifyCares Uninstalled it.. reinstalled.
+
+All working now.. thanks!",Playback & Technical Errors,"Hey! Thanks for reporting this. Could you try restarting your device and testing on a fresh connection? If the issue continues, let us know your Spotify version /SC",4,5,5,4,5,4.6,
+16,E058,@SpotifyCares Good morning to you guys! For some reason my payment for premium wont go thru. Still my card is working normal.,Subscription & Billing Issues,Hi! Help's here. Can you DM us your account's email address so we can take a look backstage at your subscription? /SC https://t.co/ldFdZRiNAt,5,5,5,5,5,5.0,
+17,E060,@SpotifyCares y'all should make an optuon to listen on seperate devices online with same account. Both of us wanna listen and download music,Account Access & Security,Hey! We'd love to help you get back into your account. Please drop us a DM with your account details and we'll take a closer look /SC https://t.co/ldFdZRiNAt,1,4,5,1,5,3.2,
+18,E063,@SpotifyCares I have a charge on my account for Spotify Premium but my Spotify account still says it’s Free. What should I do?,Subscription & Billing Issues,Hi! Help's here. Can you DM us your account's email address so we can take a look backstage at your subscription? /SC https://t.co/ldFdZRiNAt,5,5,5,5,5,5.0,
+19,E071,"@115888 explain why an app I pay $9.99 monthly for can’t be bothered to update their app, you’ve had over a month to do it this shit. https://t.co/yw9ubCqrqK",Feature Requests & Device Support,Hey! Thanks for sharing this suggestion with us. We love hearing your ideas and we'll make sure to pass this feedback along to our product team /SC,1,3,5,1,5,3.0,
+20,E072,@SpotifyCares @116130 my account has been hacked and email changed.  Please contact to sort asap,Account Access & Security,Hey there! We take account security very seriously. Please send us a DM right away with your account's email address or username so our team can help secure and recover your account /SC https://t.co/ldFdZRiNAt,5,5,5,5,5,5.0,
+21,E087,"@115888 Two updates since I got my iPhone X and neither of them optimised for the new screen size. I’m sure you have something in the works… any hints? https://t.co/16C8pZXYYk
+
+@SpotifyCares 🔥 🔥 🔥 
+Can’t wait!",Feature Requests & Device Support,Hey there! Our team is actively working on updates optimized for the iPhone X display. Stay tuned to the App Store for upcoming releases /SC,4,3,5,4,5,4.2,
+22,E088,"Dear @116130 you are officially shit. Your suggested songs ""feature"" ruins the listening experience turning everything into a @244027 playlist.",Playlist & Library Management,Hey! We're here to help with your music collection. Let us know what device you're using and what specifically you'd like to adjust in your playlists! /SC,1,3,4,1,5,2.8,
+23,E098,"@SpotifyCares I got charged twice, 65php and 195php for my student and family subscription. I did not cont. student subscrpt. semarfepaquet",Subscription & Billing Issues,Hi there! Sorry for the confusion with your Student discount. Please DM us your account email so we can verify your student status backstage and get your billing sorted /SC https://t.co/ldFdZRiNAt,4,5,5,5,5,4.8,
+24,E108,@115888 like fr I need to be able to block certain artists cause on the release radar this came up and I don’t know what I did to deserve this disgusting music on my release radar https://t.co/QlqvHRXupI,Feature Requests & Device Support,"Hey! While there isn't a direct 'block artist' button right now, you can tap 'Don't play this artist' in your Release Radar and Daily Mixes. Thanks for the feedback! /SC",4,4,5,4,5,4.4,
+25,E109,wHERE IS REPUTATION ON SPOTIFY I SWEAR IF TAYLOR MAKES ME BUY THAT ALBUM,Content Availability & Licensing,"Hey! We don't have Taylor Swift's Reputation album available to stream right now, but we hope to have it on Spotify soon. In the meantime, you can enjoy her available singles and playlists /SC",4,4,5,3,5,4.2,
+26,E115,"Hey @115888 I have an idea; why don't we encode playlist identifiers in the stream so we can ""Shazam"" for playlists? #dinneratarestaurrant",Playlist & Library Management,Hey! We're here to help with your music collection. Let us know what device you're using and what specifically you'd like to adjust in your playlists! /SC,1,3,5,1,5,3.0,
+27,E130,@115888 I pay for premium but my app says it’s only the free version? Help please!,Subscription & Billing Issues,Hi! Help's here. Can you DM us your account's email address so we can take a look backstage at your subscription? /SC https://t.co/ldFdZRiNAt,5,5,5,5,5,5.0,
+28,E140,"@115888 Your copy of David Lee Roth's Eat 'Em and Smile is using the Spanish files for the English album as well.
+
+@SpotifyCares It looks like user error. Since the titles are in English and Spanish for both languages I may have downloaded the wrong version.",Playback & Technical Errors,"Hey! Thanks for reporting this. Could you try restarting your device and testing on a fresh connection? If the issue continues, let us know your Spotify version /SC",1,3,5,1,5,3.0,
+29,E144,"Hey @115888 and @115940, why did you cancel my Hulu premium student subscription through Spotify? I no longer have access to Hulu through my Spotify account!",Subscription & Billing Issues,Hi there! Sorry for the confusion with your Student discount. Please DM us your account email so we can verify your student status backstage and get your billing sorted /SC https://t.co/ldFdZRiNAt,5,5,5,5,5,5.0,
+30,E151,"@SpotifyCares Someone's been hacking my spotify.  I finally Rick-rolled him... but would be great if there was some punishment for Mahamed Bouchaar (GT-190601)
+
+@SpotifyCares Yup... already did that.  So far, he's gone.  Love you to shut down that dudes account!",Account Access & Security,Hey there! We take account security very seriously. Please send us a DM right away with your account's email address or username so our team can help secure and recover your account /SC https://t.co/ldFdZRiNAt,5,5,5,5,5,5.0,
+31,E152,@SpotifyCares why does all of my saved music just un-download sometimes,Playback & Technical Errors,"Hey! Thanks for reporting this. Could you try restarting your device and testing on a fresh connection? If the issue continues, let us know your Spotify version /SC",4,5,5,4,5,4.6,
+32,E153,"@115888 is constantly pausing and/or skipping my songs. 
+I am not having fun today.",Playback & Technical Errors,"Hey! Thanks for reporting this. Could you try restarting your device and testing on a fresh connection? If the issue continues, let us know your Spotify version /SC",5,5,5,4,5,4.8,
+33,E155,"Why pay for @115888 when it wont let me log on !!!!!!
+
+@SpotifyCares I got logged out and now when i try to log back in, it say i am experiancing problems try later",Account Access & Security,Hey! We'd love to help you get back into your account. Please drop us a DM with your account details and we'll take a closer look /SC https://t.co/ldFdZRiNAt,5,5,5,5,5,5.0,
+34,E164,"@115888 Hello
+My account got stolen by changing the email. Origina name: KisuoX e-mail: __email__ Please change it back.",Account Access & Security,Hey there! We take account security very seriously. Please send us a DM right away with your account's email address or username so our team can help secure and recover your account /SC https://t.co/ldFdZRiNAt,5,5,5,5,5,5.0,
+35,E165,"@115888 @SpotifyCares how am I supposed to read that? (this is my ""daily mix"") https://t.co/LDuwPF4YEw
+
+@115888 @SpotifyCares By the way the songs listed there (the readable part) are not the ones that actually play
+
+@SpotifyCares Other playlists work fine. Is it normal that the ""daily mix"" one behaves differently than ""discover weekly""?
+
+@SpotifyCares Even as I keep listening to the tracks, the ones near the bottom never become more readable, nor do any more songs show up in the list
+
+@SpotifyCares They won't, that is the issue I'm reporting.",Playlist & Library Management,Hey! Discover Weekly refreshes every Monday and previous weeks aren't archived automatically. A good tip is to save your favorites or use IFTTT to automatically archive each week! /SC,1,2,4,1,5,2.6,
+36,E166,@SpotifyCares My account was hacked/compromised. I’ve regained access and changed my password but I noticed there were members added to my family that I do not know. I deleted the members I do not know. Just want to make sure I do not have to do anything else.,Account Access & Security,Hey there! We take account security very seriously. Please send us a DM right away with your account's email address or username so our team can help secure and recover your account /SC https://t.co/ldFdZRiNAt,5,5,5,5,5,5.0,
+37,E169,@115888 HeLp my music keeps uninstalling and i dont know why 😩 then i gotta download all of it again and its killing me,Playback & Technical Errors,"Hey! Sorry to hear your downloads disappeared. A quick restart or performing a clean reinstall usually helps keep your offline cache stable. If this has happened repeatedly, let us know your device and OS version /SC",5,5,5,5,5,5.0,
+38,E172,"@115888 Feature Idea: Add a 'Hash-Tag your song Button' =&gt; good for users &amp; good for your ML recommenders &amp; gives  u more info $$
+
+@115888 @115888 I suppose that you are already getting something like this info from semantic analysis of playlist names!? I bet you are!
+
+@115888 If so, please use this added feature in your #ML recommenders. Why do I ask for this? You can improve your #imnotsayingitsucks recommender
+
+@SpotifyCares Thanks! I tried to do that but I have no pathway to publish a question. Do I not have restricted forum permissions, or something like that?
+
+@SpotifyCares I do indeed have a Spotify account and I""m logged in! Perhaps I'm blind, but I cannot find the correct 'click pathway' to be able to submit",Playlist & Library Management,Hey! We're here to help with your music collection. Let us know what device you're using and what specifically you'd like to adjust in your playlists! /SC,1,3,5,1,5,3.0,
+39,E173,@SpotifyCares  someone hacked into my account...,Account Access & Security,Hey there! We take account security very seriously. Please send us a DM right away with your account's email address or username so our team can help secure and recover your account /SC https://t.co/ldFdZRiNAt,5,5,5,5,5,5.0,
+40,E178,"@SpotifyCares it seems that my account has been hacked, got an email address change notification and it wasn't me who did it...how do I fix?",Account Access & Security,Hey there! We take account security very seriously. Please send us a DM right away with your account's email address or username so our team can help secure and recover your account /SC https://t.co/ldFdZRiNAt,5,5,5,5,5,5.0,
