@@ -11,6 +11,12 @@ venv/
 # Environment / Secret keys
 .env
 .env.*
+*.pem
+*.key
+*.pfx
+*.p12
+credentials.json
+client_secrets*.json
 
 # OS files
 Thumbs.db
