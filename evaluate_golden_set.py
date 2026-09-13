@@ -12,7 +12,7 @@ if hasattr(sys.stdout, "reconfigure"):
 
 GOLDEN_SET_FILE = os.path.join("data", "golden_set_labeled.csv")
 TAXONOMY_FILE = "intent_taxonomy.json"
-REPORT_FILE = os.path.join("reports", "golden_set_evaluation.md")
+REPORT_FILE = os.path.join("reports", "golden_set_baselines.md")
 
 def load_data():
     if not os.path.exists(GOLDEN_SET_FILE):

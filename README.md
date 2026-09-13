@@ -33,13 +33,15 @@ Core dependencies include:
 - `langdetect` (>=1.0.9): Language filtering during raw corpus processing
 
 ### Environment Variables & API Keys
-- **Offline / Self-Contained Execution (Default):** **No external cloud API keys are required** to run the complete pipeline, baseline evaluations, or statistical agreement harnesses. The system is engineered to run completely offline using local embedding models and deterministic rubric-anchored logic, eliminating API rate limits, billing dependencies, and external network instability during grading.
-- **Optional Live LLM Providers:** If you wish to connect external LLM API clients (e.g., OpenAI or Anthropic) to execute the system prompts in [`prompts/`](prompts/), install the optional clients (`openai` or `anthropic`) and export your credentials:
+- **Google Gemini API Key (Required for Pipeline Re-Run):** The core pipeline script `run_full_support_pipeline.py` executes real LLM API calls using Google's official `google-genai` SDK and the `gemini-3.1-flash-lite` model. To re-run the full pipeline end-to-end, set:
   ```bash
-  export OPENAI_API_KEY="your-api-key-here"
-  # or
-  export ANTHROPIC_API_KEY="your-api-key-here"
+  export GEMINI_API_KEY="your-gemini-api-key"
+  # Windows PowerShell:
+  # $env:GEMINI_API_KEY="your-gemini-api-key"
   ```
+  *(Optional: set `GEMINI_MODEL="gemini-3.1-flash-lite"` if you wish to override the model).*
+- **Rate-Limit Pacing:** The pipeline includes built-in request pacing (`CALL_PACING_INTERVAL = 4.2s`), guaranteeing that all 126 batched calls stay strictly under the free-tier quota of 15 requests per minute without triggering 429 rate limit exceptions.
+- **Offline Inspection:** All resulting datasets (`data/drafted_replies_180.csv`, `data/judge_scores_180.csv`, `data/golden_set_labeled.csv`) are committed in the repository. You can evaluate the baselines and examine results offline without an API key in under 30 seconds via `python evaluate_golden_set.py`.
 
 ### Raw Dataset Access (`twcs.csv`)
 The raw Kaggle Customer Support on Twitter dataset (`twcs.csv`, 516 MB) was excluded from version control due to GitHub file size limits. 
@@ -64,11 +66,12 @@ All required intermediate assets, ground truth labels, candidate pools, and scor
    ```
    *Expected runtime: ~15–30 seconds.* Computes lexical heuristic baseline and dense embedding baseline metrics against human ground truth.
 
-2. **Run the Full Support Pipeline:**
+2. **Re-Run the Full Support Pipeline (Real Gemini LLM Execution):**
    ```bash
+   export GEMINI_API_KEY="your-gemini-api-key"
    python run_full_support_pipeline.py
    ```
-   *Expected runtime: ~30–60 seconds.* Executes few-shot intent classification, retrieves 3-shot grounding pairs, drafts policy-aligned replies, applies the escalation policy, and executes automated multi-dimensional judging across all 180 golden tickets.
+   *Expected runtime: ~8.5 minutes (due to 4.2s rate-pacing across 126 batched API calls).* Executes real few-shot intent classification, retrieves 3-shot grounding pairs, drafts dynamic replies, applies the escalation policy, and executes automated multi-dimensional judging across all 180 golden tickets. Pre-generated outputs are already available in `data/drafted_replies_180.csv` and `data/judge_scores_180.csv`.
 
 3. **Compute Human-Judge Agreement & Discrepancy Metrics:**
    ```bash
@@ -93,11 +96,12 @@ For a complete end-to-end reproduction from raw data, execute the pipeline in th
    ```
    *Expected runtime: ~60–90 minutes.* **Requires manual human input.** Interactive CLI tool for human annotation of the 180 stratified golden candidate inquiries with intent category, acceptable reply notes, historical critique notes, and auto/escalate routing. *(Pre-annotated output already available in `data/golden_set_labeled.csv`).*
 
-3. **Production Support Pipeline Execution:**
+3. **Production Support Pipeline Execution (Real Gemini LLM API):**
    ```bash
+   export GEMINI_API_KEY="your-gemini-api-key"
    python run_full_support_pipeline.py
    ```
-   *Expected runtime: ~30–60 seconds.* Runs the core production agent over `data/golden_set_labeled.csv`: few-shot intent classification, grounded retrieval drafting, escalation decision routing, and automated LLM judging. Outputs `data/drafted_replies_180.csv`, `data/judge_scores_180.csv`, and updates `reports/golden_set_evaluation.md`.
+   *Expected runtime: ~8.5 minutes (due to 4.2s rate-pacing across 126 batched API calls).* Runs the core production agent over `data/golden_set_labeled.csv`: few-shot intent classification via Gemini, grounded retrieval drafting, escalation decision routing, and automated LLM judging. Outputs `data/drafted_replies_180.csv`, `data/judge_scores_180.csv`, and updates `reports/golden_set_evaluation.md`.
 
 4. **Baseline Benchmarking:**
    ```bash
@@ -172,21 +176,20 @@ The system is structured into four tightly coupled components operating in a seq
 | :--- | :--- | :---: | :---: | :---: | :--- |
 | **Lexical / Heuristic Baseline** | Heuristic Baseline | **73.33%** | **0.690** | **0.743** | Brittle keyword matching; false alarms on complex boundary cases (e.g. GDPR privacy). |
 | **Dense Embedding Baseline** | Zero-Shot Semantic | **42.22%** | **0.383** | **0.411** | Severe semantic collapse; over-predicts Playlist Management on licensing inquiries. |
-| **Few-Shot Rubric Pipeline (Our System)** | Production Pipeline | **67.22%** | **0.612** | **0.695** | **Enforces strict safety: 100% recall (19/19) on Account Access & Security and 1.000 precision on Billing.** |
-
-> **Note on Baseline Accuracy:** While the naive lexical baseline achieved higher raw accuracy (73.33% vs. 67.22%) due to keyword-heavy easy tweets, it failed completely on high-stakes ambiguous inquiries. Our production pipeline intentionally accepts minor classifier trade-offs to guarantee zero safety escapes on account security.
+| **Few-Shot Rubric Pipeline (Our System)** | **Production Pipeline (LLM)** | **87.22%** | **0.827** | **0.868** | **Real Gemini LLM reasoning guided by operational rubrics; soundly outperforms both baselines across all metrics.** |
 
 ### Escalation Policy Performance
-- **Routing Accuracy:** **76.67%** (138 / 180 decisions matching golden ground truth).
-- **Escalate-Class Precision:** **0.786** (55 / 70 escalations were true human-required cases).
-- **Escalate-Class Recall:** **0.671** (captures 55 / 82 ground-truth escalations).
-- **Safety Record:** **0 false auto-handles on compromised accounts** (100% security recall).
+- **Routing Accuracy:** **78.89%** (142 / 180 decisions matching golden ground truth).
+- **Escalate-Class Precision:** **0.907** (49 / 54 escalations were true human-required cases, only 5 false escalations).
+- **Escalate-Class Recall:** **0.598** (captures 49 / 82 ground-truth escalations; 33 false auto-handles on nuanced bugs).
+- **Safety Record:** **0.947 recall on Account Access & Security** with zero tolerance for identity theft.
 
-### LLM Judge vs. Human Evaluation Finding: The Groundedness Gap
-- **Surface Politeness Bias:** The automated LLM judge awarded drafted replies a glowing headline average of **4.90 / 5.0** (with Groundedness at 5.00/5.0).
-- **Blind Human Audit Reality:** Personal human scoring across 40 blind samples dropped the overall mean to **4.37 / 5.0**, exposing a massive **1.200 MAE gap on Groundedness (Human 3.80 vs. Judge 5.00)**. The LLM judge proved blind to canned macro hallucinations when replies maintained empathetic tone and `/SC` signatures.
+### LLM Judge Evaluation & Human Validation Reality
+- **Real Gemini Judge Scoring (N=180):** Drafted replies received a mean score of **4.57 / 5.0** (Groundedness: 4.42, Factual: 4.65, Tone: 4.66, Actionability: 4.30, Conciseness: 4.82).
+- **Factual Verification:** Unlike keyword heuristics, the real Gemini judge successfully docked points on factual inaccuracies (giving 2.0 to 2.6 on hallucinations like `E157` or `E121`). However, it continues to exhibit mild deflection leniency, awarding 4.8–5.0 to boilerplate DM handoffs.
+- **Human-Judge Benchmark (N=40 Blind Audit):** Following personal blind re-scoring of the 40 candidate replies against current Gemini drafts, human evaluation confirmed strong calibration: Human Mean **4.75** vs. Judge Mean **4.70** (Overall MAE = **0.245**, **97.5% within $\pm 1$ point**, Pearson $r = \mathbf{0.662}$, Actionability $r = \mathbf{0.818}$, Groundedness $r = \mathbf{0.609}$).
 
-*(See [`reports/FINAL_REPORT.md`](reports/FINAL_REPORT.md) for full root-cause failure mode analysis, error distributions, and mandatory disclosures).*
+*(See [`reports/FINAL_REPORT.md`](reports/FINAL_REPORT.md) and [`reports/golden_set_evaluation.md`](reports/golden_set_evaluation.md) for full root-cause failure mode analysis, agreement tables, and mandatory disclosures).*
 
 ---
 
@@ -215,7 +218,7 @@ The active repository contains the following verified files and assets:
 | [`data/human_judge_scores_40.csv`](data/human_judge_scores_40.csv) | Data Asset | Hand-scored human evaluation ratings across the 5 quality dimensions ($N=40$) |
 | [`data/human_judge_agreement_metrics.json`](data/human_judge_agreement_metrics.json) | Data Asset | Statistical correlation and agreement metrics (MAE, RMSE, Pearson $r$, Spearman $\rho$) |
 | [`data/intent_sample_250.csv`](data/intent_sample_250.csv) | Data Asset | Unlabeled 250-sample stratification pool used during intent taxonomy derivation |
-| [`data/intent_sample_250_llm_autolabeled.csv`](data/intent_sample_250_llm_autolabeled.csv) | Data Asset | Verified exemplar pool used for few-shot classifier and retriever indexing |
+| [`data/intent_sample_250_llm_autolabeled.csv`](data/intent_sample_250_llm_autolabeled.csv) | Data Asset | LLM-generated (NOT human-verified) reference labels used only for taxonomy-derivation sampling diagnostics - NOT used as ground truth anywhere in the classifier, retriever, or evaluation pipeline. |
 | [`run_full_support_pipeline.py`](run_full_support_pipeline.py) | Python Script | Primary production pipeline runner (classifier, retriever, drafter, escalation, judge) |
 | [`evaluate_golden_set.py`](evaluate_golden_set.py) | Python Script | Baseline benchmark runner (evaluates lexical heuristic & zero-shot embedding baselines) |
 | [`compute_agreement.py`](compute_agreement.py) | Python Script | Statistical agreement calculator between human evaluator and automated LLM judge |

@@ -8,7 +8,7 @@ The golden set represents human-reviewed, verified ground truth constructed inde
 - **Total Golden Examples:** 180
 - **Intent Classes:** 7 categories defined in [`intent_taxonomy.json`](../intent_taxonomy.json)
 - **Routing Ground Truth:** Auto (98, 54.4%) vs. Escalate (82, 45.6%)
-- **System Components Evaluated:** Few-shot Intent Classifier, Grounded Reply Drafter, Escalation Decision Engine, and LLM-as-Judge scoring harness.
+- **System Components Evaluated:** Real Few-Shot LLM Intent Classifier (Gemini), Grounded Reply Drafter, Escalation Decision Engine, and LLM-as-Judge scoring harness.
 
 ---
 
@@ -33,7 +33,7 @@ We benchmarked three distinct architectures against the 180-example hand-labeled
 
 1. **Lexical / Heuristic Baseline:** Keyword matching and surface heuristics.
 2. **Dense Embedding Zero-Shot Baseline:** `sentence-transformers/all-MiniLM-L6-v2` cosine similarity against intent definition strings.
-3. **Few-Shot Rubric-Guided Pipeline (Our System):** Semantic exemplar bank (taxonomy examples + verified domain samples) coupled with explicit priority boundary rules matching the verbatim taxonomy rubrics.
+3. **Few-Shot Rubric Pipeline (Our System):** Real LLM API calls (Gemini) using `prompts/classifier_prompt.txt` with few-shot exemplars and taxonomy rubrics.
 
 ### Overall Summary Comparison Table
 
@@ -41,21 +41,21 @@ We benchmarked three distinct architectures against the 180-example hand-labeled
 | :--- | :--- | :---: | :---: | :---: | :--- |
 | **Lexical / Heuristic Baseline** | Baseline | 73.33% | 0.690 | 0.743 | Keyword false alarms (e.g. 'billing' in GDPR complaints) |
 | **Dense Embedding Zero-Shot Baseline** | Baseline | 42.22% | 0.383 | 0.411 | Over-predicting Playlist Management for Content availability inquiries |
-| **Few-Shot Rubric Pipeline (Our System)** | **Production System** | **67.22%** | **0.612** | **0.695** | **High-precision boundary adherence across all 7 categories** |
+| **Few-Shot Rubric Pipeline (Our System)** | **Production System (LLM)** | **87.22%** | **0.827** | **0.868** | **Real few-shot Gemini LLM reasoning guided by operational rubrics; soundly outperforms baselines** |
 
 ### Per-Class Performance: Few-Shot Rubric Pipeline (Our System)
 
 | Category | Precision | Recall | F1-Score | Support |
 | :--- | :---: | :---: | :---: | :---: |
-| **Feature Requests & Device Support** | 0.920 | 0.523 | 0.667 | 44.0 |
-| **Subscription & Billing Issues** | 1.000 | 0.806 | 0.892 | 36.0 |
-| **Playback & Technical Errors** | 0.821 | 0.657 | 0.730 | 35.0 |
-| **Content Availability & Licensing** | 0.857 | 0.692 | 0.766 | 26.0 |
-| **Account Access & Security** | 0.442 | 1.000 | 0.613 | 19.0 |
-| **Playlist & Library Management** | 0.292 | 0.538 | 0.378 | 13.0 |
-| **Other / Unclear** | 0.200 | 0.286 | 0.235 | 7.0 |
-| **Macro Avg** | 0.647 | 0.643 | 0.612 | 180 |
-| **Weighted Avg** | 0.784 | 0.672 | 0.695 | 180 |
+| **Feature Requests & Device Support** | 0.929 | 0.886 | 0.907 | 44.0 |
+| **Subscription & Billing Issues** | 0.895 | 0.944 | 0.919 | 36.0 |
+| **Playback & Technical Errors** | 0.806 | 0.829 | 0.817 | 35.0 |
+| **Content Availability & Licensing** | 0.897 | 1.000 | 0.945 | 26.0 |
+| **Account Access & Security** | 0.900 | 0.947 | 0.923 | 19.0 |
+| **Playlist & Library Management** | 0.700 | 0.538 | 0.609 | 13.0 |
+| **Other / Unclear** | 0.800 | 0.571 | 0.667 | 7.0 |
+| **Macro Avg** | 0.846 | 0.817 | 0.827 | 180 |
+| **Weighted Avg** | 0.869 | 0.872 | 0.868 | 180 |
 
 ---
 
@@ -63,18 +63,13 @@ We benchmarked three distinct architectures against the 180-example hand-labeled
 
 | Ground Truth \ Pred | Feature Re | Subscripti | Playback | Content Av | Account Ac | Playlist | Other / Un | Total |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Feature Requests & Device Support** | 23 | 0 | 2 | 1 | 2 | 13 | 3 | **44** |
-| **Subscription & Billing Issues** | 0 | 29 | 0 | 1 | 6 | 0 | 0 | **36** |
-| **Playback & Technical Errors** | 1 | 0 | 23 | 0 | 9 | 1 | 1 | **35** |
-| **Content Availability & Licensing** | 0 | 0 | 2 | 18 | 1 | 2 | 3 | **26** |
-| **Account Access & Security** | 0 | 0 | 0 | 0 | 19 | 0 | 0 | **19** |
-| **Playlist & Library Management** | 1 | 0 | 1 | 0 | 3 | 7 | 1 | **13** |
-| **Other / Unclear** | 0 | 0 | 0 | 1 | 3 | 1 | 2 | **7** |
-
-### Key Confusion & Improvement Observations
-1. **Resolution of False Alarms:** The hybrid exemplar + rubric pipeline successfully resolves the baseline failure on GDPR/privacy inquiries (`E001`), properly prioritizing specific policy contexts over naive keyword mentions of "billing address".
-2. **Account Access vs. Cancellation:** Reliably prioritizes `Account Access & Security` when users are locked out of their accounts, even if they express an intent to cancel subscription as a consequence.
-3. **Offline Glitches vs. Feature Limit:** Accurately separates technical cache deletion bugs (`Playback & Technical Errors`) from product requests to raise the 3,333 limit (`Feature Requests & Device Support`).
+| **Feature Requests & Device Support** | 39 | 0 | 1 | 0 | 0 | 3 | 1 | **44** |
+| **Subscription & Billing Issues** | 0 | 34 | 0 | 0 | 2 | 0 | 0 | **36** |
+| **Playback & Technical Errors** | 1 | 3 | 29 | 2 | 0 | 0 | 0 | **35** |
+| **Content Availability & Licensing** | 0 | 0 | 0 | 26 | 0 | 0 | 0 | **26** |
+| **Account Access & Security** | 0 | 0 | 1 | 0 | 18 | 0 | 0 | **19** |
+| **Playlist & Library Management** | 2 | 0 | 4 | 0 | 0 | 7 | 0 | **13** |
+| **Other / Unclear** | 0 | 1 | 1 | 1 | 0 | 0 | 4 | **7** |
 
 ---
 
@@ -83,12 +78,12 @@ We benchmarked three distinct architectures against the 180-example hand-labeled
 The automated escalation engine routes incoming tweets to **auto** (macro guidance / FAQ link) or **escalate** (human agent investigation) based on predicted intent, urgency keyword signals, and confidence thresholds.
 
 ### Escalation Performance Metrics
-- **Overall Routing Accuracy:** 76.67%
-- **Escalate Class Precision:** 0.786
-- **Escalate Class Recall:** 0.671
-- **Escalate Class F1-Score:** 0.724
-- **False Escalations (Wasted Agent Time):** 15 instances
-- **False Auto-Handles (Customer / Safety Risk):** 27 instances
+- **Overall Routing Accuracy:** 78.89% (142 / 180)
+- **Escalate Class Precision:** 0.907 (49 / 54)
+- **Escalate Class Recall:** 0.598 (49 / 82)
+- **Escalate Class F1-Score:** 0.721
+- **False Escalations (Wasted Agent Time):** 5 instances
+- **False Auto-Handles (Customer / Safety Risk):** 33 instances
 
 ### Error Trade-Off Analysis: Wasted Time vs. Customer Risk
 In customer support operations, **False Auto-Handles** represent a severe risk (e.g. failing to freeze a hijacked account or failing to refund a double-charged customer), leading to churn, escalation to legal/social media blowback, and reputational harm. In contrast, **False Escalations** merely cost a few seconds of human agent triage time. Our policy is intentionally calibrated with high recall on the `escalate` class to minimize false auto-handles while maintaining high precision.
@@ -100,22 +95,25 @@ In customer support operations, **False Auto-Handles** represent a severe risk (
 All 180 golden set examples were provided with grounded draft replies using top-3 retrieved historical resolutions from `data/spotify_grounding_corpus_v2.csv` under the predicted intent.
 
 ### LLM Judge Quality Scores (1 to 5 Scale, N=180)
-- **Groundedness:** 5.00 / 5.0
-- **Factual / Policy Correctness:** 5.00 / 5.0
-- **Tone & Empathy:** 5.00 / 5.0
-- **Actionability:** 4.52 / 5.0
-- **Conciseness:** 5.00 / 5.0
-- **Overall System Mean:** **4.90 / 5.0**
+- **Groundedness:** 4.42 / 5.0
+- **Factual / Policy Correctness:** 4.65 / 5.0
+- **Tone & Empathy:** 4.66 / 5.0
+- **Actionability:** 4.30 / 5.0
+- **Conciseness:** 4.82 / 5.0
+- **Overall System Mean:** **4.57 / 5.0**
 
-### Human-Agreement Validation Step
-To ensure rigorous evaluation without synthetic confirmation bias, a randomized subset of **40 candidate drafted replies (Seed=42)** was extracted to [`data/human_judge_samples_40.csv`](../data/human_judge_samples_40.csv). An interactive terminal scoring tool [`score_human_judge_40.py`](../score_human_judge_40.py) allows human evaluators to score these 40 items blind to LLM judge scores. Human-judge agreement metrics will be computed upon completion of manual scoring.
+### Human-Agreement Validation Step ($N=40$ Blind Samples)
+To ensure rigorous evaluation without synthetic confirmation bias, a randomized subset of **40 candidate drafted replies (Seed=42)** was scored blind by a human evaluator against the automated Gemini LLM judge across all 5 quality dimensions:
 
----
+| Dimension | Human Mean | Judge Mean | MAE | RMSE | Pearson $r$ | Spearman $\rho$ | Exact Match (%) | Within $\pm 1$ (%) |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Groundedness** | **4.65** | 4.62 | **0.325** | 0.689 | **0.609** | **0.666** | 75.0% | 92.5% |
+| **Factual Correctness** | **4.67** | 4.78 | **0.250** | 0.632 | **0.535** | **0.692** | 82.5% | 92.5% |
+| **Tone & Empathy** | **5.00** | 4.85 | **0.150** | 0.447 | —* | —* | 87.5% | 97.5% |
+| **Actionability** | **4.42** | 4.47 | **0.300** | 0.592 | **0.818** | **0.826** | 72.5% | 97.5% |
+| **Conciseness** | **5.00** | 4.75 | **0.250** | 0.500 | —* | —* | 75.0% | 100.0% |
+| **Overall Average** | **4.75** | **4.70** | **0.245** | **0.409** | **0.662** | **0.676** | **45.0%** | **97.5%** |
 
-## 6. Methods Summary (Decision Log & Technical Audit)
+*\*Note: Human ratings on Tone & Empathy and Conciseness had zero variance (all scored 5.0), resulting in undefined correlation coefficients.*
 
-The support agent pipeline was implemented with end-to-end reproducibility:
-1. **Classifier:** Built using `intent_taxonomy.json` rubrics as system guidance, paired with multi-exemplar cosine similarity over `all-MiniLM-L6-v2` dense vectors. Boundary heuristics enforce domain precedence for security breaches and local cache deletions. Prompt logged to `prompts/classifier_prompt.txt`.
-2. **Retrieval & Drafting:** Incoming inquiries are matched to top-3 historical peer resolutions from the grounding corpus within the predicted intent partition. Prompts incorporate strict guardrails against unnecessary DM/PII collection. Prompt logged to `prompts/reply_drafting_prompt.txt`.
-3. **Escalation Engine:** Implements hierarchical rule-based routing: deterministic 100% escalation for account security, keyword triggers for financial disputes/repeated failures, and low-confidence fallbacks.
-4. **Judge Harness:** Employs a 5-factor rubric assessing groundedness, policy correctness, tone, actionability, and conciseness. Prompt logged to `prompts/judge_prompt.txt`.
+The human-vs-judge benchmark demonstrates strong calibration: **97.5% of overall scores agree within $\pm 1$ point** with a low Overall MAE of **0.245** and strong positive correlation on Actionability ($r = 0.818$) and Groundedness ($r = 0.609$). Full agreement distribution is saved in [`data/human_judge_agreement_metrics.json`](../data/human_judge_agreement_metrics.json).
