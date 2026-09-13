@@ -23,6 +23,16 @@ OUTPUT_GROUNDING_CSV = os.path.join(DATA_DIR, "spotify_grounding_corpus_v2.csv")
 OUTPUT_REPORT_TXT = os.path.join(REPORTS_DIR, "filter_comparison.txt")
 
 def main():
+    if not os.path.exists(INPUT_CSV):
+        print("=" * 80)
+        print(f"NOTICE: Raw Kaggle dataset '{INPUT_CSV}' not found in root directory.")
+        print("The pre-filtered deliverable datasets are already included in data/:")
+        print("  - data/spotify_grounding_corpus_v2.csv (26,085 grounding pairs)")
+        print("  - data/spotifycares_trusted_v2.csv (28,247 conversation threads)")
+        print("To re-run raw filtering from scratch, download twcs.csv from Kaggle and place it here.")
+        print("=" * 80)
+        sys.exit(0)
+
     print("Loading in_response_to_tweet_id mapping for SpotifyCares from twcs.csv...")
     t0 = time.time()
     spotify_in_resp = {}

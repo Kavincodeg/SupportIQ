@@ -28,6 +28,9 @@ $RECYCLE.BIN/
 # Logs
 *.log
 
+# Generated baseline evaluation output (not a committed deliverable)
+reports/golden_set_baselines.md
+
 # IDE
 .vscode/
 .idea/

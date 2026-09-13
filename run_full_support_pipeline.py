@@ -512,6 +512,15 @@ def run_llm_judge_gemini(df_drafted, client, model_name, batch_size=5):
 
 def prepare_human_scoring_tool(df_drafted, random_seed=42):
     print(f"\n--- Preparing Human Judge 40-Sample Tool (Fixed Seed={random_seed}) ---")
+    # GUARD: Do not overwrite an already-existing human_judge_samples_40.csv.
+    # If the file exists, the human has already completed blind scoring against those
+    # specific examples. Overwriting would desync data/human_judge_scores_40.csv from
+    # the samples file, corrupting the agreement benchmark.
+    if os.path.exists(HUMAN_SAMPLES_FILE):
+        print(f"[SKIPPED] {HUMAN_SAMPLES_FILE} already exists. Preserving locked-in human scoring sample.")
+        print(f"  To force regeneration, manually delete {HUMAN_SAMPLES_FILE} first.")
+        return
+
     random.seed(random_seed)
     sample_indices = sorted(random.sample(range(len(df_drafted)), 40))
     df_sample40 = df_drafted.iloc[sample_indices].copy()
@@ -641,8 +650,21 @@ All 180 golden set examples were provided with grounded draft replies using top-
 - **Conciseness:** {df_judge['conciseness'].mean():.2f} / 5.0
 - **Overall System Mean:** **{df_judge['overall_average'].mean():.2f} / 5.0**
 
-### Human-Agreement Validation Step
-To ensure rigorous evaluation without synthetic confirmation bias, a randomized subset of **40 candidate drafted replies (Seed=42)** was extracted to [`data/human_judge_samples_40.csv`](../data/human_judge_samples_40.csv). An interactive terminal scoring tool [`score_human_judge_40.py`](../score_human_judge_40.py) allows human evaluators to score these 40 items blind to LLM judge scores.
+### Human-Agreement Validation Step ($N=40$ Blind Samples)
+To ensure rigorous evaluation without synthetic confirmation bias, a randomized subset of **40 candidate drafted replies (Seed=42)** was scored blind by a human evaluator against the automated Gemini LLM judge across all 5 quality dimensions:
+
+| Dimension | Human Mean | Judge Mean | MAE | RMSE | Pearson $r$ | Spearman $\\rho$ | Exact Match (%) | Within $\\pm 1$ (%) |
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Groundedness** | **4.65** | 4.62 | **0.325** | 0.689 | **0.609** | **0.666** | 75.0% | 92.5% |
+| **Factual Correctness** | **4.67** | 4.78 | **0.250** | 0.632 | **0.535** | **0.692** | 82.5% | 92.5% |
+| **Tone & Empathy** | **5.00** | 4.85 | **0.150** | 0.447 | —* | —* | 87.5% | 97.5% |
+| **Actionability** | **4.42** | 4.47 | **0.300** | 0.592 | **0.818** | **0.826** | 72.5% | 97.5% |
+| **Conciseness** | **5.00** | 4.75 | **0.250** | 0.500 | —* | —* | 75.0% | 100.0% |
+| **Overall Average** | **4.75** | **4.70** | **0.245** | **0.409** | **0.662** | **0.676** | **45.0%** | **97.5%** |
+
+*\\*Note: Human ratings on Tone & Empathy and Conciseness had zero variance (all scored 5.0), resulting in undefined correlation coefficients.*
+
+The human-vs-judge benchmark demonstrates strong calibration: **97.5% of overall scores agree within $\\pm 1$ point** with a low Overall MAE of **0.245** and strong positive correlation on Actionability ($r = 0.818$) and Groundedness ($r = 0.609$). Full agreement distribution is saved in [`data/human_judge_agreement_metrics.json`](../data/human_judge_agreement_metrics.json).
 """
     with open(REPORT_FILE, "w", encoding="utf-8") as f:
         f.write(updated_report)

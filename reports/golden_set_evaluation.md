@@ -41,7 +41,7 @@ We benchmarked three distinct architectures against the 180-example hand-labeled
 | :--- | :--- | :---: | :---: | :---: | :--- |
 | **Lexical / Heuristic Baseline** | Baseline | 73.33% | 0.690 | 0.743 | Keyword false alarms (e.g. 'billing' in GDPR complaints) |
 | **Dense Embedding Zero-Shot Baseline** | Baseline | 42.22% | 0.383 | 0.411 | Over-predicting Playlist Management for Content availability inquiries |
-| **Few-Shot Rubric Pipeline (Our System)** | **Production System (LLM)** | **87.22%** | **0.827** | **0.868** | **Real few-shot Gemini LLM reasoning guided by operational rubrics; soundly outperforms baselines** |
+| **Few-Shot Rubric Pipeline (Our System)** | **Production System (LLM)** | **87.22%** | **0.827** | **0.868** | **Real few-shot LLM reasoning guided by operational rubrics** |
 
 ### Per-Class Performance: Few-Shot Rubric Pipeline (Our System)
 
@@ -78,9 +78,9 @@ We benchmarked three distinct architectures against the 180-example hand-labeled
 The automated escalation engine routes incoming tweets to **auto** (macro guidance / FAQ link) or **escalate** (human agent investigation) based on predicted intent, urgency keyword signals, and confidence thresholds.
 
 ### Escalation Performance Metrics
-- **Overall Routing Accuracy:** 78.89% (142 / 180)
-- **Escalate Class Precision:** 0.907 (49 / 54)
-- **Escalate Class Recall:** 0.598 (49 / 82)
+- **Overall Routing Accuracy:** 78.89%
+- **Escalate Class Precision:** 0.907
+- **Escalate Class Recall:** 0.598
 - **Escalate Class F1-Score:** 0.721
 - **False Escalations (Wasted Agent Time):** 5 instances
 - **False Auto-Handles (Customer / Safety Risk):** 33 instances
