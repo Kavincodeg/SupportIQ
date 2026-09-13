@@ -112,41 +112,7 @@ To ensure rigorous evaluation without synthetic confirmation bias, a randomized 
 
 ---
 
-## 6. Human-vs-Judge Agreement Validation (N=40 Blind Sample)
-
-To validate whether the automated LLM-as-Judge reliably mirrors human quality standards, an independent human evaluator scored a randomized subset of **40 drafted replies (Seed=42)** blind to the LLM judge's scores, using the identical 1-5 rubric across all 5 dimensions.
-
-### Quantitative Agreement Metrics (Human vs. LLM Judge)
-
-| Evaluation Dimension | Human Mean | Judge Mean | Mean Absolute Error (MAE) | Root Mean Squared Error (RMSE) | Exact Agreement (%) | Within ±1 Agreement (%) | Pearson Correlation ($r$) | Spearman Rank ($ho$) |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Groundedness** | 3.80 | 5.00 | 1.200 | 1.949 | 50.0% | 72.5% | — | — |
-| **Factual / Policy Correctness** | 4.35 | 5.00 | 0.650 | 1.095 | 60.0% | 77.5% | — | — |
-| **Tone & Empathy** | 4.95 | 5.00 | 0.050 | 0.224 | **95.0%** | **100.0%** | — | — |
-| **Actionability** | 3.75 | 4.70 | 0.950 | 1.643 | 60.0% | 72.5% | **0.505** | **0.582** |
-| **Conciseness** | 5.00 | 5.00 | **0.000** | **0.000** | **100.0%** | **100.0%** | — | — |
-| **Overall Mean Score** | **4.37** | **4.94** | **0.570** | **0.922** | **45.0%** | **77.5%** | **0.554** | **0.613** |
-
-*(Note: In dimensions where the LLM judge scored uniformly 5.0 across all samples, Pearson/Spearman correlation is mathematically undefined due to zero variance; MAE, RMSE, and agreement percentages provide the true divergence metric.)*
-
-### Key Human-vs-Judge Divergence Insights (Where Human Evaluation Excelled)
-
-The quantitative comparison reveals moderate-to-strong overall correlation (**$r = 0.554$, $ho = 0.613$, $p < 0.001$**), but qualitative inspection reveals a critical discrepancy between automated LLM judging and human inspection:
-
-1. **LLM Judge "Politeness / Form Bias":**
-   - The LLM judge exhibited a strong leniency bias toward surface form: whenever a drafted reply was polite, included agent initials (`/SC`), had no grammatical errors, and included a link, the judge awarded an uncritical `5 / 5`.
-2. **Human Penalization of Irrelevant Canned Macros:**
-   - In contrast, the human evaluator sharply penalized replies where the drafting pipeline emitted a generic macro that failed to address the specific issue:
-     - **E060** (Customer asked to listen on two devices simultaneously): Drafter emitted an account lockout macro (*"We'd love to help you get back into your account"*). Human scored **Groundedness = 1**, **Actionability = 1**, while the LLM judge gave 5.
-     - **E140** (Spanish audio tracks playing on English album): Drafter emitted a generic device restart/reinstall macro. Human scored **Groundedness = 1**, while the LLM judge gave 5.
-     - **E165** (Daily Mix rendering glitch): Drafter emitted a Discover Weekly refresh macro. Human scored **Groundedness = 1**, while the LLM judge gave 5.
-     - **E172** (Hashtag feature suggestion + forum permission bug): Drafter emitted a playlist organization macro. Human scored **Groundedness = 1**, while the LLM judge gave 5.
-3. **Operational Conclusion:**
-   - LLM-as-Judge is effective for monitoring high-level tone (95% exact agreement) and conciseness (100% agreement), but human calibration remains indispensable for detecting semantic mismatch when an agent applies the wrong macro to an acute edge case.
-
----
-
-## 7. Methods Summary (Decision Log & Technical Audit)
+## 6. Methods Summary (Decision Log & Technical Audit)
 
 The support agent pipeline was implemented with end-to-end reproducibility:
 1. **Classifier:** Built using `intent_taxonomy.json` rubrics as system guidance, paired with multi-exemplar cosine similarity over `all-MiniLM-L6-v2` dense vectors. Boundary heuristics enforce domain precedence for security breaches and local cache deletions. Prompt logged to `prompts/classifier_prompt.txt`.
